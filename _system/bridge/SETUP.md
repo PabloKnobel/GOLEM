@@ -14,20 +14,23 @@ so every device must start from an empty vault. About 45 minutes in total.
 - [ ] A4. Leave it empty. The VPS fills it in Part B.
 
 ## Part B — VPS (Hostinger, ~25 min, terminal)
-- [ ] B1. Log in as your normal (non-root) user. Install `git` and **Node.js 22 or later** (follow nodejs.org for your Linux).
-- [ ] B2. `npm install -g obsidian-headless` then check `ob --help` works.
+- [ ] B1. As root: `apt update && apt -y upgrade && reboot`. Then `adduser pablo && usermod -aG sudo pablo && su - pablo`.
+  As pablo (Ubuntu 24.04): `curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -` then `sudo apt-get install -y nodejs git`.
+  Then `sudo loginctl enable-linger pablo` and `echo 'export XDG_RUNTIME_DIR=/run/user/$(id -u)' >> ~/.bashrc && source ~/.bashrc` (needed for `systemctl --user` after `su`).
+- [ ] B2. `sudo npm install -g obsidian-headless` then check `ob --help` works.
 - [ ] B3. Deploy key for GitHub:
   `ssh-keygen -t ed25519 -f ~/.ssh/golem_deploy -N ""` then `cat ~/.ssh/golem_deploy.pub`.
   On github.com → GOLEM → Settings → Deploy keys → Add → paste → **tick "Allow write access"**.
-- [ ] B4. Get the scripts and install:
-  `git clone -c core.sshCommand="ssh -i ~/.ssh/golem_deploy" git@github.com:PabloKnobel/GOLEM.git /tmp/golem-setup`
+- [ ] B4. Get the scripts and install (paste one line at a time):
+  `export GIT_SSH_COMMAND="ssh -i ~/.ssh/golem_deploy -o IdentitiesOnly=yes"`
+  `git clone git@github.com:PabloKnobel/GOLEM.git /tmp/golem-setup`
   `bash /tmp/golem-setup/_system/bridge/install.sh git@github.com:PabloKnobel/GOLEM.git`
 - [ ] B5. Link the vault folder to Obsidian Sync (official commands):
   `cd ~/golem/vault && ob login && ob sync-list-remote`
   `ob sync-setup --vault "GOLEM" --device-name vps`
   `ob sync` (one-time) → on the laptop, check the GOLEM vault now shows `Home.md`, `wiki/`, etc.
 - [ ] B6. Start the services: `systemctl --user enable --now golem-sync.service golem-bridge.timer`
-- [ ] B7. Check: `systemctl --user status golem-sync.service` and, after 5 minutes, `cat ~/golem/state/bridge.log`.
+- [ ] B7. Check: `systemctl --user status golem-sync.service`; run the bridge now with `systemctl --user start golem-bridge.service`; `tail ~/golem/state/bridge.log` should end with `ok`.
 - [ ] B8. Hardening (if not done): SSH key login only, no password login; automatic security updates.
 
 Do **not** also run the Obsidian desktop app against `~/golem/vault` on the VPS (Obsidian warns that two sync methods on one device cause conflicts).
