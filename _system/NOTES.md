@@ -1,22 +1,24 @@
 # NOTES (session handoff)
 
-## Current task
-Setup of GOLEM (Pablo's steps in `_system/bridge/SETUP.md`, Parts A–D), then the RyC pilot.
+## Current state (2026-11-15)
+- Live: Obsidian Sync ↔ VPS bridge ↔ GitHub (tested both ways). Vault has 22 papers (all read in full),
+  35 findings, 25 concepts, 6 entities, 4 portals, 15 my-work pages.
+- Scheduled tasks: daily ingest ~01:41 New York (all inbox items, commit per item, early exit if empty);
+  weekly digest + lint Sundays 19:47 Berlin.
+- Design doc: https://claude.ai/artifact/KMCdyr2Gu7NgcZZaWpexW8
 
-## Done (2026-11-15)
-- Design doc: https://claude.ai/artifact/KMCdyr2Gu7NgcZZaWpexW8 (decisions: interface A; own material only).
-- Repo scaffold: schema (`CLAUDE.md`), templates, Home, RyC hub, green space quality portal.
-- `_system/scripts/convert.py` tested on synthetic PDF/PPTX/RIS (incl. slide images, dedup).
-- VPS bridge (`_system/bridge/`) tested locally with stubs: two-way mirror, conflict → alert + pause.
-- Drive folder "Second Brain Inbox" (id `1LF3pYxJCMScIRXFXAdCKqeDg91zdceZS`).
+## Decided
+- Interface A (cloud Claude + VPS bridge); only Pablo's own + published material for now.
+- Concept page for every main exposure/outcome; promotion at ≥5 mentions (any mention); co-first role;
+  figure-only estimates via `estimate_in`; entity pages for datasets of active projects.
 
 ## Tried and rejected
-- Creating the GitHub repo from a Claude session: not allowed (sessions are bound to existing repos); Pablo created `GOLEM`.
-- CrossRef/OpenAlex from the shell: blocked by the proxy until Pablo allows the domains (SETUP.md D1).
+- Creating GitHub repos from a Claude session (not allowed). WebFetch inside background agents (no approvals).
+- CrossRef/OpenAlex from the shell: blocked until Pablo allows the domains.
 
-## Next
-1. Pablo: SETUP.md Parts A–D; tell Claude where EndNote PDFs live.
-2. Pilot step 2: file 5 core RyC papers together; tune templates and schema.
-3. Then create scheduled tasks: nightly ingest, weekly digest + lint.
-4. Before the full backlog: check Obsidian Sync and GitHub storage for original PDFs.
-5. Untested: real `ob`/systemd on the VPS (SETUP B7), AgentMail email capture.
+## Open
+1. Pablo: Dataview plugin, phone, VPS hardening (unattended-upgrades, SSH), allow api.crossref.org +
+   api.openalex.org, Obsidian Sync file types (PDF + other), delete mine/Test From PC, EndNote PDF location.
+2. Next lint: verify metadata of all 22 papers once domains are allowed; create Barcelona Health Survey entity.
+3. Sources with flagged inconsistencies: 12 papers carry `> [!uncertain]` callouts — Pablo to review.
+4. Watch daily-run token use for the first week.
