@@ -45,5 +45,7 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 
 ## Open questions
 - Standardized green space quality assessment (aesthetics, biodiversity, walkability, facilities, safety, events) is still missing in epidemiologic studies ([[nieuwenhuijsen2017fifty]], p. 69).
+- Pathway-specific exposure metrics, and data on quality, access and use rather than presence alone, are recommended; candidates include Sentinel-2, street view imagery with deep learning, and species richness ([[markevych2017exploring]], p. 306, 309, 311).
 
 ## See also
+- [[green-space-health-pathways]] · [[exposome-research]]

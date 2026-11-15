@@ -26,6 +26,7 @@ superseded_by: ""
 - Shannon diversity computed from species encounter rates on complete eBird checklists, then modeled as a latent tract × year surface with a Gamma GAM to correct uneven observer effort ([[knobel2026residential]], p. 4–6).
 - Raw eBird data cluster near roads, trails and wealthier, predominantly white neighborhoods, so raw counts give biased exposure estimates ([[knobel2026residential]], p. 4).
 - Coarse units (ZIP code, county) mostly reflect general environmental quality rather than what people encounter near home ([[knobel2026residential]], p. 3).
+- Species richness and abundance, and species and land cover diversity, were proposed as expanded greenspace metrics adapted from urban ecosystem service studies ([[markevych2017exploring]], p. 309).
 
 ## Evidence
 - Higher residential bird Shannon diversity was associated with lower frailty severity in older adults: −1.4% expected deficit count per IQR (95% CI −2.1 to −0.8) → [[bird-biodiversity--frailty-index--knobel2026residential]].
@@ -45,3 +46,4 @@ superseded_by: ""
 ## References
 - Knobel, P., et al. (2026). Residential bird biodiversity and frailty deficit accumulation [Preprint]. medRxiv.
 - Nieuwenhuijsen, M. J., et al. (2017). Fifty shades of green: Pathway to healthy urban living. *Epidemiology, 28*(1), 63–71.
+- Markevych, I., et al. (2017). Exploring pathways linking greenspace to health: Theoretical and methodological guidance. *Environmental Research, 158*, 301–317.

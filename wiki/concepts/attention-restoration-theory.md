@@ -32,12 +32,15 @@ superseded_by: ""
 - Kaplan argues that directed-attention depletion is a cause of stress, so stress and attentional fatigue are often confounded in experiments ([[kaplan1995restorative]], p. 176–179).
 - A later review lists restoration and stress reduction as the most consistent pathways linking green space and health ([[nieuwenhuijsen2017fifty]], p. 67).
 - Birdsong and natural soundscapes have been linked to attention restoration in experimental studies cited by [[knobel2026residential]] (p. 9–10); these are secondhand.
+- By 2017 no experiment had tested the respective contributions of being away, fascination, extent and compatibility to a standardized restorative outcome ([[markevych2017exploring]], p. 305).
+- The antecedent conditions of ART (directed attention fatigue) and stress reduction theory (stress) may not be practically separable over health-relevant timeframes ([[markevych2017exploring]], p. 305).
 
 ## Pablo's framing
 - Used as a plausible mechanism for the bird biodiversity–frailty association in [[2026-preprint-bird-biodiversity-frailty]].
 
 ## Open questions
 - Claude's reading: which measurable attributes of green space quality map onto the four components is not settled by the sources in the vault so far.
+- How frequency, duration, quality and type of encounter contribute to restoration is not addressed by research to date ([[markevych2017exploring]], p. 305).
 
 ## See also
 - part_of: [[green-space-health-pathways]] · related: [[bird-biodiversity]]
@@ -46,3 +49,4 @@ superseded_by: ""
 - Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology, 15*(3), 169–182.
 - Nieuwenhuijsen, M. J., Khreis, H., Triguero-Mas, M., Gascon, M., & Dadvand, P. (2017). Fifty shades of green: Pathway to healthy urban living. *Epidemiology, 28*(1), 63–71.
 - Knobel, P., et al. (2026). Residential bird biodiversity and frailty deficit accumulation [Preprint]. medRxiv.
+- Markevych, I., et al. (2017). Exploring pathways linking greenspace to health: Theoretical and methodological guidance. *Environmental Research, 158*, 301–317.

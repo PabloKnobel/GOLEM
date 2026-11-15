@@ -42,6 +42,8 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 
 ## Open questions
 - Why the bird diversity–frailty association fades after age 75; the authors propose reduced life-space mobility ([[knobel2026residential]], p. 10).
+- Environmental influences on biological aging beyond smoking and obesity are poorly understood ([[kennedy2014geroscience]], p. 712); social factors explain more variance in aging outcomes than measured biological markers ([[crimmins2020social]], p. 7).
 
 ## See also
 - [[urban-green-space-quality]]
+- [[geroscience]] · [[social-hallmarks-of-aging]] · [[exposome-research]]

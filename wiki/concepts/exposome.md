@@ -1,0 +1,47 @@
+---
+type: concept
+title: "Exposome"
+aliases: [exposome paradigm, total exposure, external exposome, urban exposome]
+kind: theory
+related: ["[[social-exposome]]", "[[green-space-health-pathways]]"]
+part_of: []
+projects: []
+portals: ["[[exposome-research]]"]
+tags: [concept]
+created: 2026-11-15
+updated: 2026-11-15
+last_verified: 2026-11-15
+confidence: high
+generated: true
+reviewed: false
+superseded_by: ""
+---
+
+**Lead.** The exposome is the totality of non-genetic exposures over the life course, proposed by Wild as the environmental counterpart to the genome to push exposure measurement toward the precision of genotyping ([[wild2005complementing]], p. 1848). Later work argues the concept has been applied mostly to biological, chemical and physical exposures and has neglected the social domain ([[gudimindermann2023integrating]], p. 2).
+
+> [!info] Infobox
+> **Kind:** theory / research paradigm · **Coined by:** C. P. Wild (2005) · **Typical measures:** exposure biomarkers, omics, questionnaires, geolocation and personal sensing · **Key sources:** [[wild2005complementing]], [[gudimindermann2023integrating]]
+
+## Definition and measurement
+- "At its most complete, the exposome encompasses life-course environmental exposures (including lifestyle factors), from the prenatal period onwards"; it is "highly variable and dynamic" ([[wild2005complementing]], p. 1848).
+- Wild saw even a partial, targeted exposome as useful, combining biomarkers with refined questionnaires, ideally in prospective cohorts with repeat sampling ([[wild2005complementing]], p. 1848).
+- Candidate omics tools (transcriptomics, proteomics, metabolomics) were unproven for exposure assessment in 2005 ([[wild2005complementing]], p. 1848–1849).
+- Later methods named for exposome studies: geolocation, portable and personal sensing, participatory methods, network science ([[gudimindermann2023integrating]], p. 13).
+- An integrated view splits the external exposome into a social and a physical exposome, with the internal exposome as mediator ([[gudimindermann2023integrating]], p. 15, Fig. 3).
+
+## Evidence
+- Exposome reviews and commentaries far outnumber original exposome studies (Haddad et al. 2019, secondhand via [[gudimindermann2023integrating]], p. 13).
+- Gudi-Mindermann et al. argue that treating social variables only as confounders is problematic in exposome designs, where exposures are interrelated ([[gudimindermann2023integrating]], p. 14).
+
+## Pablo's framing
+- (none filed yet)
+
+## Open questions
+- Claude's reading: how green space quality and biodiversity metrics fit as components of an urban exposome is not addressed by the sources in the vault so far.
+
+## See also
+- [[social-exposome]] · [[exposome-research]]
+
+## References
+- Wild, C. P. (2005). Complementing the genome with an "exposome": The outstanding challenge of environmental exposure measurement in molecular epidemiology. *Cancer Epidemiology, Biomarkers & Prevention, 14*(8), 1847–1850.
+- Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
