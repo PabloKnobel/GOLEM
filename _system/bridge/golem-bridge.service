@@ -1,0 +1,7 @@
+[Unit]
+Description=GOLEM: mirror vault <-> GitHub
+After=network-online.target golem-sync.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/flock -n %h/golem/state/bridge.lock %h/golem/bridge.sh

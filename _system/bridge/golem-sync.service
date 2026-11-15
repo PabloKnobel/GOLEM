@@ -1,0 +1,14 @@
+[Unit]
+Description=GOLEM: Obsidian headless sync (continuous)
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/golem/vault
+# bash -lc so the PATH from your login shell (Node 22 / npm global bin) is used
+ExecStart=/bin/bash -lc 'exec ob sync --continuous'
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=default.target
