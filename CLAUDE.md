@@ -87,11 +87,11 @@ generated: true, reviewed: false, superseded_by`.
 - Every page must have at least one inbound link (portal, project hub or concept). Orphans → lint.
 
 ## 7. Operations
-### Ingest (nightly, or "ingest now")
+### Ingest (daily ~2 AM New York time, or "ingest now")
 0. `git pull`. Read this file, `_system/NOTES.md`, `_system/index.md`, last 30 lines of `_system/log.md`.
 1. List `00_inbox/` and the Drive folder "Second Brain Inbox" (id `1LF3pYxJCMScIRXFXAdCKqeDg91zdceZS`);
-   download Drive items into `00_inbox/`, then move them to a "processed" subfolder in Drive. Process at most 10 items per run;
-   oldest first. Leave the rest; the backlog count goes in the log.
+   download Drive items into `00_inbox/`, then move them to a "processed" subfolder in Drive. Process ALL items, oldest first,
+   committing and pushing after each; if a run must stop early, log the backlog count.
 2. Per item: screen (§2 hard rules) → convert with `_system/scripts/convert.py` → save original +
    `.md` text in `raw/<type>/` → record sha256 in `_system/manifest.csv`.
    Same hash already in manifest → skip as duplicate.
