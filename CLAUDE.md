@@ -123,5 +123,6 @@ words inside a wiki page; never edit), `> [!todo]` (missing PDF, missing page nu
 ## 10. Git
 - Work only on `main`. `git pull --rebase` before writing; small commits; never force-push.
 - Never commit `.obsidian/` (Obsidian Sync handles settings). Never commit secrets.
-- The VPS bridge mirrors this repo ↔ Obsidian Sync every 5 minutes. Merge conflict → stop,
-  write `_system/CONFLICT.md` describing it, and flag it in the next digest.
+- The VPS bridge mirrors this repo ↔ Obsidian Sync every 5 minutes. Your own push/pull conflict → stop,
+  write `_system/BRIDGE-ALERT.md` describing it (same file the VPS bridge uses), and flag it in the digest.
+  If `_system/BRIDGE-ALERT.md` exists at session start: report it first; don't write to the vault until Pablo clears it.
