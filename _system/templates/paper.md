@@ -6,6 +6,9 @@ aliases: []
 authors: []
 year:
 journal: ""
+volume: ""
+issue: ""
+pages: ""
 doi: ""
 endnote_id: ""
 apa: ""
