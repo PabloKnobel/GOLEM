@@ -44,6 +44,6 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 - [[ryc-2026]]
 
 ## Open questions
-- (Filled by Claude from the evidence; labeled as Claude's reading.)
+- Standardized green space quality assessment (aesthetics, biodiversity, walkability, facilities, safety, events) is still missing in epidemiologic studies ([[nieuwenhuijsen2017fifty]], p. 69).
 
 ## See also

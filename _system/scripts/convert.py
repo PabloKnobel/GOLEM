@@ -62,11 +62,15 @@ def append_manifest(path: Path, row: dict):
 
 
 def convert_pdf(src: Path):
-    import pymupdf  # installed with pymupdf4llm
-    import pymupdf4llm
+    import contextlib, io
+    with contextlib.redirect_stdout(io.StringIO()):  # imports print parser notes
+        import pymupdf  # installed with pymupdf4llm
+        import pymupdf4llm
     doc = pymupdf.open(src)
     pages = doc.page_count
-    md = pymupdf4llm.to_markdown(str(src), page_chunks=True)
+    import contextlib, io
+    with contextlib.redirect_stdout(io.StringIO()):  # library prints parser notes to stdout
+        md = pymupdf4llm.to_markdown(str(src), page_chunks=True)
     out, ocr_pages = [], []
     for i, chunk in enumerate(md):
         text = chunk.get("text", "")
