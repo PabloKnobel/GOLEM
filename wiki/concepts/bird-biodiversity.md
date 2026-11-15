@@ -33,6 +33,7 @@ superseded_by: ""
 - The association was strongest at ages 65–74 → [[bird-biodiversity--frailty-index--knobel2026residential-by-age]].
 - Studies cited by [[knobel2026residential]] (p. 2, 9) link bird richness or diversity to life expectancy, life satisfaction and self-rated mental health (Chen 2023; Methorst 2021; Buxton 2024). Secondhand; not yet in the vault.
 - Distinct from the "biodiversity hypothesis" of microbiota and immune function ([[nieuwenhuijsen2017fifty]], p. 67).
+- Animal biodiversity was included in only 3 of 15 multi-dimensional green space quality audit tools reviewed in 2019 ([[knobel2019systematic]], p. 5, Table 4).
 
 ## Pablo's framing
 - "A bioindicator of underlying environmental quality shaped by modifiable urban design" → [[2026-preprint-bird-biodiversity-frailty]].

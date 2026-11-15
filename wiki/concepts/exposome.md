@@ -32,16 +32,20 @@ superseded_by: ""
 ## Evidence
 - Exposome reviews and commentaries far outnumber original exposome studies (Haddad et al. 2019, secondhand via [[gudimindermann2023integrating]], p. 13).
 - Gudi-Mindermann et al. argue that treating social variables only as confounders is problematic in exposome designs, where exposures are interrelated ([[gudimindermann2023integrating]], p. 14).
+- A noise–dementia meta-analysis calls for exposome approaches to disentangle noise from co-occurring air pollution, heat and road proximity in urban settings ([[hwang2025comprehensive]], p. 8).
 
 ## Pablo's framing
 - (none filed yet)
+- [[2025-paper-noise-dementia-meta-analysis]]: "exposomics offers a more holistic and policy-relevant strategy for identifying environmental drivers of dementia" (p. 8).
 
 ## Open questions
 - Claude's reading: how green space quality and biodiversity metrics fit as components of an urban exposome is not addressed by the sources in the vault so far.
 
 ## See also
 - [[social-exposome]] · [[exposome-research]]
+- [[urban-environmental-hazards]] · [[dementia]]
 
 ## References
 - Wild, C. P. (2005). Complementing the genome with an "exposome": The outstanding challenge of environmental exposure measurement in molecular epidemiology. *Cancer Epidemiology, Biomarkers & Prevention, 14*(8), 1847–1850.
 - Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
+- Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.

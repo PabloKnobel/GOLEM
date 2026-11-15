@@ -47,3 +47,4 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 ## See also
 - [[urban-green-space-quality]]
 - [[geroscience]] · [[social-hallmarks-of-aging]] · [[exposome-research]]
+- [[urban-environmental-hazards]] · [[dementia]]

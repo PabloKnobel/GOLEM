@@ -40,9 +40,13 @@ superseded_by: ""
 - Adverse pathways to weigh: allergenic pollen, disease vectors, crime or fear of crime, and green gentrification ([[markevych2017exploring]], p. 303).
 - Benefits were stronger for low-SES groups in several studies but not in others; gender and age modification is mixed (secondhand via [[markevych2017exploring]], p. 310).
 - A social exposome framework separates exposure differentials from differential vulnerability (social effect modification) as distinct equity mechanisms ([[gudimindermann2023integrating]], p. 14).
+- Measures should match pathways: presence may suffice for air quality, whereas physical activity requires green space perceived as usable, accessible, inclusive or safe ([[knobel2021associations]], p. 2).
+- In Philadelphia, perceived park access was protective mainly in higher-poverty tracts and tree canopy mainly in low-poverty and low % non-Hispanic Black tracts, though without statistical evidence of modification ([[knobel2021associations]], p. 4, 7).
+- Quality dimensions (amenities, incivilities, biodiversity, accessibility) are proposed to act on several pathways simultaneously ([[knobel2019systematic]], p. 2).
 
 ## Pablo's framing
 - (none filed yet)
+- [[2021-paper-greenness-cvd-philadelphia]] and [[2019-paper-green-space-quality-tools-review]]: Pablo's pathway-matched measurement and multi-dimensional quality arguments.
 
 ## Open questions
 - How much each pathway contributes, and which green space attributes drive each, remain open ([[nieuwenhuijsen2017fifty]], p. 69).
@@ -51,9 +55,12 @@ superseded_by: ""
 ## See also
 - [[attention-restoration-theory]] · [[bird-biodiversity]]
 - [[markevych2017exploring]] · [[social-exposome]]
+- [[green-prescription]] · [[perceived-green-space-access]] · [[green-space-quality-assessment]]
 
 ## References
 - Nieuwenhuijsen, M. J., Khreis, H., Triguero-Mas, M., Gascon, M., & Dadvand, P. (2017). Fifty shades of green: Pathway to healthy urban living. *Epidemiology, 28*(1), 63–71.
 - Knobel, P., et al. (2026). Residential bird biodiversity and frailty deficit accumulation [Preprint]. medRxiv.
 - Markevych, I., et al. (2017). Exploring pathways linking greenspace to health: Theoretical and methodological guidance. *Environmental Research, 158*, 301–317.
 - Gudi-Mindermann, H., et al. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
+- Knobel, P., et al. (2021). Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis. *Environmental Research, 197*, Article 110990.
+- Knobel, P., Dadvand, P., & Maneja-Zaragoza, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. *Health & Place, 59*, Article 102198.
