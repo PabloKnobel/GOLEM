@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Air pollution"
-aliases: [ambient air pollution, PM2.5, fine particulate matter, NO2, nitrogen dioxide, traffic-related air pollution]
+aliases: [ambient air pollution, PM2.5, fine particulate matter, NO2, nitrogen dioxide, traffic-related air pollution, PM2.5 components, source-apportioned PM2.5, extreme air pollution events]
 kind: exposure
 related: ["[[ambient-temperature]]", "[[environmental-noise]]"]
 part_of: []
@@ -24,15 +24,23 @@ superseded_by: ""
 
 ## Definition and measurement
 - Daily 1-km PM2.5 from gradient boosting with aerosol optical depth, meteorology and land use; NO2 from a hybrid ensemble (XGBoost, random forest, geostatistics, remote sensing) ([[wu2025air]], p. 2).
+- Daily 1-km PM2.5 for the New York metro from XGBoost with satellite AOD and land use, RMSE 3.11 µg/m³ in spatial cross-validation ([[knobel2024association]], p. 89).
+- 14 PM2.5 components from 50-m urban super-learned models were factored by non-negative matrix factorization into five source categories (soil and crustal dust; heavy fuel oil and industrial; metal processing industry and agricultural; coal and oil combustion and biomass burning; motor vehicle) ([[knobel2023socioeconomic]], p. 2–3).
 
 ## Evidence
 - PM2.5: +0.311% HbA1c per 1 µg/m³ in Mexico City children, adjusting for NO2 and temperature ([[wu2025air]], p. 3) → [[pm25--hba1c--wu2025air]]; larger at older ages → [[pm25--hba1c--wu2025air-by-age]].
 - NO2: no association with HbA1c ([[wu2025air]], p. 3) → [[no2--hba1c--wu2025air]].
 - In noise–dementia studies, four of seven adjusted for air pollution and three examined joint effects ([[hwang2025comprehensive]], p. 8).
 - Greenspace does not substantially filter air pollution and can raise ozone ([[markevych2017exploring]], p. 303).
+- PM2.5 6-month mean: +0.78 mg/dL glucose and +1.67 mg/dL total cholesterol per IQR in WTC responders; 1-week windows null ([[knobel2024association]], p. 90–91) → [[pm25--glucose--knobel2024association]], [[pm25--total-cholesterol--knobel2024association]].
+- Extreme event: high WTC disaster exposure (2001) associated with +0.82 mg/dL glucose, independent of later PM2.5 ([[knobel2024association]], p. 91) → [[wtc-exposure--glucose--knobel2024association]].
+- PM2.5–glucose association much larger with diabetes ([[knobel2024association]], p. 91) → [[pm25--glucose--knobel2024association-by-diabetes]].
+- Exposure disparities: higher PM2.5 and several source categories in urban US ZIP codes with more non-Hispanic Black residents and lower SES; coal/oil/biomass PM2.5 inversely associated ([[knobel2023socioeconomic]], p. 3) → [[neighborhood-racial-composition--pm25-sources--knobel2023socioeconomic]], [[neighborhood-ses--pm25-sources--knobel2023socioeconomic]].
 
 ## Pablo's framing
 - [[2025-paper-air-pollution-temperature-hba1c-children]]: exposures "do not present in isolation" (p. 2).
+- [[2024-paper-wtc-air-pollution-glucose-lipids]]: extreme events as a climate-relevant exposure, WTC compared to wildfires (p. 88).
+- [[2023-paper-pm25-sources-disparities]]: sources, not only mass, drive disparities (p. 2).
 
 ## Open questions
 - Source-specific PM2.5 effects ([[wu2025air]], p. 5).
@@ -44,3 +52,5 @@ superseded_by: ""
 - Wu, J., et al. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. *Ecotoxicology and Environmental Safety, 307*, Article 119424.
 - Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.
 - Markevych, I., et al. (2017). Exploring pathways linking greenspace to health: Theoretical and methodological guidance. *Environmental Research, 158*, 301–317.
+- Knobel, P., Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels: The role of an extreme air pollution event alongside 2 decades of moderate exposure. *American Journal of Epidemiology, 193*(1), 87–95.
+- Knobel, P., Hwang, I., Castro, E., Sheffield, P., Holaday, L., Shi, L., Amini, H., Schwartz, J., & Yitshak Sade, M. (2023). Socioeconomic and racial disparities in source-apportioned PM2.5 levels across urban areas in the contiguous US, 2010. *Atmospheric Environment, 303*, Article 119753.

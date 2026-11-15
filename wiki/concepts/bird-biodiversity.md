@@ -34,6 +34,7 @@ superseded_by: ""
 - Studies cited by [[knobel2026residential]] (p. 2, 9) link bird richness or diversity to life expectancy, life satisfaction and self-rated mental health (Chen 2023; Methorst 2021; Buxton 2024). Secondhand; not yet in the vault.
 - Distinct from the "biodiversity hypothesis" of microbiota and immune function ([[nieuwenhuijsen2017fifty]], p. 67).
 - Animal biodiversity was included in only 3 of 15 multi-dimensional green space quality audit tools reviewed in 2019 ([[knobel2019systematic]], p. 5, Table 4).
+- RECITAL includes a bird biodiversity dimension scored by order presence; in Barcelona its alpha was 0.4 (0.17, 0.58) and item ICCs ranged 0.51–0.94, with three orders lacking variability for ICC ([[knobel2021development]], p. 4, 6).
 
 ## Pablo's framing
 - "A bioindicator of underlying environmental quality shaped by modifiable urban design" → [[2026-preprint-bird-biodiversity-frailty]].
@@ -48,3 +49,4 @@ superseded_by: ""
 - Knobel, P., et al. (2026). Residential bird biodiversity and frailty deficit accumulation [Preprint]. medRxiv.
 - Nieuwenhuijsen, M. J., et al. (2017). Fifty shades of green: Pathway to healthy urban living. *Epidemiology, 28*(1), 63–71.
 - Markevych, I., et al. (2017). Exploring pathways linking greenspace to health: Theoretical and methodological guidance. *Environmental Research, 158*, 301–317.
+- Knobel, P., Dadvand, P., Alonso, L., Costa, L., Español, M., & Maneja, R. (2021). Development of the urban green space quality assessment tool (RECITAL). *Urban Forestry & Urban Greening, 57*, Article 126895.

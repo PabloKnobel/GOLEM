@@ -52,3 +52,4 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 ## See also
 - [[green-space-health-pathways]] · [[exposome-research]]
 - [[green-space-quality-assessment]] · [[ndvi]] · [[perceived-green-space-access]] · [[green-prescription]]
+- [[sex-and-gender-effect-modification]] · [[recital]]

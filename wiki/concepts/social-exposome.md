@@ -31,9 +31,11 @@ superseded_by: ""
 ## Evidence
 - Conceptual only so far; empirical validation was planned in the Equal-Life project ([[gudimindermann2023integrating]], p. 16).
 - Exposure differentials (socially patterned exposure) and differential vulnerability (social effect modification) are kept as distinct mechanisms ([[gudimindermann2023integrating]], p. 14).
+- First empirical use in the vault: the four CDC SVI themes were modeled as a mixture "from a social exposome perspective" for biological aging in older New Yorkers ([[knobel2025social]], p. 241, 243) → [[social-vulnerability--phenotypic-age-acceleration--knobel2025social]].
 
 ## Pablo's framing
 - (none filed yet)
+- [[2025-paper-svi-biological-aging-nyc]]: social environment facets are "always present simultaneously" yet usually studied independently (p. 241).
 
 ## Open questions
 - Claude's reading: the framework is centered on children and young people (Equal-Life); its fit to aging populations is untested in the vault's sources. [[social-hallmarks-of-aging]] is the closest aging-specific analogue.
@@ -43,3 +45,4 @@ superseded_by: ""
 
 ## References
 - Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
+- Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*, 240–249.

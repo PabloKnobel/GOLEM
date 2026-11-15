@@ -24,6 +24,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[bird-biodiversity]] — concept — bird species diversity as a nature-quality exposure
 - [[cardiometabolic-health]] — concept — obesity, hypertension, diabetes, HbA1c outcomes
 - [[dementia]] — concept — Alzheimer's disease and related dementias (ADRD)
+- [[differential-vulnerability]] — concept — exposure differentials vs differential vulnerability (equity mechanisms)
 - [[environmental-noise]] — concept — residential/transportation noise exposure and models
 - [[exposome]] — concept — totality of life-course non-genetic exposures (Wild)
 - [[frailty-index]] — concept — deficit-accumulation frailty, incl. VA-FI
@@ -33,18 +34,25 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[green-space-quality-assessment]] — concept — multi-dimensional audit tools for green space quality
 - [[ndvi]] — concept — satellite greenness index; cannot capture quality
 - [[perceived-green-space-access]] — concept — resident-reported access to usable green/outdoor space
+- [[phenotypic-age]] — concept — PhenoAge and PhenoAgeAccel, EHR-feasible biological age
+- [[sex-and-gender-effect-modification]] — concept — sex vs gender differences in environment–health associations
 - [[social-exposome]] — concept — social environment within the exposome; equity framework
 - [[social-hallmarks-of-aging]] — concept — social causes of multiple aging outcomes (Crimmins)
 
 ## Papers
 - [[adewuyi2023health]] — paper — Adewuyi 2023, systematic review of 31 green prescription RCTs (Pablo co-author)
 - [[crimmins2020social]] — paper — Crimmins 2020, social hallmarks of aging, HRS analysis
+- [[fernandeznunez2022gender]] — paper — Fernández Núñez 2022, review of sex/gender differences in greenness–mental health, 16 studies (Pablo senior author)
 - [[gudimindermann2023integrating]] — paper — Gudi-Mindermann 2023, Social Exposome framework
 - [[hwang2025comprehensive]] — paper — Hwang 2025, noise–dementia meta-analysis, HR 1.15 per 10 dB (Pablo senior author)
 - [[kaplan1995restorative]] — paper — Kaplan 1995, Attention Restoration Theory framework
 - [[kennedy2014geroscience]] — paper — Kennedy 2014, geroscience and seven pillars of aging
 - [[knobel2019systematic]] — paper — Knobel 2019, review of 15 green space quality audit tools
 - [[knobel2021associations]] — paper — Knobel 2021, objective vs perceived greenness and CVD risk factors, Philadelphia
+- [[knobel2021development]] — paper — Knobel 2021, RECITAL green space quality tool, 149 Barcelona UGS, mean ICC 0.84
+- [[knobel2023socioeconomic]] — paper — Knobel 2023, SES and racial disparities in source-apportioned PM2.5, US ZIP codes
+- [[knobel2024association]] — paper — Knobel 2024, WTC exposure, PM2.5, glucose and cholesterol in responders
+- [[knobel2025social]] — paper — Knobel 2025, social vulnerability and PhenoAgeAccel, NYC EHR
 - [[knobel2026residential]] — paper — Knobel 2026 preprint, bird diversity and frailty in older NYC adults
 - [[markevych2017exploring]] — paper — Markevych 2017, greenspace pathways: mitigation, restoration, instoration
 - [[nieuwenhuijsen2017fifty]] — paper — Nieuwenhuijsen 2017, Fifty shades of green review
@@ -59,25 +67,43 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[environmental-noise--dementia--hwang2025comprehensive]] — finding — pooled HR 1.15 per 10 dB for incident ADRD
 - [[green-prescription--physical-activity--adewuyi2023health]] — finding — 8 of 9 RCTs improved, mostly within-group
 - [[green-prescription--psychological-wellbeing--adewuyi2023health]] — finding — 16 of 24 RCTs reported benefit
+- [[neighborhood-racial-composition--pm25-sources--knobel2023socioeconomic]] — finding — more PM2.5 from 3 of 5 sources in more Black ZIP codes
+- [[neighborhood-ses--pm25-sources--knobel2023socioeconomic]] — finding — more PM2.5 from 4 of 5 sources in lower-SES ZIP codes
 - [[no2--hba1c--wu2025air]] — finding — NO2 not associated with child HbA1c
 - [[perceived-green-space-access--hypertension--knobel2021associations-by-poverty]] — finding — protective only in medium/high-poverty tracts
 - [[perceived-green-space-access--obesity--knobel2021associations]] — finding — −2.68 pp obese, high vs low perceived access
+- [[pm25--glucose--knobel2024association-by-diabetes]] — finding — PM2.5–glucose +5.03 vs +0.16 mg/dL by diabetes
+- [[pm25--glucose--knobel2024association]] — finding — +0.78 mg/dL glucose per IQR 6-month PM2.5
 - [[pm25--hba1c--wu2025air-by-age]] — finding — PM2.5–HbA1c association rises with child age
 - [[pm25--hba1c--wu2025air]] — finding — +0.311% HbA1c per 1 µg/m³ PM2.5 in children
+- [[pm25--total-cholesterol--knobel2024association]] — finding — +1.67 mg/dL cholesterol per IQR 6-month PM2.5
 - [[social-hallmarks-of-aging--age-related-health-outcomes--crimmins2020social]] — finding — social factors explain 1.8–6.1× more variance than biology
+- [[social-vulnerability--phenotypic-age-acceleration--knobel2025social-by-race-ethnicity]] — finding — +0.34 vs +0.12 y, minority vs non-Hispanic White
+- [[social-vulnerability--phenotypic-age-acceleration--knobel2025social-by-sex]] — finding — +0.27 y women vs +0.13 y men
+- [[social-vulnerability--phenotypic-age-acceleration--knobel2025social]] — finding — +0.23 y PhenoAgeAccel per SVI decile
 - [[tree-canopy-cover--obesity--knobel2021associations]] — finding — −0.89 pp obese, high vs low tree canopy
+- [[urban-greenness--mental-health--fernandeznunez2022gender-by-sex-gender]] — finding — 7 of 16 studies favor women, 3 men
+- [[wtc-exposure--glucose--knobel2024association]] — finding — +0.82 mg/dL glucose, high vs low WTC exposure
 
 ## Entities
 - [[ebird]] — entity — citizen-science bird checklist dataset
 - [[health-and-retirement-study]] — entity — US older-adult cohort with 2016 biomarkers
+- [[mount-sinai-data-warehouse]] — entity — Mount Sinai Health System EHR (NYC)
 - [[progress-cohort]] — entity — Mexico City birth cohort (PROGRESS)
+- [[recital]] — entity — Pablo's 90-item green space quality audit tool
+- [[wtc-health-program]] — entity — WTC general responder cohort
 
 ## My work
 - [[2019-paper-green-space-quality-tools-review]] — my-work — green space quality tools review (2019)
 - [[2021-paper-greenness-cvd-philadelphia]] — my-work — greenness measures and CVD risk, Philadelphia (2021)
+- [[2021-paper-recital-tool]] — my-work — RECITAL quality tool (2021)
+- [[2022-paper-sex-gender-greenness-mental-health-review]] — my-work — sex/gender greenness–mental health review (2022)
 - [[2023-paper-green-prescription-review]] — my-work — green prescription RCT review (2023)
+- [[2023-paper-pm25-sources-disparities]] — my-work — PM2.5 source disparities (2023)
+- [[2024-paper-wtc-air-pollution-glucose-lipids]] — my-work — WTC, PM2.5, glucose and lipids (2024)
 - [[2025-paper-air-pollution-temperature-hba1c-children]] — my-work — air pollution, temperature, HbA1c in children (2025)
 - [[2025-paper-noise-dementia-meta-analysis]] — my-work — noise and dementia meta-analysis (2025)
+- [[2025-paper-svi-biological-aging-nyc]] — my-work — SVI and biological aging, NYC (2025)
 - [[2026-preprint-bird-biodiversity-frailty]] — my-work — bird diversity × frailty preprint (2026)
 
 ## Syntheses

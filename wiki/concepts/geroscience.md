@@ -30,9 +30,11 @@ superseded_by: ""
 ## Evidence
 - Environmental influences on aging, beyond smoking and obesity, "remain poorly understood" ([[kennedy2014geroscience]], p. 712).
 - In HRS data, measured biological aging markers explained 6–10% of variance in aging outcomes → [[biological-aging-measures--age-related-health-outcomes--crimmins2020social]]; social factors explained more → [[social-hallmarks-of-aging--age-related-health-outcomes--crimmins2020social]].
+- Neighborhood social vulnerability was linked to faster biological aging measured as [[phenotypic-age]] acceleration in an EHR cohort; authors frame biological aging as modifiable and targetable by policy ([[knobel2025social]], p. 243, 246–247).
 
 ## Pablo's framing
 - (none filed yet)
+- [[2025-paper-svi-biological-aging-nyc]]: invokes the geroscience hypothesis's seven mechanisms (p. 241).
 
 ## Open questions
 - Claude's reading: neither source tests built or natural environment exposures against hallmark biomarkers; that link is open in the vault.
@@ -43,3 +45,4 @@ superseded_by: ""
 ## References
 - Kennedy, B. K., et al. (2014). Geroscience: Linking aging to chronic disease. *Cell, 159*, 709–713.
 - Crimmins, E. M. (2020). Social hallmarks of aging: Suggestions for geroscience research. *Ageing Research Reviews, 63*, Article 101136.
+- Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*, 240–249.

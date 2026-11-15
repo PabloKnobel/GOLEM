@@ -29,9 +29,11 @@ superseded_by: ""
 
 ## Evidence
 - Social variables explained 1.8–6.1 times more outcome variance than biological aging measures → [[social-hallmarks-of-aging--age-related-health-outcomes--crimmins2020social]].
+- Neighborhood extension: the original Social Hallmarks "left out the broader socioeconomic context"; census-tract social vulnerability was associated with +0.23 years phenotypic age acceleration per decile in NYC older adults ([[knobel2025social]], p. 241, 243) → [[social-vulnerability--phenotypic-age-acceleration--knobel2025social]].
 
 ## Pablo's framing
 - (none filed yet)
+- [[2025-paper-svi-biological-aging-nyc]].
 
 ## Open questions
 - Neighborhood or environmental exposures are not among Crimmins's hallmarks; whether they belong there is open (Claude's reading). Compare the broader [[social-exposome]].
@@ -41,3 +43,4 @@ superseded_by: ""
 
 ## References
 - Crimmins, E. M. (2020). Social hallmarks of aging: Suggestions for geroscience research. *Ageing Research Reviews, 63*, Article 101136.
+- Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*, 240–249.
