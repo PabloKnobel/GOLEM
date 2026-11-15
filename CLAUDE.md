@@ -68,13 +68,15 @@ generated: true, reviewed: false, superseded_by`.
 - Slugs: lowercase, hyphens, no dates (except my-work). File name = slug. Title in frontmatter `title:`.
 - Before creating any page: search titles, `aliases:` and `_system/index.md` for the concept/entity.
   Same thing under another name → add an alias to the existing page, don't create a new one.
-- A concept gets its own page when it is the main subject, exposure or outcome of an ingested source,
-  when mentioned on ≥5 pages, or when Pablo asks. Until then it is
+- A concept gets its own page when it is the main subject, exposure or outcome of an ingested source
+  (no per-run cap), when mentioned on ≥5 pages (any mention counts, incl. listed mechanisms; thin pages
+  are fine), or when Pablo asks. Until then it is
   a bullet in the nearest concept/portal page and is listed in `_system/candidates.md` with its count.
 - Pablo's own papers: a paper page (`authored_by_pablo: true`, tag `my-paper`) for the evidence AND a
   my-work page for his framing (short quotes with page numbers).
 - Claims a source reports about OTHER studies are secondhand: say so ("secondhand via [[x]]"); never create
   findings from them.
+- Datasets/cohorts used by a paper tagged to an active project hub get an entity page.
 - Entities: people only if they are authors Pablo cites often or collaborators he names; no private details.
 
 ## 6. Links

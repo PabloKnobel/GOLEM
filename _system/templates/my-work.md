@@ -3,6 +3,7 @@ type: my-work
 title: ""
 aliases: []
 kind: ""              # deck | talk | grant | paper | poster | letter
+role: []              # first | co-first | senior | corresponding | co-author
 date:
 venue: ""             # meeting, funder, journal
 status: ""            # draft | submitted | funded | published | presented

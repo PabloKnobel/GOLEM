@@ -10,7 +10,8 @@ direction: ""         # protective | harmful | null | mixed
 estimate: ""          # e.g. "OR 0.85 (0.78–0.93) per IQR"
 population: ""
 design: ""
-location_in_source: ""  # p. 6, Table 2
+location_in_source: ""  # p. 6, Table 2 — if only in a figure/supplement: estimate "?" + point here + a todo callout
+estimate_in: text      # text | table | figure | supplement
 fulltext: ""          # copied from the source page
 supports: []
 contradicts: []
