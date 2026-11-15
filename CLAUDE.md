@@ -81,7 +81,7 @@ generated: true, reviewed: false, superseded_by`.
 
 ## 7. Operations
 ### Ingest (nightly, or "ingest now")
-0. `git pull`. Read this file, `_system/index.md`, last 30 lines of `_system/log.md`.
+0. `git pull`. Read this file, `_system/NOTES.md`, `_system/index.md`, last 30 lines of `_system/log.md`.
 1. List `00_inbox/` and the Drive folder "Second Brain Inbox" (id `1LF3pYxJCMScIRXFXAdCKqeDg91zdceZS`);
    download Drive items into `00_inbox/`, then move them to a "processed" subfolder in Drive. Process at most 10 items per run;
    oldest first. Leave the rest; the backlog count goes in the log.
