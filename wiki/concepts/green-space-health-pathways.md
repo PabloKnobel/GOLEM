@@ -45,6 +45,8 @@ superseded_by: ""
 - Quality dimensions (amenities, incivilities, biodiversity, accessibility) are proposed to act on several pathways simultaneously ([[knobel2019systematic]], p. 2).
 - Safety: a systematic review reports included studies were unanimous on safety as a mediator between urban greenness and mental health, especially for women, though over half did not measure it ([[fernandeznunez2022gender]], p. 7).
 - Sex/gender as modifier: 7 of 16 studies showed larger mental health benefits for women/females, 3 for men/males ([[fernandeznunez2022gender]], p. 3) → [[urban-greenness--mental-health--fernandeznunez2022gender-by-sex-gender]]; see [[sex-and-gender-effect-modification]].
+- Mediation with audited quality: green space use mediated 9.3% (0.8–47%) of the quality–physical activity association; physical activity mediated 9.7% (−1.3–42%, not significant) of quality–overweight/obesity ([[knobel2021quality]], p. 5, Table 4).
+- A review mapped NDVI-type exposures mainly to mitigation and access-type exposures to restoration and instoration; only 1 of 22 studies measured use ([[fernandeznunez2022differences]], p. 1057, 1061–1062).
 
 ## Pablo's framing
 - (none filed yet)
@@ -59,6 +61,7 @@ superseded_by: ""
 - [[attention-restoration-theory]] · [[bird-biodiversity]]
 - [[markevych2017exploring]] · [[social-exposome]]
 - [[green-prescription]] · [[perceived-green-space-access]] · [[green-space-quality-assessment]]
+- [[physical-activity]] · [[green-space-use]] · [[social-cohesion]]
 
 ## References
 - Nieuwenhuijsen, M. J., Khreis, H., Triguero-Mas, M., Gascon, M., & Dadvand, P. (2017). Fifty shades of green: Pathway to healthy urban living. *Epidemiology, 28*(1), 63–71.
@@ -68,3 +71,5 @@ superseded_by: ""
 - Knobel, P., et al. (2021). Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis. *Environmental Research, 197*, Article 110990.
 - Knobel, P., Dadvand, P., & Maneja-Zaragoza, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. *Health & Place, 59*, Article 102198.
 - Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & Knobel, P. (2022). Gender and sex differences in urban greenness' mental health benefits: A systematic review. *Health & Place, 76*, Article 102864.
+- Knobel, P., Maneja, R., Bartoll, X., Alonso, L., Bauwelinck, M., Valentin, A., Zijlema, W., Borrell, C., Nieuwenhuijsen, M., & Dadvand, P. (2021). Quality of urban green spaces influences residents' use of these spaces, physical activity, and overweight/obesity. *Environmental Pollution, 271*, Article 116393.
+- Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & Knobel, P. (2022). The differences by sex and gender in the relationship between urban greenness and cardiometabolic health: A systematic review. *Journal of Urban Health, 99*, 1054–1067.

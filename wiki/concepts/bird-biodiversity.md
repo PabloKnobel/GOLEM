@@ -35,9 +35,12 @@ superseded_by: ""
 - Distinct from the "biodiversity hypothesis" of microbiota and immune function ([[nieuwenhuijsen2017fifty]], p. 67).
 - Animal biodiversity was included in only 3 of 15 multi-dimensional green space quality audit tools reviewed in 2019 ([[knobel2019systematic]], p. 5, Table 4).
 - RECITAL includes a bird biodiversity dimension scored by order presence; in Barcelona its alpha was 0.4 (0.17, 0.58) and item ICCs ranged 0.51–0.94, with three orders lacking variability for ICC ([[knobel2021development]], p. 4, 6).
+- In Barcelona, the audited RECITAL bird biodiversity dimension of nearby green spaces was associated with green space use (ERC 1.11; 1.04–1.19), physical activity (OR 1.15; 1.01–1.31) and overweight/obesity (OR 0.88; 0.78–0.99) ([[knobel2021quality]], p. 6, Table 3) → [[bird-biodiversity--green-space-use--knobel2021quality]].
+- Non-bird animal biodiversity was null for all outcomes, attributed to near-zero variability in sightings ([[knobel2021quality]], p. 7).
 
 ## Pablo's framing
 - "A bioindicator of underlying environmental quality shaped by modifiable urban design" → [[2026-preprint-bird-biodiversity-frailty]].
+- [[2021-paper-green-space-quality-physical-activity-obesity]]: bird biodiversity "is overlooked in most UGS quality assessments for epidemiologic studies" (p. 6).
 
 ## Open questions
 - Behavioral and physiological mediators are untested ([[knobel2026residential]], p. 11).
@@ -50,3 +53,4 @@ superseded_by: ""
 - Nieuwenhuijsen, M. J., et al. (2017). Fifty shades of green: Pathway to healthy urban living. *Epidemiology, 28*(1), 63–71.
 - Markevych, I., et al. (2017). Exploring pathways linking greenspace to health: Theoretical and methodological guidance. *Environmental Research, 158*, 301–317.
 - Knobel, P., Dadvand, P., Alonso, L., Costa, L., Español, M., & Maneja, R. (2021). Development of the urban green space quality assessment tool (RECITAL). *Urban Forestry & Urban Greening, 57*, Article 126895.
+- Knobel, P., Maneja, R., Bartoll, X., Alonso, L., Bauwelinck, M., Valentin, A., Zijlema, W., Borrell, C., Nieuwenhuijsen, M., & Dadvand, P. (2021). Quality of urban green spaces influences residents' use of these spaces, physical activity, and overweight/obesity. *Environmental Pollution, 271*, Article 116393.

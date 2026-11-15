@@ -69,6 +69,7 @@ superseded_by: ""
 ## See also
 - [[perceived-green-space-access]] · [[ndvi]] · [[cardiometabolic-health]] · [[green-space-health-pathways]] · [[green-space-quality-assessment]]
 - Findings: [[perceived-green-space-access--obesity--knobel2021associations]], [[tree-canopy-cover--obesity--knobel2021associations]], [[perceived-green-space-access--hypertension--knobel2021associations-by-poverty]]
+- Extended by [[knobel2026beyond]] (multidimensional urban nature and ASCVD).
 
 ## References
 - Knobel, P., Kondo, M., Maneja, R., Zhao, Y., Dadvand, P., & Schinasi, L. H. (2021). Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis. *Environmental Research, 197*, Article 110990. https://doi.org/10.1016/j.envres.2021.110990

@@ -78,6 +78,7 @@ superseded_by: ""
 ## See also
 - [[air-pollution]] · [[cardiometabolic-health]] · [[wtc-health-program]]
 - Findings: [[pm25--glucose--knobel2024association]], [[pm25--total-cholesterol--knobel2024association]], [[wtc-exposure--glucose--knobel2024association]], [[pm25--glucose--knobel2024association-by-diabetes]]
+- Extended by [[krasnov2026association]] (long-term source-apportioned PM2.5, same cohort).
 
 ## References
 - Knobel, P., Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels: The role of an extreme air pollution event alongside 2 decades of moderate exposure. *American Journal of Epidemiology, 193*(1), 87–95. https://doi.org/10.1093/aje/kwad173

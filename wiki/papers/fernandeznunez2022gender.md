@@ -72,6 +72,7 @@ superseded_by: ""
 ## See also
 - [[sex-and-gender-effect-modification]] · [[green-space-health-pathways]] · [[green-space-quality-assessment]]
 - Finding: [[urban-greenness--mental-health--fernandeznunez2022gender-by-sex-gender]]
+- Extended by [[fernandeznunez2022differences]] (cardiometabolic outcomes).
 
 ## References
 - Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & Knobel, P. (2022). Gender and sex differences in urban greenness' mental health benefits: A systematic review. *Health & Place, 76*, Article 102864. https://doi.org/10.1016/j.healthplace.2022.102864

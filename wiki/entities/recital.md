@@ -24,9 +24,11 @@ superseded_by: ""
 - Developed from BRAT-DO, NEST and POST; dimensions drawn from [[knobel2019systematic]] ([[knobel2021development]], p. 2).
 - Usable at item, dimension or overall-score level, and modular for other cities ([[knobel2021development]], p. 2, 7).
 - Tailored to Barcelona; 1-ha minimum size applied for practical reasons only ([[knobel2021development]], p. 7).
+- Applied to health outcomes in 2,053 Barcelona adults; described there with 10 dimensions and a five-point Likert scale, unlike the 11 dimensions scored 0–4 in the tool paper ([[knobel2021quality]], p. 2). Test–retest ICC 0.85 for 14 spaces a year later (p. 7).
 
 ## Appears in
 - [[knobel2021development]]
+- [[knobel2021quality]]
 
 ## See also
 - [[green-space-quality-assessment]] · [[2021-paper-recital-tool]]

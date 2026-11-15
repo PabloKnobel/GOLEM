@@ -24,9 +24,11 @@ superseded_by: ""
 - Over 90,000 people were involved in the rescue, recovery and clean-up effort ([[knobel2024association]], p. 88).
 - Exposure questionnaire at first visit; interviewer-administered medical questionnaire, physical exam, labs and pulmonary function at every visit ([[knobel2024association]], p. 88).
 - Address history collected only from 2012 ([[knobel2024association]], p. 89).
+- 34,764 Tri-state general responders 2003–2019; annual medical questionnaire with self-reported physician diagnoses; labs from Mount Sinai, NYU, Stony Brook and Northwell centers ([[krasnov2026association]], p. 498).
 
 ## Appears in
 - [[knobel2024association]]
+- [[krasnov2026association]]
 
 ## See also
 - [[air-pollution]] · [[cardiometabolic-health]]

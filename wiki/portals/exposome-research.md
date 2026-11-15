@@ -47,3 +47,4 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 - [[exposome]] · [[social-exposome]] · [[urban-green-space-quality]] · [[urban-nature-and-aging]]
 - [[urban-environmental-hazards]]
 - [[differential-vulnerability]]
+- [[multi-exposure-analysis]]

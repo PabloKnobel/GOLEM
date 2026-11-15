@@ -23,10 +23,12 @@ superseded_by: ""
 ## Notes
 - Addresses updated at each encounter when a change is reported; SVI linked yearly by last address ([[knobel2025social]], p. 242).
 - Inpatient and outpatient labs available; biomarkers for PhenoAge missing in 65.8% of person-years ([[knobel2025social]], p. 242, 246).
+- Primary care patients ≥55 y, 2013–2022; ASCVD from ICD-10 codes; person-time censored at address change or two years without encounters ([[knobel2026beyond]], p. 2).
 
 ## Appears in
 - [[knobel2025social]]
 - [[knobel2026residential]] (population drawn from Mount Sinai Health System primary care, per its paper page)
+- [[knobel2026beyond]]
 
 ## See also
 - [[phenotypic-age]] · [[frailty-index]]

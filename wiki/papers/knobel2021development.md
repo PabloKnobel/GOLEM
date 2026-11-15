@@ -76,6 +76,7 @@ superseded_by: ""
 
 ## See also
 - extends: [[knobel2019systematic]] · [[recital]] · [[green-space-quality-assessment]] · [[bird-biodiversity]]
+- Health application: [[knobel2021quality]]
 
 ## References
 - Knobel, P., Dadvand, P., Alonso, L., Costa, L., Español, M., & Maneja, R. (2021). Development of the urban green space quality assessment tool (RECITAL). *Urban Forestry & Urban Greening, 57*, Article 126895. https://doi.org/10.1016/j.ufug.2020.126895
