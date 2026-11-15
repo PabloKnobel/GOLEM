@@ -22,3 +22,5 @@
 2. Next lint: create Barcelona Health Survey entity. Metadata of 22 papers verified 2026-11-15 (see log).
 3. Sources with flagged inconsistencies: 12 papers carry `> [!uncertain]` callouts — Pablo to review.
 4. Watch daily-run token use for the first week.
+5. Suggested (not decided): VPS `git remote set-url` to PabloKnobel/GOLEM (GitHub reports the rename);
+   extend verify_metadata.py to check given names/initials and the APA line.
