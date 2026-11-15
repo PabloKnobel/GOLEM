@@ -3,7 +3,7 @@ type: paper
 title: "Beyond greenness: Multidimensional urban nature profiles and arteriosclerotic cardiovascular risk"
 citekey: knobel2026beyond
 aliases: [Knobel 2026 ASCVD, urban nature profiles ASCVD, Beyond greenness]
-authors: [Knobel, P., Singhvi, A., Krasnov, H., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., Yitshak Sade, M.]
+authors: ["Knobel, P.", "Singhvi, A.", "Krasnov, H.", "Colicino, E.", "Kloog, I.", "Litke, R.", "Lane, K.", "Federman, A.", "Mobbs, C.", "Yitshak Sade, M."]
 year: 2026
 journal: "Environment International"
 volume: 207
@@ -13,7 +13,8 @@ doi: "10.1016/j.envint.2025.110033"
 endnote_id: ""
 apa: "Knobel, P., Singhvi, A., Krasnov, H., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2026). Beyond greenness: Multidimensional urban nature profiles and arteriosclerotic cardiovascular risk. Environment International, 207, Article 110033. https://doi.org/10.1016/j.envint.2025.110033"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: retrospective EHR cohort, Cox models with competing risk
 population: "36,830 NYC residents ≥55 y in Mount Sinai primary care; 139,253 person-years"
 setting: "New York City, 2013–2022"

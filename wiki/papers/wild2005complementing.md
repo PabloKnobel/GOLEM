@@ -3,7 +3,7 @@ type: paper
 title: "Complementing the genome with an \"exposome\": The outstanding challenge of environmental exposure measurement in molecular epidemiology"
 citekey: wild2005complementing
 aliases: [Wild 2005, exposome editorial, origin of the exposome]
-authors: [Wild, C. P.]
+authors: ["Wild, C. P."]
 year: 2005
 journal: "Cancer Epidemiology, Biomarkers & Prevention"
 volume: 14
@@ -13,7 +13,8 @@ doi: "10.1158/1055-9965.EPI-05-0456"
 endnote_id: ""
 apa: "Wild, C. P. (2005). Complementing the genome with an \"exposome\": The outstanding challenge of environmental exposure measurement in molecular epidemiology. Cancer Epidemiology, Biomarkers & Prevention, 14(8), 1847–1850. https://doi.org/10.1158/1055-9965.EPI-05-0456"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: editorial / commentary
 population: ""
 setting: ""

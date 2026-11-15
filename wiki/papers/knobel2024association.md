@@ -3,7 +3,7 @@ type: paper
 title: "The association of air pollution exposure with glucose and lipid levels: The role of an extreme air pollution event alongside 2 decades of moderate exposure"
 citekey: knobel2024association
 aliases: [Knobel 2024, WTC air pollution glucose cholesterol, World Trade Center PM2.5 glucose lipids]
-authors: [Knobel, P., Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., Yitshak Sade, M.]
+authors: ["Knobel, P.", "Just, A. C.", "Colicino, E.", "Teitelbaum, S. L.", "McLaughlin, M. A.", "Amini, H.", "Yitshak Sade, M."]
 year: 2024
 journal: "American Journal of Epidemiology"
 volume: 193
@@ -13,7 +13,8 @@ doi: "10.1093/aje/kwad173"
 endnote_id: ""
 apa: "Knobel, P., Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels: The role of an extreme air pollution event alongside 2 decades of moderate exposure. American Journal of Epidemiology, 193(1), 87–95. https://doi.org/10.1093/aje/kwad173"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: occupational cohort, repeated laboratory measures
 population: "22,447 WTC Health Program general responders; 96,155 cholesterol and 81,599 glucose results"
 setting: "New York metropolitan area, 2004–2019 (WTC exposure 2001)"

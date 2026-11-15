@@ -3,7 +3,7 @@ type: paper
 title: "Gender and sex differences in urban greenness' mental health benefits: A systematic review"
 citekey: fernandeznunez2022gender
 aliases: [Fernandez Nunez 2022, Fernández Núñez 2022, sex and gender greenness mental health review]
-authors: [Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., Knobel, P.]
+authors: ["Fernández Núñez, M.-B.", "Campos Suzman, L.", "Maneja, R.", "Bach, A.", "Marquet, O.", "Anguelovski, I.", "Knobel, P."]
 year: 2022
 journal: "Health & Place"
 volume: 76
@@ -13,7 +13,8 @@ doi: "10.1016/j.healthplace.2022.102864"
 endnote_id: ""
 apa: "Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & Knobel, P. (2022). Gender and sex differences in urban greenness' mental health benefits: A systematic review. Health & Place, 76, Article 102864. https://doi.org/10.1016/j.healthplace.2022.102864"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: systematic review (PRISMA), narrative synthesis
 population: "16 studies (cross-sectional and longitudinal), 13 to 943,027 participants, ages 8–87"
 setting: "Europe (9), Asia (6), Jamaica (1); published 2005–2020; searched March 2021"

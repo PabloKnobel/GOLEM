@@ -3,17 +3,19 @@ type: paper
 title: "Social vulnerability and biological aging in New York City: An electronic health records-based study"
 citekey: knobel2025social
 aliases: [Knobel 2025, SVI PhenoAge NYC, social vulnerability biological aging]
-authors: [Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., Yitshak Sade, M.]
+authors: ["Knobel, P.", "Colicino, E.", "Kloog, I.", "Litke, R.", "Lane, K.", "Federman, A.", "Mobbs, C.", "Yitshak Sade, M."]
 year: 2025
 journal: "Journal of Urban Health"
 volume: 102
-issue: "?"
+issue: "2"
 pages: "240–249"
 doi: "10.1007/s11524-024-00948-7"
 endnote_id: ""
-apa: "Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. Journal of Urban Health, 102, 240–249. https://doi.org/10.1007/s11524-024-00948-7"
+apa: "Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. Journal of Urban Health, 102(2), 240–249. https://doi.org/10.1007/s11524-024-00948-7"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
+metadata_note: "issue filled from CrossRef (2)"
 design: retrospective EHR cohort (person-years)
 population: "31,913 patients ≥65 y, 116,952 person-years, Mount Sinai Health System"
 setting: "New York City, 2011–2022"

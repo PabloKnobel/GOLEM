@@ -3,7 +3,7 @@ type: paper
 title: "The association between long-term exposure to PM2.5 constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders"
 citekey: krasnov2026association
 aliases: [Krasnov 2026, PM2.5 sources diabetes WTC, source-apportioned PM2.5 glucose WTC]
-authors: [Krasnov, H., Knobel, P., Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., Kloog, I., Yitshak-Sade, M.]
+authors: ["Krasnov, H.", "Knobel, P.", "Hsu, H.-H. L.", "Teitelbaum, S. L.", "McLaughlin, M. A.", "Just, A. C.", "Kloog, I.", "Yitshak-Sade, M."]
 year: 2026
 journal: "American Journal of Epidemiology"
 volume: 195
@@ -13,7 +13,8 @@ doi: "10.1093/aje/kwaf238"
 endnote_id: ""
 apa: "Krasnov, H., Knobel, P., Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., Kloog, I., & Yitshak-Sade, M. (2026). The association between long-term exposure to PM2.5 constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders. American Journal of Epidemiology, 195(2), 497–504. https://doi.org/10.1093/aje/kwaf238"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: cohort, repeated measures; multi-exposure mixed models
 population: "34,764 WTCHP general responders in the Tri-state area; 121,246 glucose tests"
 setting: "New York, New Jersey, Connecticut; 2003–2019"

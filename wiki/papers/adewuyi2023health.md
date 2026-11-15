@@ -3,7 +3,7 @@ type: paper
 title: "Health effects of green prescription: A systematic review of randomized controlled trials"
 citekey: adewuyi2023health
 aliases: [Adewuyi 2023, green prescription review, green prescription RCT review]
-authors: [Adewuyi, F. A., Knobel, P., Gogna, P., Dadvand, P.]
+authors: ["Adewuyi, F. A.", "Knobel, P.", "Gogna, P.", "Dadvand, P."]
 year: 2023
 journal: "Environmental Research"
 volume: 236
@@ -13,7 +13,8 @@ doi: "10.1016/j.envres.2023.116844"
 endnote_id: ""
 apa: "Adewuyi, F. A., Knobel, P., Gogna, P., & Dadvand, P. (2023). Health effects of green prescription: A systematic review of randomized controlled trials. Environmental Research, 236, Article 116844. https://doi.org/10.1016/j.envres.2023.116844"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: systematic review of RCTs (narrative synthesis, no meta-analysis)
 population: "31 RCTs of healthy adults (15) and adults with health problems (16)"
 setting: "Asia, Europe, North America, Oceania; trials published 2001–2022; search to June 30, 2023"

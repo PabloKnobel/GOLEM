@@ -3,17 +3,19 @@ type: paper
 title: "Geroscience: Linking aging to chronic disease"
 citekey: kennedy2014geroscience
 aliases: [Kennedy 2014, seven pillars of aging, GSIG summit commentary]
-authors: [Kennedy, B. K., Berger, S. L., Brunet, A., Campisi, J., Cuervo, A. M., Epel, E. S., Franceschi, C., Lithgow, G. J., Morimoto, R. I., Pessin, J. E., Rando, T. A., Richardson, A., Schadt, E. E., Wyss-Coray, T., Sierra, F.]
+authors: ["Kennedy, B. K.", "Berger, S. L.", "Brunet, A.", "Campisi, J.", "Cuervo, A. M.", "Epel, E. S.", "Franceschi, C.", "Lithgow, G. J.", "Morimoto, R. I.", "Pessin, J. E.", "Rando, T. A.", "Richardson, A.", "Schadt, E. E.", "Wyss-Coray, T.", "Sierra, F."]
 year: 2014
 journal: "Cell"
 volume: 159
-issue: "?"
+issue: "4"
 pages: "709–713"
 doi: "10.1016/j.cell.2014.10.039"
 endnote_id: ""
-apa: "Kennedy, B. K., Berger, S. L., Brunet, A., Campisi, J., Cuervo, A. M., Epel, E. S., Franceschi, C., Lithgow, G. J., Morimoto, R. I., Pessin, J. E., Rando, T. A., Richardson, A., Schadt, E. E., Wyss-Coray, T., & Sierra, F. (2014). Geroscience: Linking aging to chronic disease. Cell, 159, 709–713. https://doi.org/10.1016/j.cell.2014.10.039"
+apa: "Kennedy, B. K., Berger, S. L., Brunet, A., Campisi, J., Cuervo, A. M., Epel, E. S., Franceschi, C., Lithgow, G. J., Morimoto, R. I., Pessin, J. E., Rando, T. A., Richardson, A., Schadt, E. E., Wyss-Coray, T., & Sierra, F. (2014). Geroscience: Linking aging to chronic disease. Cell, 159(4), 709–713. https://doi.org/10.1016/j.cell.2014.10.039"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
+metadata_note: "issue filled from CrossRef (4)"
 design: commentary (expert summit report)
 population: ""
 setting: "trans-NIH Geroscience Interest Group summit, USA"

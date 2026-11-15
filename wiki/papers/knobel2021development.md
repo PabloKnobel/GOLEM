@@ -3,7 +3,7 @@ type: paper
 title: "Development of the urban green space quality assessment tool (RECITAL)"
 citekey: knobel2021development
 aliases: [Knobel 2021 RECITAL, RECITAL paper, RECITAL development]
-authors: [Knobel, P., Dadvand, P., Alonso, L., Costa, L., Español, M., Maneja, R.]
+authors: ["Knobel, P.", "Dadvand, P.", "Alonso, L.", "Costa, L.", "Español, M.", "Maneja, R."]
 year: 2021
 journal: "Urban Forestry & Urban Greening"
 volume: 57
@@ -13,7 +13,8 @@ doi: "10.1016/j.ufug.2020.126895"
 endnote_id: ""
 apa: "Knobel, P., Dadvand, P., Alonso, L., Costa, L., Español, M., & Maneja, R. (2021). Development of the urban green space quality assessment tool (RECITAL). Urban Forestry & Urban Greening, 57, Article 126895. https://doi.org/10.1016/j.ufug.2020.126895"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: methods (tool development and reliability study)
 population: "149 public urban green spaces >1 ha"
 setting: "Barcelona, Spain; fieldwork March–May 2018"

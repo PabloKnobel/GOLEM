@@ -3,7 +3,7 @@ type: paper
 title: "Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis"
 citekey: knobel2021associations
 aliases: [Knobel 2021, Philadelphia greenness CVD, perceived access tree canopy Philadelphia]
-authors: [Knobel, P., Kondo, M., Maneja, R., Zhao, Y., Dadvand, P., Schinasi, L. H.]
+authors: ["Knobel, P.", "Kondo, M.", "Maneja, R.", "Zhao, Y.", "Dadvand, P.", "Schinasi, L. H."]
 year: 2021
 journal: "Environmental Research"
 volume: 197
@@ -13,7 +13,8 @@ doi: "10.1016/j.envres.2021.110990"
 endnote_id: ""
 apa: "Knobel, P., Kondo, M., Maneja, R., Zhao, Y., Dadvand, P., & Schinasi, L. H. (2021). Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis. Environmental Research, 197, Article 110990. https://doi.org/10.1016/j.envres.2021.110990"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: ecological cross-sectional spatial analysis
 population: "377 populated census tracts (adults 18+)"
 setting: "Philadelphia, PA, USA, 2013"

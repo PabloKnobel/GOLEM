@@ -3,7 +3,7 @@ type: paper
 title: "Social hallmarks of aging: Suggestions for geroscience research"
 citekey: crimmins2020social
 aliases: [Crimmins 2020, social hallmarks of aging paper]
-authors: [Crimmins, E. M.]
+authors: ["Crimmins, E. M."]
 year: 2020
 journal: "Ageing Research Reviews"
 volume: 63
@@ -13,7 +13,8 @@ doi: "10.1016/j.arr.2020.101136"
 endnote_id: ""
 apa: "Crimmins, E. M. (2020). Social hallmarks of aging: Suggestions for geroscience research. Ageing Research Reviews, 63, Article 101136. https://doi.org/10.1016/j.arr.2020.101136"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: perspective with cross-sectional analysis (2-year mortality follow-up)
 population: "Older US adults with 2016 venous blood data, Health and Retirement Study (paper says both 'over the age of 50' and 'over the age of 56', p. 5)"
 setting: "United States, 2016"

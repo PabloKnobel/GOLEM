@@ -3,14 +3,19 @@ type: paper
 title: "The restorative benefits of nature: Toward an integrative framework"
 citekey: kaplan1995restorative
 aliases: [Kaplan 1995, ART paper]
-authors: [Kaplan, S.]
+authors: ["Kaplan, S."]
 year: 1995
 journal: "Journal of Environmental Psychology"
+volume: 15
+issue: "3"
+pages: "169–182"
 doi: "10.1016/0272-4944(95)90001-2"
 endnote_id: ""
 apa: "Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of Environmental Psychology, 15(3), 169–182. https://doi.org/10.1016/0272-4944(95)90001-2"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
+metadata_note: "volume/issue/pages fields added from CrossRef (APA line already correct)"
 design: theory / conceptual framework
 population: ""
 setting: ""

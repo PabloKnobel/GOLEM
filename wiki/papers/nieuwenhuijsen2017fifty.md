@@ -3,14 +3,19 @@ type: paper
 title: "Fifty shades of green: Pathway to healthy urban living"
 citekey: nieuwenhuijsen2017fifty
 aliases: [Fifty shades of green, Nieuwenhuijsen 2017]
-authors: [Nieuwenhuijsen, M. J., Khreis, H., Triguero-Mas, M., Gascon, M., Dadvand, P.]
+authors: ["Nieuwenhuijsen, M. J.", "Khreis, H.", "Triguero-Mas, M.", "Gascon, M.", "Dadvand, P."]
 year: 2017
 journal: "Epidemiology"
+volume: 28
+issue: "1"
+pages: "63–71"
 doi: "10.1097/EDE.0000000000000549"
 endnote_id: ""
 apa: "Nieuwenhuijsen, M. J., Khreis, H., Triguero-Mas, M., Gascon, M., & Dadvand, P. (2017). Fifty shades of green: Pathway to healthy urban living. Epidemiology, 28(1), 63–71. https://doi.org/10.1097/EDE.0000000000000549"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
+metadata_note: "volume/issue/pages fields added from CrossRef (APA line already correct)"
 design: narrative review of reviews
 population: ""
 setting: "Urban; global"

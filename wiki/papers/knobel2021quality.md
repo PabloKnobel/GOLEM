@@ -3,7 +3,7 @@ type: paper
 title: "Quality of urban green spaces influences residents' use of these spaces, physical activity, and overweight/obesity"
 citekey: knobel2021quality
 aliases: [Knobel 2021 quality, RECITAL health study, UGS quality physical activity obesity Barcelona]
-authors: [Knobel, P., Maneja, R., Bartoll, X., Alonso, L., Bauwelinck, M., Valentin, A., Zijlema, W., Borrell, C., Nieuwenhuijsen, M., Dadvand, P.]
+authors: ["Knobel, P.", "Maneja, R.", "Bartoll, X.", "Alonso, L.", "Bauwelinck, M.", "Valentin, A.", "Zijlema, W.", "Borrell, C.", "Nieuwenhuijsen, M.", "Dadvand, P."]
 year: 2021
 journal: "Environmental Pollution"
 volume: 271
@@ -13,7 +13,8 @@ doi: "10.1016/j.envpol.2020.116393"
 endnote_id: ""
 apa: "Knobel, P., Maneja, R., Bartoll, X., Alonso, L., Bauwelinck, M., Valentin, A., Zijlema, W., Borrell, C., Nieuwenhuijsen, M., & Dadvand, P. (2021). Quality of urban green spaces influences residents' use of these spaces, physical activity, and overweight/obesity. Environmental Pollution, 271, Article 116393. https://doi.org/10.1016/j.envpol.2020.116393"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: cross-sectional (health survey linked to in-situ audits)
 population: "2,053 adults in the 2016 Barcelona Health Survey with ≥1 UGS within 300 m"
 setting: "Barcelona, Spain; survey 2016, audits March–May 2018"

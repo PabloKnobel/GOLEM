@@ -99,7 +99,8 @@ generated: true, reviewed: false, superseded_by`.
    Set `fulltext:` honestly (read = whole text read; abstract; blocked).
 4. Check existing pages (§5), then add: findings (key estimates only, ≤5 per paper), concept
    bullets/updates (append, cited), entity mentions, project and portal membership.
-5. Verify paper metadata (authors, year, title, journal, DOI) against CrossRef/OpenAlex if reachable;
+5. Verify paper metadata (authors, year, title, journal, DOI) against CrossRef/OpenAlex if reachable
+   (`python3 -I _system/scripts/verify_metadata.py <vault> <outdir>` writes a mismatch report);
    mismatch → fix from the authoritative record and note it; unreachable → `metadata_checked: false`.
 6. Update `_system/index.md` (one line per new page) and append to `_system/log.md`.
 7. Mark the manifest row `done` only if the wiki changed. Commit: `ingest: <n> items (<citekeys>)`. Push.

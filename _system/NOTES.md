@@ -17,8 +17,8 @@
 - CrossRef/OpenAlex from the shell: blocked until Pablo allows the domains.
 
 ## Open
-1. Pablo: Dataview plugin, phone, VPS hardening (unattended-upgrades, SSH), allow api.crossref.org +
-   api.openalex.org, Obsidian Sync file types (PDF + other), delete mine/Test From PC, EndNote PDF location.
-2. Next lint: verify metadata of all 22 papers once domains are allowed; create Barcelona Health Survey entity.
+1. Pablo: phone, Obsidian Sync file types (PDF + other), delete mine/Test From PC (only in Sync, not in repo), EndNote PDF location.
+   Reported done 2026-11-15 (to confirm): Dataview, VPS hardening. Done: CrossRef/OpenAlex domains (verified reachable).
+2. Next lint: create Barcelona Health Survey entity. Metadata of 22 papers verified 2026-11-15 (see log).
 3. Sources with flagged inconsistencies: 12 papers carry `> [!uncertain]` callouts — Pablo to review.
 4. Watch daily-run token use for the first week.

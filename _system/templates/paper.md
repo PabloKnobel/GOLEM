@@ -3,7 +3,7 @@ type: paper
 title: ""
 citekey: ""
 aliases: []
-authors: []
+authors: []  # one quoted item per author: ["Surname, I. I.", ...]
 year:
 journal: ""
 volume: ""
@@ -14,6 +14,7 @@ endnote_id: ""
 apa: ""
 fulltext: none        # read | abstract | blocked | none
 metadata_checked: false
+metadata_source: ""  # e.g. "CrossRef, YYYY-MM-DD"
 design: ""            # e.g. cohort, cross-sectional, case-crossover, review, methods
 population: ""
 setting: ""           # place, years

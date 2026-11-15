@@ -3,7 +3,7 @@ type: paper
 title: "A systematic review of multi-dimensional quality assessment tools for urban green spaces"
 citekey: knobel2019systematic
 aliases: [Knobel 2019, green space quality tools review, quality audit tools review]
-authors: [Knobel, P., Dadvand, P., Maneja-Zaragoza, R.]
+authors: ["Knobel, P.", "Dadvand, P.", "Maneja-Zaragoza, R."]
 year: 2019
 journal: "Health & Place"
 volume: 59
@@ -13,7 +13,8 @@ doi: "10.1016/j.healthplace.2019.102198"
 endnote_id: ""
 apa: "Knobel, P., Dadvand, P., & Maneja-Zaragoza, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. Health & Place, 59, Article 102198. https://doi.org/10.1016/j.healthplace.2019.102198"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: systematic review of assessment tools (methods review)
 population: ""
 setting: "Tools published 2005–2018; search of Web of Science and Scopus to July 6, 2019"

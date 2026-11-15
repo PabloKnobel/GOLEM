@@ -3,14 +3,16 @@ type: paper
 title: "Residential bird biodiversity and frailty deficit accumulation: a longitudinal cohort study in New York City"
 citekey: knobel2026residential
 aliases: [bird biodiversity frailty preprint, VAFI birds paper]
-authors: [Knobel, P., Alaasam, V., Krasnov, H., Kloog, I., Midya, V., Federman, A., Ko, F., Yitshak Sade, M.]
+authors: ["Knobel, P.", "Alaasam, V.", "Krasnov, H.", "Kloog, I.", "Midya, V.", "Federman, A.", "Ko, F.", "Yitshak Sade, M."]
 year: 2026
 journal: "medRxiv (preprint, not peer reviewed)"
 doi: "10.64898/2026.08.18.26360707"
 endnote_id: ""
 apa: "Knobel, P., Alaasam, V., Krasnov, H., Kloog, I., Midya, V., Federman, A., Ko, F., & Yitshak Sade, M. (2026). Residential bird biodiversity and frailty deficit accumulation: A longitudinal cohort study in New York City [Preprint]. medRxiv. https://doi.org/10.64898/2026.08.18.26360707"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
+metadata_note: "CrossRef splits the last author as 'Sade, Maayan Yitshak'; kept 'Yitshak Sade, M.' as in the preprint"
 design: retrospective cohort (EHR)
 population: "20,388 adults ≥65 y in primary care, Mount Sinai Health System"
 setting: "New York City, 2011–2023"

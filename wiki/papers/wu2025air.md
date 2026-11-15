@@ -3,7 +3,7 @@ type: paper
 title: "Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico"
 citekey: wu2025air
 aliases: [Wu 2025, PROGRESS HbA1c air pollution, children HbA1c Mexico City]
-authors: [Wu, J., Knobel, P., He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I., Colicino, E., Téllez-Rojo, M. M., Pizano-Zárate, M. L., Tamayo-Ortiz, M., Cantoral, A., Soria-Contreras, D. C., Baccarelli, A. A., Wright, R. O., Yitshak Sade, M.]
+authors: ["Wu, J.", "Knobel, P.", "He, M. Z.", "Kloog, I.", "Just, A. C.", "Gutiérrez-Avila, I.", "Colicino, E.", "Téllez-Rojo, M. M.", "Pizano-Zárate, M. L.", "Tamayo-Ortiz, M.", "Cantoral, A.", "Soria-Contreras, D. C.", "Baccarelli, A. A.", "Wright, R. O.", "Yitshak Sade, M."]
 year: 2025
 journal: "Ecotoxicology and Environmental Safety"
 volume: 307
@@ -13,7 +13,8 @@ doi: "10.1016/j.ecoenv.2025.119424"
 endnote_id: ""
 apa: "Wu, J., Knobel, P., He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I., Colicino, E., Téllez-Rojo, M. M., Pizano-Zárate, M. L., Tamayo-Ortiz, M., Cantoral, A., Soria-Contreras, D. C., Baccarelli, A. A., Wright, R. O., & Yitshak Sade, M. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. Ecotoxicology and Environmental Safety, 307, Article 119424. https://doi.org/10.1016/j.ecoenv.2025.119424"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: prospective birth cohort, repeated measures
 population: "503 children aged 4–11 y, 1,196 HbA1c measurements"
 setting: "Mexico City, 2013–2019"

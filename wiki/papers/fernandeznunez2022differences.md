@@ -3,17 +3,19 @@ type: paper
 title: "The differences by sex and gender in the relationship between urban greenness and cardiometabolic health: A systematic review"
 citekey: fernandeznunez2022differences
 aliases: [Fernández Núñez 2022 cardiometabolic, Fernandez Nunez 2022 CVD review, sex and gender greenness cardiometabolic review]
-authors: [Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., Knobel, P.]
+authors: ["Fernández Núñez, M.-B.", "Campos Suzman, L.", "Maneja, R.", "Bach, A.", "Marquet, O.", "Anguelovski, I.", "Knobel, P."]
 year: 2022
 journal: "Journal of Urban Health"
 volume: 99
-issue: "?"
+issue: "6"
 pages: "1054–1067"
 doi: "10.1007/s11524-022-00685-9"
 endnote_id: ""
-apa: "Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & Knobel, P. (2022). The differences by sex and gender in the relationship between urban greenness and cardiometabolic health: A systematic review. Journal of Urban Health, 99, 1054–1067. https://doi.org/10.1007/s11524-022-00685-9"
+apa: "Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & Knobel, P. (2022). The differences by sex and gender in the relationship between urban greenness and cardiometabolic health: A systematic review. Journal of Urban Health, 99(6), 1054–1067. https://doi.org/10.1007/s11524-022-00685-9"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
+metadata_note: "issue filled from CrossRef (6)"
 design: systematic review (PRISMA), narrative synthesis with vote counting
 population: "22 observational studies (n from 408 to 28.6 million); mostly adults"
 setting: "Europe 45.5%, USA 22.7%, China 13.6%; search July 8, 2021"

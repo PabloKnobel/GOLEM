@@ -3,7 +3,7 @@ type: paper
 title: "Integrating the social environment with an equity perspective into the exposome paradigm: A new conceptual framework of the Social Exposome"
 citekey: gudimindermann2023integrating
 aliases: [Social Exposome framework, Gudi-Mindermann 2023, Equal-Life social exposome]
-authors: [Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., Bolte, G.]
+authors: ["Gudi-Mindermann, H.", "White, M.", "Roczen, J.", "Riedel, N.", "Dreger, S.", "Bolte, G."]
 year: 2023
 journal: "Environmental Research"
 volume: 233
@@ -13,7 +13,8 @@ doi: "10.1016/j.envres.2023.116485"
 endnote_id: ""
 apa: "Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm: A new conceptual framework of the Social Exposome. Environmental Research, 233, Article 116485. https://doi.org/10.1016/j.envres.2023.116485"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: conceptual framework (literature-based, with scoping review)
 population: ""
 setting: "Europe (Equal-Life consortium); literature mainly Global North"

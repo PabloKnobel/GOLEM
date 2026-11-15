@@ -3,7 +3,7 @@ type: paper
 title: "Exploring pathways linking greenspace to health: Theoretical and methodological guidance"
 citekey: markevych2017exploring
 aliases: [Markevych 2017, greenspace pathways report, mitigation restoration instoration]
-authors: [Markevych, I., Schoierer, J., Hartig, T., Chudnovsky, A., Hystad, P., Dzhambov, A. M., de Vries, S., Triguero-Mas, M., Brauer, M., Nieuwenhuijsen, M. J., Lupp, G., Richardson, E. A., Astell-Burt, T., Dimitrova, D., Feng, X., Sadeh, M., Standl, M., Heinrich, J., Fuertes, E.]
+authors: ["Markevych, I.", "Schoierer, J.", "Hartig, T.", "Chudnovsky, A.", "Hystad, P.", "Dzhambov, A. M.", "de Vries, S.", "Triguero-Mas, M.", "Brauer, M.", "Nieuwenhuijsen, M. J.", "Lupp, G.", "Richardson, E. A.", "Astell-Burt, T.", "Dimitrova, D.", "Feng, X.", "Sadeh, M.", "Standl, M.", "Heinrich, J.", "Fuertes, E."]
 year: 2017
 journal: "Environmental Research"
 volume: 158
@@ -13,7 +13,8 @@ doi: "10.1016/j.envres.2017.06.028"
 endnote_id: ""
 apa: "Markevych, I., Schoierer, J., Hartig, T., Chudnovsky, A., Hystad, P., Dzhambov, A. M., de Vries, S., Triguero-Mas, M., Brauer, M., Nieuwenhuijsen, M. J., Lupp, G., Richardson, E. A., Astell-Burt, T., Dimitrova, D., Feng, X., Sadeh, M., Standl, M., Heinrich, J., & Fuertes, E. (2017). Exploring pathways linking greenspace to health: Theoretical and methodological guidance. Environmental Research, 158, 301–317. https://doi.org/10.1016/j.envres.2017.06.028"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: expert workshop report (narrative review)
 population: ""
 setting: "Workshop, Munich-Herrsching, Germany, September 2016; literature mostly high-income countries"

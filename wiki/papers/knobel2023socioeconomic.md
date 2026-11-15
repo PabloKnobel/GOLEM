@@ -3,7 +3,7 @@ type: paper
 title: "Socioeconomic and racial disparities in source-apportioned PM2.5 levels across urban areas in the contiguous US, 2010"
 citekey: knobel2023socioeconomic
 aliases: [Knobel 2023, PM2.5 source disparities, source-apportioned PM2.5 disparities]
-authors: [Knobel, P., Hwang, I., Castro, E., Sheffield, P., Holaday, L., Shi, L., Amini, H., Schwartz, J., Yitshak Sade, M.]
+authors: ["Knobel, P.", "Hwang, I.", "Castro, E.", "Sheffield, P.", "Holaday, L.", "Shi, L.", "Amini, H.", "Schwartz, J.", "Yitshak Sade, M."]
 year: 2023
 journal: "Atmospheric Environment"
 volume: 303
@@ -13,12 +13,13 @@ doi: "10.1016/j.atmosenv.2023.119753"
 endnote_id: ""
 apa: "Knobel, P., Hwang, I., Castro, E., Sheffield, P., Holaday, L., Shi, L., Amini, H., Schwartz, J., & Yitshak Sade, M. (2023). Socioeconomic and racial disparities in source-apportioned PM2.5 levels across urban areas in the contiguous US, 2010. Atmospheric Environment, 303, Article 119753. https://doi.org/10.1016/j.atmosenv.2023.119753"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: ecological cross-sectional (descriptive)
 population: "25,790 urban ZIP codes (RUCA ≤6), ~92% of US population"
 setting: "Contiguous US, 2010"
 n: 25790
-exposures: [ZIP code % non-Hispanic Black, % below poverty, % no high school diploma, % renters]
+exposures: ["ZIP code % non-Hispanic Black", "% below poverty", "% no high school diploma", "% renters"]
 outcomes: ["[[air-pollution]]"]
 methods: [non-negative matrix factorization, generalized nonlinear models, regional stratification]
 datasets: [Di 2019 PM2.5 ensemble model, Amini 2022 PM2.5 component models (50 m urban), 2010 US Census, ACS 5-year]

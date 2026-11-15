@@ -14,3 +14,13 @@ Format: `- YYYY-MM-DD HH:MM | prefix | summary | pages touched`
 - 2026-11-15 | ingest | 5 items (adewuyi2023health, knobel2021associations, hwang2025comprehensive, knobel2019systematic, wu2025air); 5/5 full text read; all Pablo-authored; metadata not verified (WebFetch unavailable); new portal urban-environmental-hazards; NDVI promoted from candidates | 5 papers, 10 findings, 9 concepts (+3 updated), 1 entity, 1 portal (+3 updated), 5 my-work
 - 2026-11-15 | ingest | 5 items (knobel2024association, knobel2023socioeconomic, fernandeznunez2022gender, knobel2025social, knobel2021development); 5/5 full text read (references skipped); all Pablo-authored; metadata not verified (WebFetch not used); source inconsistencies flagged on all 5 paper pages; differential-vulnerability promoted from candidates | 5 papers, 10 findings, 3 concepts (+8 updated), 3 entities, 5 my-work, 4 portals updated
 - 2026-11-15 | ingest | 4 items (fernandeznunez2022differences, knobel2026beyond, knobel2021quality, krasnov2026association); 4/4 full text read (references skipped); all Pablo-authored; metadata not verified (WebFetch not used); source inconsistencies flagged on all 4 paper pages; physical-activity, multi-exposure-analysis, social-cohesion promoted from candidates; new concepts atherosclerotic-cardiovascular-disease, green-space-use | 4 papers, 11 findings, 5 concepts (+8 updated), 3 entities updated, 4 my-work, 4 portals updated
+
+## 2026-11-15 — metadata verification (CrossRef)
+- Checked all 22 paper pages against CrossRef (22/22 found; OpenAlex reachable, not needed).
+- Title, year, journal, DOI and author surnames matched for 22/22.
+- Fixed from CrossRef: issue for fernandeznunez2022differences (6), kennedy2014geroscience (4), knobel2025social (2), also in APA lines;
+  added volume/issue/pages fields to kaplan1995restorative and nieuwenhuijsen2017fifty (APA already correct).
+- Kept "Yitshak Sade, M." on knobel2026residential (CrossRef splits it as "Sade, Maayan Yitshak").
+- Format fix: `authors:` lists re-quoted one item per author on all 22 pages (unquoted lists made YAML/Dataview read each initial as an author);
+  fixed invalid YAML (`exposures:` with %) on knobel2023socioeconomic. Template updated. 0/144 frontmatter blocks now invalid.
+- Added `_system/scripts/verify_metadata.py`; set `metadata_checked: true` + `metadata_source` on all 22.

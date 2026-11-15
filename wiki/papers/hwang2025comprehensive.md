@@ -3,7 +3,7 @@ type: paper
 title: "A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus"
 citekey: hwang2025comprehensive
 aliases: [Hwang 2025, noise dementia meta-analysis, noise-dementia nexus]
-authors: [Hwang, S. A., Singhvi, A., Patil, L., Gohari, K., Yitshak Sade, M., Colicino, E., Aldridge, M. D., Baccarelli, A. A., Kloog, I., Schwartz, J., Morrison, R. S., Wright, R. O., Bøggild, H., Sheidaei, A., Knobel, P.]
+authors: ["Hwang, S. A.", "Singhvi, A.", "Patil, L.", "Gohari, K.", "Yitshak Sade, M.", "Colicino, E.", "Aldridge, M. D.", "Baccarelli, A. A.", "Kloog, I.", "Schwartz, J.", "Morrison, R. S.", "Wright, R. O.", "Bøggild, H.", "Sheidaei, A.", "Knobel, P."]
 year: 2025
 journal: "Public Health Reviews"
 volume: 46
@@ -13,7 +13,8 @@ doi: "10.3389/phrs.2025.1607355"
 endnote_id: ""
 apa: "Hwang, S. A., Singhvi, A., Patil, L., Gohari, K., Yitshak Sade, M., Colicino, E., Aldridge, M. D., Baccarelli, A. A., Kloog, I., Schwartz, J., Morrison, R. S., Wright, R. O., Bøggild, H., Sheidaei, A., & Knobel, P. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. Public Health Reviews, 46, Article 1607355. https://doi.org/10.3389/phrs.2025.1607355"
 fulltext: read
-metadata_checked: false
+metadata_checked: true
+metadata_source: "CrossRef, 2026-11-15"
 design: systematic review and multilevel random-effects meta-analysis
 population: "Adults in 7 studies (6 meta-analyzed; 13 effect sizes)"
 setting: "Denmark, Sweden, UK, USA, Canada; search to August 1, 2023"
