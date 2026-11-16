@@ -24,3 +24,8 @@
 4. Watch daily-run token use for the first week.
 5. Suggested (not decided): VPS `git remote set-url` to PabloKnobel/GOLEM (GitHub reports the rename);
    extend verify_metadata.py to check given names/initials and the APA line.
+
+## Session 2026-11-16
+- Done: 8 project hubs + inbox-subfolder rule + students' material allowed (CLAUDE.md §2, §7); 4 my-work pages (R21 science [submitted], HEALS nature-impairment v5 [superseded], HEALS 311 CVD LOI [not approved], P30 311 frailty Dec 2025); entities nhats, nyc-311-service-requests.
+- Tried: push needs the repo attached with push access in the session (403 otherwise); PDF conversion needs `pip install pymupdf4llm`.
+- Open: current nature-impairment plan not in vault; Pablo to create the 8 inbox subfolders; paper→project tags were Claude's choice, unreviewed.
