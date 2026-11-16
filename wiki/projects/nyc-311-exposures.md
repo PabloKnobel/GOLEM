@@ -17,6 +17,10 @@ reviewed: false
 > [!pablo] Pablo's notes
 > (Pablo writes here; Claude never edits this block.)
 
+## Project notes
+Source: Pablo's documents (see links).
+- Dec 2025 P30 pilot on 311 and frailty: [[2025-grant-p30-311-frailty]]. Latest version (Oct 2026 LOI, resubmission) switches to cardiovascular disease, chronic and acute: [[2026-loi-heals-311-cvd]] (added 2026-11-16).
+
 ## Papers tagged to this project
 ```dataview
 TABLE WITHOUT ID file.link AS Paper, year AS Year, design AS Design, fulltext AS "Full text"

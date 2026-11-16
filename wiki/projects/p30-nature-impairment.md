@@ -22,6 +22,7 @@ Source: Pablo, in Claude chats (2026); summary, re-verify before reuse.
 - Exposures: NDVI, park access (ParkServe 10-minute walk) and the park quality layer as a qgcomp index, built with Mount Sinai's GREENER platform.
 - Aim 1: GEE with event study (exploratory). Aim 2: mortality.
 - NHATS restricted files requested only after notice of award; public files meanwhile; HRS as alternative.
+- Research plan v5: Aim 1 = going-out frequency (survey-weighted GEE, no event study); Aim 2 = mortality (Cox); NHATS Rounds 1–14 excluding Round 10: [[2026-grant-heals-nature-impairment-plan]] (added 2026-11-16).
 
 ## Papers tagged to this project
 ```dataview

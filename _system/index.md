@@ -139,3 +139,9 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[joint-habitability]] — project — Joint habitability: biodiversity and human wellbeing
 - [[srtr-pm25-liver-transplant]] — project — PM2.5 and liver transplant outcomes (SRTR)
 - [[nyc-311-exposures]] — project — NYC 311 exposure layers
+- [[2026-grant-r21-birds-aging-science]] — my-work — R21 Birds and Aging Research Strategy (Oct 2026)
+- [[2026-grant-heals-nature-impairment-plan]] — my-work — HEALS × Pepper nature and impairment research plan v5 (2026)
+- [[2026-loi-heals-311-cvd]] — my-work — HEALS LOI, 311 stressors and CVD (Oct 2026)
+- [[2025-grant-p30-311-frailty]] — my-work — P30 pilot application, 311 and frailty (Dec 2025)
+- [[nhats]] — entity — National Health and Aging Trends Study
+- [[nyc-311-service-requests]] — entity — NYC 311 service requests

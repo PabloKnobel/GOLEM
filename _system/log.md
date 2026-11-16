@@ -28,3 +28,8 @@ Format: `- YYYY-MM-DD HH:MM | prefix | summary | pages touched`
 ## 2026-11-16 — project hubs
 - Added 8 project hubs (r01-urban-exposome-aging, r21-birds-aging, p30-nature-impairment, greenspace-quality-metric, nyc-bird-diversity, joint-habitability, srtr-pm25-liver-transplant, nyc-311-exposures) from Pablo's statements in chats; not chosen: Larramendi, HFSP, WOODEN-CARE, SIDIAP, Shojamblo, Federman talk, EHR course, M1 selective.
 - Tagged existing papers: wild2005complementing → r01-urban-exposome-aging; gudimindermann2023integrating → r01-urban-exposome-aging; kennedy2014geroscience → r01-urban-exposome-aging; crimmins2020social → r01-urban-exposome-aging; knobel2025social → r01-urban-exposome-aging; knobel2026residential → r21-birds-aging, nyc-bird-diversity; knobel2021quality → p30-nature-impairment, greenspace-quality-metric; markevych2017exploring → p30-nature-impairment; knobel2019systematic → greenspace-quality-metric; knobel2021development → greenspace-quality-metric; knobel2021associations → greenspace-quality-metric.
+
+## 2026-11-16 — ingest: 4 documents (chat upload)
+- 4 my-work pages (R21 science, HEALS nature-impairment plan v5, HEALS 311 CVD LOI, P30 311 frailty Dec 2025); 2 entities (nhats, nyc-311-service-requests); hub notes appended for r21-birds-aging, p30-nature-impairment, nyc-311-exposures.
+- Full text read: R21 science, HEALS plan v5, LOI (all); P30 PDF pp. 1–7 (cover, abstract, aims, research plan, budget table); budget justification and 5 biosketches (pp. 8–35) not read. No findings created (grant preliminary data, not papers).
+- Open: R21 and LOI status unknown; HEALS v5 Aim 1 differs from Oct 29 plan.
