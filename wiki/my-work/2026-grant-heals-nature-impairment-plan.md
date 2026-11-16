@@ -6,7 +6,7 @@ kind: grant
 role: [PI]
 date: 2026
 venue: "HEALS × Pepper Center pilot program, 19th call"
-status: draft
+status: "superseded"
 source_file: "raw/docs/7ac91a1e-heals-research-plan-2026-v5.docx"
 projects: ["[[p30-nature-impairment]]"]
 portals: ["[[urban-nature-and-aging]]", "[[urban-green-space-quality]]"]
@@ -16,6 +16,8 @@ updated: 2026-11-16
 generated: true
 reviewed: false
 ---
+> [!warning] Not the current plan (Pablo, 2026-11-16). Kept as a record of v5; use the hub for the current design.
+
 **Lead.** Version 5 of the full research plan for Pablo's HEALS × Pepper pilot testing whether vision, hearing, mobility and cognitive impairment modify the associations of nearby nature with going out (Aim 1) and mortality (Aim 2) in NHATS (2011–2025). Hub: [[p30-nature-impairment]].
 
 ## How I framed it
@@ -35,7 +37,6 @@ reviewed: false
 - Restricted data (tract linkage, death dates) after notice of award; public files meanwhile (§4).
 - Future: NIA R01, target June 2028, with GPS, accelerometers and EMA in NYC older adults with impairment (§7).
 
-> [!uncertain] Differs from the plan as last discussed (Oct 29, 2026: Aim 1 GEE with event study). v5 drops the event study and makes going-out frequency the Aim 1 primary outcome.
 
 ## Concepts used
 - [[green-space-use]] — exposure "assigned, not used"; going out as the Aim 1 outcome.

@@ -6,7 +6,7 @@ kind: grant
 role: [PI]
 date: 2026-10-14
 venue: "NIH R21 (PA-25-304)"
-status: "?"
+status: submitted
 source_file: "raw/docs/35b2edf1-r21-science-20261014-for-sub.docx"
 projects: ["[[r21-birds-aging]]", "[[nyc-bird-diversity]]"]
 portals: ["[[urban-nature-and-aging]]"]
@@ -18,7 +18,7 @@ reviewed: false
 ---
 **Lead.** Research Strategy (Importance, Rigor and Feasibility, Expertise and Resources) of Pablo's NIH R21 linking residential bird biodiversity to frailty (VA-FI) and phenotypic age acceleration in Mount Sinai older adults in NYC, file dated October 14, 2026 and marked "for submission". Hub: [[r21-birds-aging]].
 
-> [!uncertain] Submission status not stated in the file; the file name says "for_sub". Confirm whether it was submitted.
+> [!info] Submitted (Pablo, 2026-11-16).
 
 ## How I framed it
 - Proxy question: "whether bird biodiversity adds information beyond standard exposures or simply stands in for them" (§A.1).

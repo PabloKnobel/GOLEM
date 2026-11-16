@@ -19,7 +19,7 @@ reviewed: false
 
 ## Project notes
 Source: Pablo's documents (see links).
-- Dec 2025 P30 pilot on 311 and frailty: [[2025-grant-p30-311-frailty]]. Latest version (Oct 2026 LOI, resubmission) switches to cardiovascular disease, chronic and acute: [[2026-loi-heals-311-cvd]] (added 2026-11-16).
+- Dec 2025 P30 pilot on 311 and frailty: [[2025-grant-p30-311-frailty]]. Latest version (Oct 2026 LOI, resubmission) switches to cardiovascular disease, chronic and acute: [[2026-loi-heals-311-cvd]] (added 2026-11-16). LOI not approved (Pablo, 2026-11-16).
 
 ## Papers tagged to this project
 ```dataview

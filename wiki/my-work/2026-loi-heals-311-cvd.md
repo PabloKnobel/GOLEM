@@ -6,7 +6,7 @@ kind: grant
 role: [PI]
 date: 2026-10
 venue: "HEALS pilot program, 19th call (general environmental health, early investigator track)"
-status: "?"
+status: "not approved"
 source_file: "raw/docs/38b2433b-heals-loi-311-cvd-knobel.docx"
 projects: ["[[nyc-311-exposures]]"]
 portals: ["[[urban-environmental-hazards]]", "[[exposome-research]]"]
@@ -18,7 +18,7 @@ reviewed: false
 ---
 **Lead.** Letter of intent (due October 8, 2026) for "Everyday Urban Stressors from NYC 311 Complaints and Chronic and Acute Cardiovascular Disease", a resubmission of the 2025 311 pilot ([[2025-grant-p30-311-frailty]]) with the outcome switched from frailty to cardiovascular disease. Latest version of the 311 project (per Pablo, 2026-11-16). Hub: [[nyc-311-exposures]].
 
-> [!uncertain] LOI decision not in the file.
+> [!info] LOI not approved (Pablo, 2026-11-16).
 
 ## How I framed it
 - 311 records are "a free by-product of city management" giving an address- and day-level map of urban stressors (Summary).

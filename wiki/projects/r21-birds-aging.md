@@ -22,7 +22,7 @@ Source: Pablo, in Claude chats (2026); summary, re-verify before reuse.
 - Data: MSHS EHR-linked cohort, citywide bird biodiversity model, and P30-funded acoustic fieldwork across NYC sites (2025).
 - Primary outcome: frailty index.
 - Status as last recorded (Oct 13, 2026): final review of the science sections done; pending EndNote reference fixes and a few checks.
-- Research Strategy dated Oct 14, 2026, marked for submission: [[2026-grant-r21-birds-aging-science]] (added 2026-11-16).
+- Research Strategy dated Oct 14, 2026, submitted: [[2026-grant-r21-birds-aging-science]] (added 2026-11-16).
 
 ## Papers tagged to this project
 ```dataview
