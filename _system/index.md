@@ -131,3 +131,11 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[2026-preprint-bird-biodiversity-frailty]] — my-work — bird diversity × frailty preprint (2026)
 
 ## Syntheses
+- [[r01-urban-exposome-aging]] — project — R01 Urban Exposome and Healthy Aging (URBE-Aging)
+- [[r21-birds-aging]] — project — R21 Birds and Aging
+- [[p30-nature-impairment]] — project — P30 pilot: Out of Reach? (nature and impairment)
+- [[greenspace-quality-metric]] — project — Greenspace quality metric (CONUS)
+- [[nyc-bird-diversity]] — project — NYC bird diversity (VAFI)
+- [[joint-habitability]] — project — Joint habitability: biodiversity and human wellbeing
+- [[srtr-pm25-liver-transplant]] — project — PM2.5 and liver transplant outcomes (SRTR)
+- [[nyc-311-exposures]] — project — NYC 311 exposure layers

@@ -27,12 +27,12 @@ supports: []
 contradicts: []
 replicates: []
 extends: ["[[knobel2021development]]"]
-projects: ["[[ryc-2026]]"]
+projects: ["[[ryc-2026]]", "[[p30-nature-impairment]]", "[[greenspace-quality-metric]]"]
 portals: ["[[urban-green-space-quality]]"]
 authored_by_pablo: true
 tags: [paper, my-paper, cross-sectional, green-space-quality, mediation]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: medium
 generated: true

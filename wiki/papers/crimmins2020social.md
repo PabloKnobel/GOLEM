@@ -27,11 +27,11 @@ supports: []
 contradicts: []
 replicates: []
 extends: ["[[kennedy2014geroscience]]"]
-projects: []
+projects: ["[[r01-urban-exposome-aging]]"]
 portals: ["[[urban-nature-and-aging]]"]
 tags: [paper, perspective, aging, social-determinants]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: medium
 generated: true

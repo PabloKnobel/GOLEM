@@ -27,12 +27,12 @@ supports: []
 contradicts: []
 replicates: []
 extends: ["[[knobel2019systematic]]"]
-projects: ["[[ryc-2026]]"]
+projects: ["[[ryc-2026]]", "[[greenspace-quality-metric]]"]
 portals: ["[[urban-green-space-quality]]"]
 authored_by_pablo: true
 tags: [paper, my-paper, methods, exposure-assessment, green-space-quality]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: medium
 generated: true

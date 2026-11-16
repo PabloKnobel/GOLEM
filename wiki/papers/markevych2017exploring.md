@@ -27,11 +27,11 @@ supports: []
 contradicts: []
 replicates: []
 extends: ["[[nieuwenhuijsen2017fifty]]"]
-projects: ["[[ryc-2026]]"]
+projects: ["[[ryc-2026]]", "[[p30-nature-impairment]]"]
 portals: ["[[urban-green-space-quality]]", "[[urban-nature-and-aging]]"]
 tags: [paper, review, framework, methods, exposure-assessment]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: high
 generated: true

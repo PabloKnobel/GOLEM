@@ -28,11 +28,11 @@ supports: []
 contradicts: []
 replicates: []
 extends: []
-projects: []
+projects: ["[[r01-urban-exposome-aging]]"]
 portals: ["[[urban-nature-and-aging]]"]
 tags: [paper, commentary, framework, aging-biology]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: high
 generated: true

@@ -27,11 +27,11 @@ supports: []
 contradicts: []
 replicates: []
 extends: ["[[wild2005complementing]]"]
-projects: []
+projects: ["[[r01-urban-exposome-aging]]"]
 portals: ["[[exposome-research]]"]
 tags: [paper, framework, equity, environmental-justice]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: high
 generated: true

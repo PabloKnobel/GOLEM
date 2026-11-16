@@ -24,3 +24,7 @@ Format: `- YYYY-MM-DD HH:MM | prefix | summary | pages touched`
 - Format fix: `authors:` lists re-quoted one item per author on all 22 pages (unquoted lists made YAML/Dataview read each initial as an author);
   fixed invalid YAML (`exposures:` with %) on knobel2023socioeconomic. Template updated. 0/144 frontmatter blocks now invalid.
 - Added `_system/scripts/verify_metadata.py`; set `metadata_checked: true` + `metadata_source` on all 22.
+
+## 2026-11-16 — project hubs
+- Added 8 project hubs (r01-urban-exposome-aging, r21-birds-aging, p30-nature-impairment, greenspace-quality-metric, nyc-bird-diversity, joint-habitability, srtr-pm25-liver-transplant, nyc-311-exposures) from Pablo's statements in chats; not chosen: Larramendi, HFSP, WOODEN-CARE, SIDIAP, Shojamblo, Federman talk, EHR course, M1 selective.
+- Tagged existing papers: wild2005complementing → r01-urban-exposome-aging; gudimindermann2023integrating → r01-urban-exposome-aging; kennedy2014geroscience → r01-urban-exposome-aging; crimmins2020social → r01-urban-exposome-aging; knobel2025social → r01-urban-exposome-aging; knobel2026residential → r21-birds-aging, nyc-bird-diversity; knobel2021quality → p30-nature-impairment, greenspace-quality-metric; markevych2017exploring → p30-nature-impairment; knobel2019systematic → greenspace-quality-metric; knobel2021development → greenspace-quality-metric; knobel2021associations → greenspace-quality-metric.

@@ -28,12 +28,12 @@ supports: []
 contradicts: []
 replicates: []
 extends: []
-projects: []
+projects: ["[[r01-urban-exposome-aging]]"]
 portals: ["[[urban-nature-and-aging]]", "[[exposome-research]]"]
 authored_by_pablo: true
 tags: [paper, my-paper, cohort, ehr, mixtures, effect-modification, aging]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: medium
 generated: true

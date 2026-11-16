@@ -25,12 +25,12 @@ supports: []
 contradicts: []
 replicates: []
 extends: []
-projects: []
+projects: ["[[r21-birds-aging]]", "[[nyc-bird-diversity]]"]
 portals: ["[[urban-nature-and-aging]]"]
 authored_by_pablo: true
 tags: [paper, my-paper, preprint]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-16
 last_verified: 2026-11-15
 confidence: medium
 generated: true
