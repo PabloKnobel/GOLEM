@@ -1,0 +1,2 @@
++ The proposed method is specialy imactful when transported to areas where exiting datasets are more limited. Big cities will have more data than villages, but these differences also happen between countries, where richer more developed countries will have more avaialbe data. 
++ There are may dataets for the neighbordhood enviroment. CONTINUUM aims to capture what we can see from aerial photography. Not trying to translate it into different metrics, that only capture one specific aspect. Thisis for aim 1a. 
