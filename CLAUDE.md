@@ -15,8 +15,9 @@ Wikipedia-like knowledge base that Claude compiles and maintains; Pablo browses 
 ## 2. Hard rules (never break)
 - No PHI or identifiable data, ever. No peer-review materials (manuscripts or grants received as a
   reviewer). If an inbox item looks like either: do not ingest, move it to `00_inbox/_rejected/`, flag it in the digest.
-- For now, only Pablo's own material and published/public sources. No collaborators' or students'
-  unpublished drafts until he says so. If unsure whose a draft is: hold in inbox, ask in the digest.
+- Pablo's own material, published/public sources, and his lab students' material for projects he
+  supervises (allowed 2026-11-16). No other collaborators' unpublished drafts unless he says so.
+  If unsure whose a draft is: hold in inbox, ask in the digest.
 - Never edit `mine/` or `raw/` content. Never edit text inside a block marked `> [!pablo]`.
 - Append, don't rewrite. Add new information; do not reword existing prose. Restate, never "improve".
   Restructuring a page happens only in the weekly lint, in one batched pass, and is logged.
@@ -92,6 +93,9 @@ generated: true, reviewed: false, superseded_by`.
 1. List `00_inbox/` and the Drive folder "Second Brain Inbox" (id `1LF3pYxJCMScIRXFXAdCKqeDg91zdceZS`);
    download Drive items into `00_inbox/`, then move them to a "processed" subfolder in Drive. Process ALL items, oldest first,
    committing and pushing after each; if a run must stop early, log the backlog count.
+   Project subfolders: an item inside a Drive/inbox subfolder named after a project slug
+   (`wiki/projects/<slug>.md`) gets that slug in `projects:` on every page it creates or updates.
+   Unknown subfolder name → process anyway, flag in the digest, don't create a hub.
 2. Per item: screen (§2 hard rules) → convert with `_system/scripts/convert.py` → save original +
    `.md` text in `raw/<type>/` → record sha256 in `_system/manifest.csv`.
    Same hash already in manifest → skip as duplicate.
