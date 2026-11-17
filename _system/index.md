@@ -156,3 +156,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[2025-grant-p30-311-frailty]] — my-work — P30 pilot application, 311 and frailty (Dec 2025)
 - [[nhats]] — entity — National Health and Aging Trends Study
 - [[nyc-311-service-requests]] — entity — NYC 311 service requests
+- [[2026-grant-ryc-continuum-proposal]] — my-work — CONTINUUM RyC research proposal v0.17 (Nov 2026)
+- [[sidiap]] — entity — SIDIAP Catalan primary care records
+- [[redegi]] — entity — Girona Dementia Registry
+- [[icgc-orthophotos]] — entity — ICGC annual 25 cm orthophotos of Catalonia

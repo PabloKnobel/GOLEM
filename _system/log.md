@@ -40,3 +40,6 @@ Format: `- YYYY-MM-DD HH:MM | prefix | summary | pages touched`
 - 2026-11-17 | ingest | 1 item (migeot2025social); full text read (references skipped); metadata verified (CrossRef); 3 source inconsistencies flagged | 1 paper, 2 findings, 2 concepts updated, candidates
 - 2026-11-17 | ingest | 1 item (R01 Urban Exposome application, 141 pp.); science sections read in full (summary, aims, research strategy, timeline; PDF p. 7–8, 106–118, 123, 126, 133); forms, biosketches, budgets, letters not read; no findings (unpublished preliminary data); 4 internal inconsistencies flagged; new entity litcog | 1 my-work, 1 entity, project hub + exposome updated, candidates
 - 2026-11-17 | ingest | 1 item (neufcourt2022assessing); full text read (references skipped); metadata verified (CrossRef); scoping review, no findings; 1 source inconsistency flagged. Run total: 6 items (fernando2026association, RyC note, ibanez2024neuroecological, migeot2025social, 2026-grant-r01-urban-exposome-aging, neufcourt2022assessing); backlog 0; Drive inbox empty | 1 paper, 2 concepts updated, candidates
+
+## 2026-11-17 — ingest: RyC proposal v0.17 (chat upload)
+- my-work [[2026-grant-ryc-continuum-proposal]] (full text read, §1–6 incl. budget; reference list not read); entities sidiap, redegi, icgc-orthophotos; note appended to ryc-2026 hub.
