@@ -33,6 +33,7 @@ superseded_by: ""
 - Conceptual only so far; empirical validation was planned in the Equal-Life project ([[gudimindermann2023integrating]], p. 16).
 - Exposure differentials (socially patterned exposure) and differential vulnerability (social effect modification) are kept as distinct mechanisms ([[gudimindermann2023integrating]], p. 14).
 - First empirical use in the vault: the four CDC SVI themes were modeled as a mixture "from a social exposome perspective" for biological aging in older New Yorkers ([[knobel2025social]], p. 241, 243) → [[social-vulnerability--phenotypic-age-acceleration--knobel2025social]].
+- Individual-level multidimensional social exposome (MSE) across the lifespan (ten dimensions, 319 items) was associated with cognition, functional ability and neuropsychiatric symptoms in 2,211 Latin American HC, AD and FTLD participants; the combined score outperformed single dimensions ([[migeot2025social]], p. 3–6) → [[social-exposome--dementia--migeot2025social]], [[social-exposome--cognition--migeot2025social-healthy-aging]].
 
 ## Pablo's framing
 - (none filed yet)
@@ -48,3 +49,4 @@ superseded_by: ""
 - Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
 - Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*, 240–249.
 - Ibanez, A., et al. (2024). Neuroecological links of the exposome and One Health. *Neuron, 112*(12), 1905–1910. https://doi.org/10.1016/j.neuron.2024.04.016
+- Migeot, J., et al. (2025). Social exposome and brain health outcomes of dementia across Latin America. *Nature Communications, 16*, Article 8196. https://doi.org/10.1038/s41467-025-63277-6

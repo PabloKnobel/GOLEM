@@ -67,6 +67,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[knobel2026residential]] — paper — Knobel 2026 preprint, bird diversity and frailty in older NYC adults
 - [[krasnov2026association]] — paper — Krasnov 2026, source-apportioned PM2.5, diabetes and glucose in WTC responders (Pablo co-author)
 - [[markevych2017exploring]] — paper — Markevych 2017, greenspace pathways: mitigation, restoration, instoration
+- [[migeot2025social]] — paper — Migeot 2025, multidimensional social exposome and brain health in AD/FTLD, 6 Latin American countries
 - [[nieuwenhuijsen2017fifty]] — paper — Nieuwenhuijsen 2017, Fifty shades of green review
 - [[wild2005complementing]] — paper — Wild 2005, editorial coining the exposome
 - [[wu2025air]] — paper — Wu 2025, PM2.5, NO2, temperature and HbA1c in PROGRESS children (Pablo co-author)
@@ -98,6 +99,8 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[pm25--hba1c--wu2025air]] — finding — +0.311% HbA1c per 1 µg/m³ PM2.5 in children
 - [[pm25--total-cholesterol--knobel2024association]] — finding — +1.67 mg/dL cholesterol per IQR 6-month PM2.5
 - [[pm25-sources--glucose--krasnov2026association-by-sex]] — finding — biomass/traffic PM2.5 larger in women, oil in men
+- [[social-exposome--cognition--migeot2025social-healthy-aging]] — finding — social exposome ↔ cognition in healthy controls (β 0.61)
+- [[social-exposome--dementia--migeot2025social]] — finding — adverse social exposome ↔ worse cognition, function, NPS (β 0.26/0.08/0.11)
 - [[social-hallmarks-of-aging--age-related-health-outcomes--crimmins2020social]] — finding — social factors explain 1.8–6.1× more variance than biology
 - [[social-vulnerability--phenotypic-age-acceleration--knobel2025social-by-race-ethnicity]] — finding — +0.34 vs +0.12 y, minority vs non-Hispanic White
 - [[social-vulnerability--phenotypic-age-acceleration--knobel2025social-by-sex]] — finding — +0.27 y women vs +0.13 y men

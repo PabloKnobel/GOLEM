@@ -37,3 +37,4 @@ Format: `- YYYY-MM-DD HH:MM | prefix | summary | pages touched`
 - 2026-11-17 | ingest | 1 item (fernando2026association); full text read; metadata verified (CrossRef); not Pablo-authored (Mount Sinai colleagues); 4 source inconsistencies flagged | 1 paper, 2 findings, 2 concepts updated, candidates
 - 2026-11-17 | ingest | 1 item (Pablo's note: RyC impact ideas); quoted verbatim in a pablo callout on the RyC hub; no paper/my-work page (short note) | wiki/projects/ryc-2026.md
 - 2026-11-17 | ingest | 1 item (ibanez2024neuroecological); full text read (PMC author manuscript); metadata verified (CrossRef); commentary, no findings; new concept one-health; life-course approach reached 5 mentions | 1 paper, 1 concept (+2 updated), candidates
+- 2026-11-17 | ingest | 1 item (migeot2025social); full text read (references skipped); metadata verified (CrossRef); 3 source inconsistencies flagged | 1 paper, 2 findings, 2 concepts updated, candidates

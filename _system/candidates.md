@@ -15,7 +15,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Biogenics hypothesis | biogenic emissions, phytoncides | 3 | nieuwenhuijsen2017fifty, knobel2021quality, knobel2026beyond |
 | Life-space mobility | | 1 | knobel2026residential |
 | Life-course approach | critical windows, accumulation of risk | 5 | wild2005complementing, gudimindermann2023integrating, crimmins2020social, hwang2025comprehensive, ibanez2024neuroecological — reached 5, promote at next lint |
-| Allostatic load | | 2 | crimmins2020social, gudimindermann2023integrating |
+| Allostatic load | allostatic overload | 3 | crimmins2020social, gudimindermann2023integrating, migeot2025social |
 | Inflammaging | chronic low-grade inflammation, SASP | 2 | kennedy2014geroscience, crimmins2020social |
 | Epigenetic clocks / biological age | epigenetic age acceleration, DNA methylation age, phenotypic age | 3 | kennedy2014geroscience, crimmins2020social, knobel2025social — phenotypic age split out to [[phenotypic-age]] (outcome of knobel2025social) |
 | Hallmarks of aging (López-Otín 2013) | biological hallmarks of aging | 2 | kennedy2014geroscience, crimmins2020social |
@@ -48,5 +48,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Distributed lag nonlinear models / case-crossover | DLNM, short-term exposure, lag structure | 1 | fernando2026association |
 | Urbanicity as effect modifier | urban–rural differences | 1 | fernando2026association |
 | Brain capital / green skills | brain health economy | 1 | ibanez2024neuroecological |
-| Brain health | brain health outcomes | 1 | ibanez2024neuroecological |
+| Brain health | brain health outcomes | 2 | ibanez2024neuroecological, migeot2025social |
 | Micro- and nanoplastics | plastics, BPA, phthalates | 1 | ibanez2024neuroecological |
+| Food insecurity | ELCSA | 1 | migeot2025social |
+| ReDLat consortium | Multi-Partner Consortium to Expand Dementia Research in Latin America | 1 | migeot2025social |
