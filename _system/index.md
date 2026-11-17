@@ -49,6 +49,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[crimmins2020social]] — paper — Crimmins 2020, social hallmarks of aging, HRS analysis
 - [[fernandeznunez2022differences]] — paper — Fernández Núñez 2022, review of sex/gender differences in greenness–cardiometabolic health, 22 studies (Pablo senior author)
 - [[fernandeznunez2022gender]] — paper — Fernández Núñez 2022, review of sex/gender differences in greenness–mental health, 16 studies (Pablo senior author)
+- [[fernando2026association]] — paper — Fernando 2026, short-term NO2 and ischemic stroke/TIA, Israeli national case-crossover
 - [[gudimindermann2023integrating]] — paper — Gudi-Mindermann 2023, Social Exposome framework
 - [[hwang2025comprehensive]] — paper — Hwang 2025, noise–dementia meta-analysis, HR 1.15 per 10 dB (Pablo senior author)
 - [[kaplan1995restorative]] — paper — Kaplan 1995, Attention Restoration Theory framework
@@ -84,6 +85,8 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[metal-industry-pm25--glucose--krasnov2026association]] — finding — +1.31% glucose per IQR metal-industry PM2.5
 - [[neighborhood-racial-composition--pm25-sources--knobel2023socioeconomic]] — finding — more PM2.5 from 3 of 5 sources in more Black ZIP codes
 - [[neighborhood-ses--pm25-sources--knobel2023socioeconomic]] — finding — more PM2.5 from 4 of 5 sources in lower-SES ZIP codes
+- [[no2--atherosclerotic-cardiovascular-disease--fernando2026association-by-subgroup]] — finding — NO2–stroke/TIA lag pattern differs by urbanicity, sex, age
+- [[no2--atherosclerotic-cardiovascular-disease--fernando2026association]] — finding — OR 1.057 stroke/TIA per 8 ppb NO2, lag 0–5
 - [[no2--hba1c--wu2025air]] — finding — NO2 not associated with child HbA1c
 - [[perceived-green-space-access--hypertension--knobel2021associations-by-poverty]] — finding — protective only in medium/high-poverty tracts
 - [[perceived-green-space-access--obesity--knobel2021associations]] — finding — −2.68 pp obese, high vs low perceived access

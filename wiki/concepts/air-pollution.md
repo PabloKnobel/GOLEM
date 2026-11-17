@@ -9,7 +9,7 @@ projects: []
 portals: ["[[urban-environmental-hazards]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-17
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -27,6 +27,7 @@ superseded_by: ""
 - Daily 1-km PM2.5 for the New York metro from XGBoost with satellite AOD and land use, RMSE 3.11 µg/m³ in spatial cross-validation ([[knobel2024association]], p. 89).
 - 14 PM2.5 components from 50-m urban super-learned models were factored by non-negative matrix factorization into five source categories (soil and crustal dust; heavy fuel oil and industrial; metal processing industry and agricultural; coal and oil combustion and biomass burning; motor vehicle) ([[knobel2023socioeconomic]], p. 2–3).
 - Annual 14-component predictions factored by NMF into biomass burning, oil combustion, metal industry, other industries, and motor vehicles/resuspended dust, linked to Tri-state residential histories ([[krasnov2026association]], p. 498).
+- Daily 1-km NO2 over Israel from a hybrid random forest + gradient boosting model (CV R² 0.88), with 1-km PM2.5 and temperature models as covariates ([[fernando2026association]], p. 3).
 
 ## Evidence
 - PM2.5: +0.311% HbA1c per 1 µg/m³ in Mexico City children, adjusting for NO2 and temperature ([[wu2025air]], p. 3) → [[pm25--hba1c--wu2025air]]; larger at older ages → [[pm25--hba1c--wu2025air-by-age]].
@@ -39,6 +40,7 @@ superseded_by: ""
 - Exposure disparities: higher PM2.5 and several source categories in urban US ZIP codes with more non-Hispanic Black residents and lower SES; coal/oil/biomass PM2.5 inversely associated ([[knobel2023socioeconomic]], p. 3) → [[neighborhood-racial-composition--pm25-sources--knobel2023socioeconomic]], [[neighborhood-ses--pm25-sources--knobel2023socioeconomic]].
 - Long-term source-apportioned PM2.5: metal-industry PM2.5 associated with diabetes incidence (+8.35%) and glucose (+1.31%) per IQR; annual total PM2.5 mass null in WTC responders ([[krasnov2026association]], p. 501) → [[metal-industry-pm25--diabetes--krasnov2026association]], [[metal-industry-pm25--glucose--krasnov2026association]].
 - Sex differences in source-specific glucose associations ([[krasnov2026association]], p. 499) → [[pm25-sources--glucose--krasnov2026association-by-sex]].
+- NO2 (short-term): cumulative lag 0–5 OR 1.057 per 8 ppb for ischemic stroke/TIA in Israel, independent of PM2.5 and temperature; PM2.5 itself null in that model ([[fernando2026association]], p. 4, 7) → [[no2--atherosclerotic-cardiovascular-disease--fernando2026association]]; modified by urbanicity, sex and age → [[no2--atherosclerotic-cardiovascular-disease--fernando2026association-by-subgroup]].
 
 ## Pablo's framing
 - [[2025-paper-air-pollution-temperature-hba1c-children]]: exposures "do not present in isolation" (p. 2).
@@ -60,3 +62,4 @@ superseded_by: ""
 - Knobel, P., Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels: The role of an extreme air pollution event alongside 2 decades of moderate exposure. *American Journal of Epidemiology, 193*(1), 87–95.
 - Knobel, P., Hwang, I., Castro, E., Sheffield, P., Holaday, L., Shi, L., Amini, H., Schwartz, J., & Yitshak Sade, M. (2023). Socioeconomic and racial disparities in source-apportioned PM2.5 levels across urban areas in the contiguous US, 2010. *Atmospheric Environment, 303*, Article 119753.
 - Krasnov, H., Knobel, P., Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., Kloog, I., & Yitshak-Sade, M. (2026). The association between long-term exposure to PM2.5 constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders. *American Journal of Epidemiology, 195*(2), 497–504.
+- Fernando, P. S., Krasnov, H., Kloog, I., He, M. Z., Ifergane, G., Zucker, I., Novack, V., Libruder, C., & Yitshak-Sade, M. (2026). The association between short-term nitrogen dioxide (NO2) exposure and ischemic stroke or transient ischemic attacks (TIA): A national study in Israel. *Scientific Reports*. https://doi.org/10.1038/s41598-026-75950-x

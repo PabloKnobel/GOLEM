@@ -25,7 +25,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Street-level greenery | green view index, Google Street View, Treepedia | 2 | markevych2017exploring, knobel2026beyond |
 | Tree canopy cover | tree cover, urban canopy | 2 | knobel2021associations, knobel2026beyond |
 | Effect modification by race/ethnicity | structural racism, residential segregation, redlining | 4 | knobel2021associations, knobel2023socioeconomic, knobel2025social, knobel2026beyond |
-| Effect modification by sex and age | sex differences, life stage susceptibility | 3 | wu2025air, fernandeznunez2022gender, knobel2025social — sex/gender part promoted to [[sex-and-gender-effect-modification]] (subject of fernandeznunez2022gender) |
+| Effect modification by sex and age | sex differences, life stage susceptibility | 4 | wu2025air, fernandeznunez2022gender, knobel2025social, fernando2026association — sex/gender part promoted to [[sex-and-gender-effect-modification]] (subject of fernandeznunez2022gender) |
 | Multi-exposure / mixtures analysis | co-exposures, joint effects, quantile g-computation | 5 | wu2025air, hwang2025comprehensive, knobel2024association, knobel2025social, krasnov2026association — promoted to [[multi-exposure-analysis]] |
 | Nature-based solutions | green infrastructure, nature-based interventions | 3 | knobel2021associations, adewuyi2023health, knobel2026beyond |
 | Hearing loss | hearing impairment | 1 | hwang2025comprehensive |
@@ -45,3 +45,5 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Gender-perspective / care-centered planning | Ciutat Cuidadora, city of care | 1 | fernandeznunez2022differences |
 | Levels of engagement with nature (Pretty) | incidental, direct, intentional exposure | 1 | knobel2026beyond |
 | Mediation analysis | percent mediated | 1 | knobel2021quality |
+| Distributed lag nonlinear models / case-crossover | DLNM, short-term exposure, lag structure | 1 | fernando2026association |
+| Urbanicity as effect modifier | urban–rural differences | 1 | fernando2026association |

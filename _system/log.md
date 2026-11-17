@@ -34,3 +34,4 @@ Format: `- YYYY-MM-DD HH:MM | prefix | summary | pages touched`
 - Full text read: R21 science, HEALS plan v5, LOI (all); P30 PDF pp. 1–7 (cover, abstract, aims, research plan, budget table); budget justification and 5 biosketches (pp. 8–35) not read. No findings created (grant preliminary data, not papers).
 - Open: R21 and LOI status unknown; HEALS v5 Aim 1 differs from Oct 29 plan.
 - 2026-11-16 update from Pablo: R21 submitted; 311 CVD LOI not approved; HEALS plan v5 not current (marked superseded).
+- 2026-11-17 | ingest | 1 item (fernando2026association); full text read; metadata verified (CrossRef); not Pablo-authored (Mount Sinai colleagues); 4 source inconsistencies flagged | 1 paper, 2 findings, 2 concepts updated, candidates
