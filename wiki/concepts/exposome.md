@@ -34,6 +34,7 @@ superseded_by: ""
 - Exposome reviews and commentaries far outnumber original exposome studies (Haddad et al. 2019, secondhand via [[gudimindermann2023integrating]], p. 13).
 - Gudi-Mindermann et al. argue that treating social variables only as confounders is problematic in exposome designs, where exposures are interrelated ([[gudimindermann2023integrating]], p. 14).
 - A noise–dementia meta-analysis calls for exposome approaches to disentangle noise from co-occurring air pollution, heat and road proximity in urban settings ([[hwang2025comprehensive]], p. 8).
+- Agnostic exposome-wide analyses may ignore the hierarchy between upstream social variables (race/ethnicity, class) and downstream exposures ([[neufcourt2022assessing]], p. 4); 26 of 73 social-exposome studies gave no formal exposome definition (p. 3).
 
 ## Pablo's framing
 - (none filed yet)
@@ -52,3 +53,4 @@ superseded_by: ""
 - Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
 - Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.
 - Ibanez, A., et al. (2024). Neuroecological links of the exposome and One Health. *Neuron, 112*(12), 1905–1910. https://doi.org/10.1016/j.neuron.2024.04.016
+- Neufcourt, L., Castagné, R., Mabile, L., Khalatbari-Soltani, S., Delpierre, C., & Kelly-Irving, M. (2022). Assessing how social exposures are integrated in exposome research: A scoping review. *Environmental Health Perspectives, 130*(11), Article 116001. https://doi.org/10.1289/EHP11015

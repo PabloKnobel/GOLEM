@@ -68,6 +68,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[krasnov2026association]] — paper — Krasnov 2026, source-apportioned PM2.5, diabetes and glucose in WTC responders (Pablo co-author)
 - [[markevych2017exploring]] — paper — Markevych 2017, greenspace pathways: mitigation, restoration, instoration
 - [[migeot2025social]] — paper — Migeot 2025, multidimensional social exposome and brain health in AD/FTLD, 6 Latin American countries
+- [[neufcourt2022assessing]] — paper — Neufcourt 2022, scoping review of social variables in 73 exposome studies
 - [[nieuwenhuijsen2017fifty]] — paper — Nieuwenhuijsen 2017, Fifty shades of green review
 - [[wild2005complementing]] — paper — Wild 2005, editorial coining the exposome
 - [[wu2025air]] — paper — Wu 2025, PM2.5, NO2, temperature and HbA1c in PROGRESS children (Pablo co-author)

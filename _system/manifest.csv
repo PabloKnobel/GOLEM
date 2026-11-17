@@ -30,3 +30,4 @@ f90f06d316b59b402dd1cb80d759063c5cbacd63eb462c9bb4d55b26aee435fb,s41598-026-7595
 ccdce6d3559764549d911eca7814eaef86725505e01fbdeb6489dac83bcd4948,nihms-1998541.pdf,raw/papers/nihms-1998541.pdf,raw/papers/nihms-1998541.md,papers,2026-11-17,done,11,pymupdf4llm
 4c304dd25e256d56f26335dcf30c20ba25b973d94f3c47c80a07304ddf2bd6fd,s41467-025-63277-6.pdf,raw/papers/s41467-025-63277-6.pdf,raw/papers/s41467-025-63277-6.md,papers,2026-11-17,done,18,pymupdf4llm
 725d6205b576553901d8f198621bf20cd405518bbffb346bf2886ca0055a7ee7,R01_UrbanExposome_1_grant.pdf,raw/docs/r01-urbanexposome-1-grant.pdf,raw/docs/r01-urbanexposome-1-grant.md,docs,2026-11-17,done,141,"pymupdf4llm+ocr(pages [28, 43])"
+38dcc680137d4a7107ec80f86b77f9315fdbfddda32dc00f471319196ac0c143,ehp11015.pdf,raw/papers/ehp11015.pdf,raw/papers/ehp11015.md,papers,2026-11-17,done,8,pymupdf4llm

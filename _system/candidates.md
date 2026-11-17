@@ -20,7 +20,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Epigenetic clocks / biological age | epigenetic age acceleration, DNA methylation age, phenotypic age | 3 | kennedy2014geroscience, crimmins2020social, knobel2025social — phenotypic age split out to [[phenotypic-age]] (outcome of knobel2025social) |
 | Hallmarks of aging (López-Otín 2013) | biological hallmarks of aging | 2 | kennedy2014geroscience, crimmins2020social |
 | Differential vulnerability / effect modification by SES | exposure differentials, equigenic hypothesis | 5 | gudimindermann2023integrating, markevych2017exploring, knobel2021associations, knobel2023socioeconomic, knobel2025social — promoted to [[differential-vulnerability]] |
-| Embodiment (Krieger) | eco-social theory | 1 | gudimindermann2023integrating |
+| Embodiment (Krieger) | eco-social theory, social-to-biological transition | 2 | gudimindermann2023integrating, neufcourt2022assessing |
 | Social cohesion | neighborhood social cohesion | 5 | markevych2017exploring, adewuyi2023health, fernandeznunez2022gender, knobel2021quality, knobel2026beyond — promoted to [[social-cohesion]] |
 | Street-level greenery | green view index, Google Street View, Treepedia | 2 | markevych2017exploring, knobel2026beyond |
 | Tree canopy cover | tree cover, urban canopy | 2 | knobel2021associations, knobel2026beyond |
@@ -54,5 +54,6 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | ReDLat consortium | Multi-Partner Consortium to Expand Dementia Research in Latin America | 1 | migeot2025social |
 | Healthy Aging Phenotype (HAP) | healthy aging domains | 1 | 2026-grant-r01-urban-exposome-aging |
 | Scenario-based health projection | health impact assessment, feasible minimum risk | 1 | 2026-grant-r01-urban-exposome-aging |
-| Exposome-wide association study | ExWAS | 1 | 2026-grant-r01-urban-exposome-aging |
+| Exposome-wide association study | ExWAS, agnostic/hypothesis-free approach | 2 | 2026-grant-r01-urban-exposome-aging, neufcourt2022assessing |
 | Mount Sinai GREENER platform | GREENER | 1 | 2026-grant-r01-urban-exposome-aging |
+| Area-level deprivation indices | Carstairs, Townsend, ecological SES | 1 | neufcourt2022assessing |
