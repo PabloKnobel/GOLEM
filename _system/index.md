@@ -116,6 +116,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 ## Entities
 - [[ebird]] — entity — citizen-science bird checklist dataset
 - [[health-and-retirement-study]] — entity — US older-adult cohort with 2016 biomarkers
+- [[litcog]] — entity — Chicago older-adult cohort (Northwestern; R01 Aim 2)
 - [[mount-sinai-data-warehouse]] — entity — Mount Sinai Health System EHR (NYC)
 - [[progress-cohort]] — entity — Mexico City birth cohort (PROGRESS)
 - [[recital]] — entity — Pablo's 90-item green space quality audit tool
@@ -134,6 +135,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[2025-paper-air-pollution-temperature-hba1c-children]] — my-work — air pollution, temperature, HbA1c in children (2025)
 - [[2025-paper-noise-dementia-meta-analysis]] — my-work — noise and dementia meta-analysis (2025)
 - [[2025-paper-svi-biological-aging-nyc]] — my-work — SVI and biological aging, NYC (2025)
+- [[2026-grant-r01-urban-exposome-aging]] — my-work — R01 Urban Exposome and Healthy Aging application (submitted Jun 2026)
 - [[2026-paper-pm25-sources-diabetes-wtc]] — my-work — PM2.5 sources, diabetes, glucose in WTC responders (2026)
 - [[2026-paper-urban-nature-profiles-ascvd]] — my-work — urban nature profiles and ASCVD, NYC (2026)
 - [[2026-preprint-bird-biodiversity-frailty]] — my-work — bird diversity × frailty preprint (2026)

@@ -38,6 +38,7 @@ superseded_by: ""
 ## Pablo's framing
 - (none filed yet)
 - [[2025-paper-noise-dementia-meta-analysis]]: "exposomics offers a more holistic and policy-relevant strategy for identifying environmental drivers of dementia" (p. 8).
+- [[2026-grant-r01-urban-exposome-aging]]: the Urban Exposome as a facet of the exposome whose exposures are "geospatial and, in most cases, directly modifiable by decision-makers" (Specific Aims).
 
 ## Open questions
 - Claude's reading: how green space quality and biodiversity metrics fit as components of an urban exposome is not addressed by the sources in the vault so far.

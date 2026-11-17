@@ -52,3 +52,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Micro- and nanoplastics | plastics, BPA, phthalates | 1 | ibanez2024neuroecological |
 | Food insecurity | ELCSA | 1 | migeot2025social |
 | ReDLat consortium | Multi-Partner Consortium to Expand Dementia Research in Latin America | 1 | migeot2025social |
+| Healthy Aging Phenotype (HAP) | healthy aging domains | 1 | 2026-grant-r01-urban-exposome-aging |
+| Scenario-based health projection | health impact assessment, feasible minimum risk | 1 | 2026-grant-r01-urban-exposome-aging |
+| Exposome-wide association study | ExWAS | 1 | 2026-grant-r01-urban-exposome-aging |
+| Mount Sinai GREENER platform | GREENER | 1 | 2026-grant-r01-urban-exposome-aging |
