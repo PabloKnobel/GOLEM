@@ -43,3 +43,4 @@ Format: `- YYYY-MM-DD HH:MM | prefix | summary | pages touched`
 
 ## 2026-11-17 — ingest: RyC proposal v0.17 (chat upload)
 - my-work [[2026-grant-ryc-continuum-proposal]] (full text read, §1–6 incl. budget; reference list not read); entities sidiap, redegi, icgc-orthophotos; note appended to ryc-2026 hub.
+- 2026-11-17: ryc-2026 lead rewritten at Pablo's request (was: green-space quality surface; now CONTINUUM, dementia); SIDIAP project folded into ryc-2026 (Pablo).

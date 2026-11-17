@@ -23,7 +23,7 @@ superseded_by: ""
 ## Notes
 - Dementia diagnoses validated with positive predictive value 91% (Ponjoan et al., 2019a; secondhand via [[2026-grant-ryc-continuum-proposal]], §3.2.3).
 - Already linked to census-section NO2 and PM2.5 (de Bont et al., 2021; secondhand via [[2026-grant-ryc-continuum-proposal]], §3.2.3).
-- Also the data source of Pablo's separate planned SIDIAP project (not in the vault).
+- Pablo's SIDIAP project is part of the RyC application [[ryc-2026]] (Pablo, 2026-11-17).
 
 ## Appears in
 - [[ryc-2026]] · [[2026-grant-ryc-continuum-proposal]]
