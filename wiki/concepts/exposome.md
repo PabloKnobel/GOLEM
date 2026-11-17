@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-17
 last_verified: 2026-11-15
 confidence: high
 generated: true
@@ -28,6 +28,7 @@ superseded_by: ""
 - Candidate omics tools (transcriptomics, proteomics, metabolomics) were unproven for exposure assessment in 2005 ([[wild2005complementing]], p. 1848–1849).
 - Later methods named for exposome studies: geolocation, portable and personal sensing, participatory methods, network science ([[gudimindermann2023integrating]], p. 13).
 - An integrated view splits the external exposome into a social and a physical exposome, with the internal exposome as mediator ([[gudimindermann2023integrating]], p. 15, Fig. 3).
+- A brain-health framing divides the external exposome into physical (pollution, metals, plastics) and social (aggregate and individual inequality) parts interacting with the internal exposome via epigenetics, and links it to [[one-health]] ([[ibanez2024neuroecological]], p. 3–4).
 
 ## Evidence
 - Exposome reviews and commentaries far outnumber original exposome studies (Haddad et al. 2019, secondhand via [[gudimindermann2023integrating]], p. 13).
@@ -49,3 +50,4 @@ superseded_by: ""
 - Wild, C. P. (2005). Complementing the genome with an "exposome": The outstanding challenge of environmental exposure measurement in molecular epidemiology. *Cancer Epidemiology, Biomarkers & Prevention, 14*(8), 1847–1850.
 - Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
 - Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.
+- Ibanez, A., et al. (2024). Neuroecological links of the exposome and One Health. *Neuron, 112*(12), 1905–1910. https://doi.org/10.1016/j.neuron.2024.04.016

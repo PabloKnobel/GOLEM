@@ -36,6 +36,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[green-space-use]] — concept — frequency and kind of visits to green spaces
 - [[multi-exposure-analysis]] — concept — multi-exposure models and mixture methods (qGcomp)
 - [[ndvi]] — concept — satellite greenness index; cannot capture quality
+- [[one-health]] — concept — linked human, animal and environmental health
 - [[perceived-green-space-access]] — concept — resident-reported access to usable green/outdoor space
 - [[phenotypic-age]] — concept — PhenoAge and PhenoAgeAccel, EHR-feasible biological age
 - [[physical-activity]] — concept — PA as green space outcome and mediator (IPAQ, MVPA)
@@ -52,6 +53,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[fernando2026association]] — paper — Fernando 2026, short-term NO2 and ischemic stroke/TIA, Israeli national case-crossover
 - [[gudimindermann2023integrating]] — paper — Gudi-Mindermann 2023, Social Exposome framework
 - [[hwang2025comprehensive]] — paper — Hwang 2025, noise–dementia meta-analysis, HR 1.15 per 10 dB (Pablo senior author)
+- [[ibanez2024neuroecological]] — paper — Ibanez 2024, NeuroView commentary on exposome, One Health and brain capital
 - [[kaplan1995restorative]] — paper — Kaplan 1995, Attention Restoration Theory framework
 - [[kennedy2014geroscience]] — paper — Kennedy 2014, geroscience and seven pillars of aging
 - [[knobel2019systematic]] — paper — Knobel 2019, review of 15 green space quality audit tools

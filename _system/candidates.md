@@ -14,7 +14,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Biophilia | | 1 | nieuwenhuijsen2017fifty |
 | Biogenics hypothesis | biogenic emissions, phytoncides | 3 | nieuwenhuijsen2017fifty, knobel2021quality, knobel2026beyond |
 | Life-space mobility | | 1 | knobel2026residential |
-| Life-course approach | critical windows, accumulation of risk | 4 | wild2005complementing, gudimindermann2023integrating, crimmins2020social, hwang2025comprehensive |
+| Life-course approach | critical windows, accumulation of risk | 5 | wild2005complementing, gudimindermann2023integrating, crimmins2020social, hwang2025comprehensive, ibanez2024neuroecological — reached 5, promote at next lint |
 | Allostatic load | | 2 | crimmins2020social, gudimindermann2023integrating |
 | Inflammaging | chronic low-grade inflammation, SASP | 2 | kennedy2014geroscience, crimmins2020social |
 | Epigenetic clocks / biological age | epigenetic age acceleration, DNA methylation age, phenotypic age | 3 | kennedy2014geroscience, crimmins2020social, knobel2025social — phenotypic age split out to [[phenotypic-age]] (outcome of knobel2025social) |
@@ -47,3 +47,6 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Mediation analysis | percent mediated | 1 | knobel2021quality |
 | Distributed lag nonlinear models / case-crossover | DLNM, short-term exposure, lag structure | 1 | fernando2026association |
 | Urbanicity as effect modifier | urban–rural differences | 1 | fernando2026association |
+| Brain capital / green skills | brain health economy | 1 | ibanez2024neuroecological |
+| Brain health | brain health outcomes | 1 | ibanez2024neuroecological |
+| Micro- and nanoplastics | plastics, BPA, phthalates | 1 | ibanez2024neuroecological |

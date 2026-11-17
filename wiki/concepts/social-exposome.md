@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-17
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -27,6 +27,7 @@ superseded_by: ""
 - Places of social interaction include the neighborhood physical environment, including green and blue spaces ([[gudimindermann2023integrating]], p. 9, Table 2).
 - Operationalization is proposed dimension by dimension, combining individual scales with area-level administrative statistics; the authors acknowledge it may be too generic ([[gudimindermann2023integrating]], p. 15–16).
 - Earlier related labels: socio-exposome, public health exposome, psychoexposome, compound exposome (secondhand via [[gudimindermann2023integrating]], p. 2).
+- Ibanez et al. define the social exposome as "aggregate- and individual-level factors related to disparity and inequality", with Gini and HDI as aggregate measures ([[ibanez2024neuroecological]], p. 4).
 
 ## Evidence
 - Conceptual only so far; empirical validation was planned in the Equal-Life project ([[gudimindermann2023integrating]], p. 16).
@@ -46,3 +47,4 @@ superseded_by: ""
 ## References
 - Gudi-Mindermann, H., White, M., Roczen, J., Riedel, N., Dreger, S., & Bolte, G. (2023). Integrating the social environment with an equity perspective into the exposome paradigm. *Environmental Research, 233*, Article 116485.
 - Knobel, P., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*, 240–249.
+- Ibanez, A., et al. (2024). Neuroecological links of the exposome and One Health. *Neuron, 112*(12), 1905–1910. https://doi.org/10.1016/j.neuron.2024.04.016
