@@ -15,9 +15,9 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Biogenics hypothesis | biogenic emissions, phytoncides | 3 | nieuwenhuijsen2017fifty, knobel2021quality, knobel2026beyond |
 | Life-space mobility | | 1 | knobel2026residential |
 | Life-course approach | critical windows, accumulation of risk | 6 | wild2005complementing, gudimindermann2023integrating, crimmins2020social, hwang2025comprehensive, ibanez2024neuroecological, kareem2025role — reached 5, promote at next lint |
-| Allostatic load | allostatic overload | 3 | crimmins2020social, gudimindermann2023integrating, migeot2025social |
+| Allostatic load | allostatic overload | 4 | crimmins2020social, gudimindermann2023integrating, migeot2025social, hernandez2025exposome |
 | Inflammaging | chronic low-grade inflammation, SASP | 3 | kennedy2014geroscience, crimmins2020social, kareem2025role |
-| Epigenetic clocks / biological age | epigenetic age acceleration, DNA methylation age, phenotypic age | 3 | kennedy2014geroscience, crimmins2020social, knobel2025social — phenotypic age split out to [[phenotypic-age]] (outcome of knobel2025social) |
+| Epigenetic clocks / biological age | epigenetic age acceleration, DNA methylation age, phenotypic age | 4 | kennedy2014geroscience, crimmins2020social, knobel2025social, hernandez2025exposome — phenotypic age split out to [[phenotypic-age]] (outcome of knobel2025social) |
 | Hallmarks of aging (López-Otín 2013) | biological hallmarks of aging | 2 | kennedy2014geroscience, crimmins2020social |
 | Differential vulnerability / effect modification by SES | exposure differentials, equigenic hypothesis | 5 | gudimindermann2023integrating, markevych2017exploring, knobel2021associations, knobel2023socioeconomic, knobel2025social — promoted to [[differential-vulnerability]] |
 | Embodiment (Krieger) | eco-social theory, social-to-biological transition | 2 | gudimindermann2023integrating, neufcourt2022assessing |
@@ -28,7 +28,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Effect modification by sex and age | sex differences, life stage susceptibility | 4 | wu2025air, fernandeznunez2022gender, knobel2025social, fernando2026association — sex/gender part promoted to [[sex-and-gender-effect-modification]] (subject of fernandeznunez2022gender) |
 | Multi-exposure / mixtures analysis | co-exposures, joint effects, quantile g-computation | 5 | wu2025air, hwang2025comprehensive, knobel2024association, knobel2025social, krasnov2026association — promoted to [[multi-exposure-analysis]] |
 | Nature-based solutions | green infrastructure, nature-based interventions | 3 | knobel2021associations, adewuyi2023health, knobel2026beyond |
-| Hearing loss | hearing impairment | 1 | hwang2025comprehensive |
+| Hearing loss | hearing impairment | 2 | hwang2025comprehensive, hernandez2025exposome |
 | Physical activity (as outcome/mediator) | MVPA | 5 | adewuyi2023health, knobel2021associations, knobel2021quality, fernandeznunez2022differences, knobel2026beyond — promoted to [[physical-activity]] (outcome of knobel2021quality) |
 | Social Vulnerability Index (CDC SVI) | SVI, social vulnerability | 1 | knobel2025social |
 | PM2.5 components / source apportionment | non-negative matrix factorization, PM2.5 sources | 2 | knobel2023socioeconomic, krasnov2026association |
@@ -66,3 +66,5 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Walkability | walkability index | 1 | dehoogh2025europewide |
 | Imperviousness / grey space | soil sealing | 1 | dehoogh2025europewide |
 | Temporal stability of exposure surfaces | temporal misalignment, back-extrapolation | 1 | dehoogh2025europewide |
+| Sociopolitical determinants of health | democracy indices, political polarization | 1 | hernandez2025exposome |
+| Functional ability | ADL/IADL, functional decline | 1 | hernandez2025exposome |

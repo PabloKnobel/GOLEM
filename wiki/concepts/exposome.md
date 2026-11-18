@@ -38,6 +38,7 @@ superseded_by: ""
 - Agnostic exposome-wide analyses may ignore the hierarchy between upstream social variables (race/ethnicity, class) and downstream exposures ([[neufcourt2022assessing]], p. 4); 26 of 73 social-exposome studies gave no formal exposome definition (p. 3).
 - A short narrative review (no search strategy) attributes accelerated aging and Alzheimer's and Parkinson's disease to air pollution, heavy metals, pesticides, endocrine disruptors, diet and lifestyle via oxidative stress, inflammation and epigenetic change; all claims are secondhand summaries of cited work ([[kareem2025role]], p. S2–S4, Table 1).
 - A pan-European external-exposome database (33 factors, 2000–2020) found mostly weak cross-factor correlations (R < 0.4) and stable spatial contrasts over time, but could not harmonise the social or food environment across Europe ([[dehoogh2025europewide]], p. 1–2, 12).
+- A 40-country study operationalized a country-level physical, social and sociopolitical exposome (PM2.5, Gini, gender inequality, migration, democracy indices) and linked adverse values to accelerated [[biobehavioral-age-gap]] (d = 0.53); the analysis is ecological ([[hernandez2025exposome]], p. 3090, 3092; Methods).
 
 ## Pablo's framing
 - (none filed yet)
@@ -59,3 +60,4 @@ superseded_by: ""
 - Neufcourt, L., Castagné, R., Mabile, L., Khalatbari-Soltani, S., Delpierre, C., & Kelly-Irving, M. (2022). Assessing how social exposures are integrated in exposome research: A scoping review. *Environmental Health Perspectives, 130*(11), Article 116001. https://doi.org/10.1289/EHP11015
 - Kareem, M. A., Ashwini, A., & Sunil, T. (2025). The role of the exposome in aging and age-related diseases: A comprehensive review. *Journal of Pharmacy and Bioallied Sciences, 17*(Suppl 1), S2–S5. https://doi.org/10.4103/jpbs.jpbs_599_25
 - de Hoogh, K., et al. (2025). A Europe-wide characterization of the external exposome: A spatio-temporal analysis. *Environment International, 200*, Article 109542. https://doi.org/10.1016/j.envint.2025.109542
+- Hernandez, H., et al. (2025). The exposome of healthy and accelerated aging across 40 countries. *Nature Medicine, 31*(9), 3089–3100. https://doi.org/10.1038/s41591-025-03808-2

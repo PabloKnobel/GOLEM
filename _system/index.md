@@ -18,6 +18,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[ryc-2026]] — project — Ramón y Cajal 2026 application (vault pilot)
 
 ## Concepts
+- [[biobehavioral-age-gap]] — concept — BBAG, survey-based aging clock (Hernandez 2025)
 - [[air-pollution]] — concept — PM2.5, NO2 and other ambient pollutants
 - [[ambient-temperature]] — concept — outdoor air temperature as an exposure
 - [[atherosclerotic-cardiovascular-disease]] — concept — ASCVD (MI, ischemic stroke, PAD), CVD and CVD mortality
@@ -54,6 +55,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[fernando2026association]] — paper — Fernando 2026, short-term NO2 and ischemic stroke/TIA, Israeli national case-crossover
 - [[gudimindermann2023integrating]] — paper — Gudi-Mindermann 2023, Social Exposome framework
 - [[hwang2025comprehensive]] — paper — Hwang 2025, noise–dementia meta-analysis, HR 1.15 per 10 dB (Pablo senior author)
+- [[hernandez2025exposome]] — paper — Hernandez 2025, country-level exposome and biobehavioral age gaps, 161,981 adults in 40 countries
 - [[ibanez2024neuroecological]] — paper — Ibanez 2024, NeuroView commentary on exposome, One Health and brain capital
 - [[kareem2025role]] — paper — Kareem 2025, short narrative review of the exposome in aging and neurodegeneration (low evidence)
 - [[kaplan1995restorative]] — paper — Kaplan 1995, Attention Restoration Theory framework
@@ -76,6 +78,8 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[wu2025air]] — paper — Wu 2025, PM2.5, NO2, temperature and HbA1c in PROGRESS children (Pablo co-author)
 
 ## Findings
+- [[biobehavioral-age-gap--functional-cognitive-decline--hernandez2025exposome]] — finding — BBAG → functional (RR 1.40) and cognitive (RR 1.25) decline
+- [[country-exposome--biobehavioral-age-gap--hernandez2025exposome]] — finding — adverse country-level exposome ↔ larger BBAG (d 0.53)
 - [[ambient-temperature--hba1c--wu2025air]] — finding — −0.626% HbA1c per 1 °C in children
 - [[biological-aging-measures--age-related-health-outcomes--crimmins2020social]] — finding — biological markers explain 6–10% of variance
 - [[bird-biodiversity--frailty-index--knobel2026residential-by-age]] — finding — association strongest at 65–74, absent ≥85
