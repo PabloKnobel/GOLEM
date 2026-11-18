@@ -48,6 +48,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 ## Papers
 - [[adewuyi2023health]] — paper — Adewuyi 2023, systematic review of 31 green prescription RCTs (Pablo co-author)
 - [[crimmins2020social]] — paper — Crimmins 2020, social hallmarks of aging, HRS analysis
+- [[dehoogh2025europewide]] — paper — de Hoogh 2025, EXPANSE Europe-wide maps of 33 external exposome factors, 2000–2020
 - [[fernandeznunez2022differences]] — paper — Fernández Núñez 2022, review of sex/gender differences in greenness–cardiometabolic health, 22 studies (Pablo senior author)
 - [[fernandeznunez2022gender]] — paper — Fernández Núñez 2022, review of sex/gender differences in greenness–mental health, 16 studies (Pablo senior author)
 - [[fernando2026association]] — paper — Fernando 2026, short-term NO2 and ischemic stroke/TIA, Israeli national case-crossover

@@ -33,10 +33,13 @@ superseded_by: ""
 - The site's partner list shows 12 European countries plus the USA, not the 14 stated.
 - Claude's reading: EXPANSE PI names overlap with authors in the vault's exposome papers (e.g., a C. Delpierre co-authored [[neufcourt2022assessing]]); same person not confirmed.
 
+- Exposure work package output: harmonised maps of 33 external exposome factors for Europe, 2000–2020, openly available via the Exposome maps platform. The health data span administrative, child and adult cohorts of "over 25 million individuals" ([[dehoogh2025europewide]], p. 2, 13).
+- Full name: "EXposome Powered tools for healthy living in urbAN Settings" ([[dehoogh2025europewide]], p. 2).
+
 > [!todo] Not read yet: per-WP pages, /urban-exposome, /toolbox, /publications, advisory boards. The website does not show the proposal text itself.
 
 ## Appears in
-- [[exposome-research]]
+- [[exposome-research]] · [[dehoogh2025europewide]]
 
 ## See also
 - [[stage-project]] (the other EU model project) · [[exposome]] · [[multi-exposure-analysis]]

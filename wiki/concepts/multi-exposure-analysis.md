@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]", "[[urban-environmental-hazards]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-18
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -33,6 +33,7 @@ superseded_by: ""
 - Metal-industry PM2.5 associated with diabetes and glucose, while total PM2.5 mass was null; the authors argue source effects "were masked" by pooling into mass ([[krasnov2026association]], p. 500) → [[metal-industry-pm25--diabetes--krasnov2026association]].
 - Historical WTC disaster exposure and later PM2.5 both associated with glucose in the same model ([[knobel2024association]], p. 91) → [[wtc-exposure--glucose--knobel2024association]].
 - In noise–dementia studies, four of seven adjusted for air pollution and three examined joint effects ([[hwang2025comprehensive]], p. 8).
+- Across 120,264 European points, most external-exposome factors correlated weakly (R < 0.4; NO2 vs imperviousness R 0.75 an exception). Some pairs flipped sign between Europe-wide and within-country analyses (O3 vs temperature), so the authors recommend country-specific analyses alongside pooled ones ([[dehoogh2025europewide]], p. 8, 13).
 
 ## Pablo's framing
 - [[2025-paper-svi-biological-aging-nyc]]: an overall score "might oversimplify"; themes evaluated "simultaneously, as they occur in real life" (p. 245).
@@ -50,3 +51,4 @@ superseded_by: ""
 - Krasnov, H., et al. (2026). The association between long-term exposure to PM2.5 constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders. *American Journal of Epidemiology, 195*(2), 497–504.
 - Knobel, P., Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels. *American Journal of Epidemiology, 193*(1), 87–95.
 - Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.
+- de Hoogh, K., et al. (2025). A Europe-wide characterization of the external exposome: A spatio-temporal analysis. *Environment International, 200*, Article 109542. https://doi.org/10.1016/j.envint.2025.109542

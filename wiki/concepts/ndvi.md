@@ -9,7 +9,7 @@ projects: ["[[ryc-2026]]"]
 portals: ["[[urban-green-space-quality]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-18
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -33,6 +33,7 @@ superseded_by: ""
 - Of 22 greenness–cardiometabolic studies, 68.2% measured residential surrounding greenness, mostly by NDVI; NDVI studies more often found greater protection for females/women (57.1%) ([[fernandeznunez2022differences]], p. 1057, 1061).
 - In older New Yorkers, a High Cover profile, which the authors liken to NDVI-based exposure, was not clearly associated with ASCVD (HR 0.95; 0.88–1.02), unlike park access, street-tree and waterfront profiles ([[knobel2026beyond]], p. 4).
 - High NDVI can be "green but unreachable" (secondhand via [[knobel2026beyond]], p. 1).
+- In Europe, 300 m NDVI correlated R −0.67 with NO2 and moderately strongly (negatively) with degree of urbanisation. Its spatial contrast was stable from 2000 to 2020 (R 0.96 Europe-wide), and population-weighted NDVI rose slightly ([[dehoogh2025europewide]], p. 8–9, Fig. 4).
 
 ## Pablo's framing
 - [[2021-paper-greenness-cvd-philadelphia]]: NDVI as a comparator that missed associations seen with perceived and type-specific measures.
@@ -51,3 +52,4 @@ superseded_by: ""
 - Knobel, P., Dadvand, P., & Maneja-Zaragoza, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. *Health & Place, 59*, Article 102198.
 - Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & Knobel, P. (2022). The differences by sex and gender in the relationship between urban greenness and cardiometabolic health: A systematic review. *Journal of Urban Health, 99*, 1054–1067.
 - Knobel, P., Singhvi, A., Krasnov, H., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak Sade, M. (2026). Beyond greenness: Multidimensional urban nature profiles and arteriosclerotic cardiovascular risk. *Environment International, 207*, Article 110033.
+- de Hoogh, K., et al. (2025). A Europe-wide characterization of the external exposome: A spatio-temporal analysis. *Environment International, 200*, Article 109542. https://doi.org/10.1016/j.envint.2025.109542

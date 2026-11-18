@@ -9,7 +9,7 @@ projects: []
 portals: ["[[urban-environmental-hazards]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-17
+updated: 2026-11-18
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -41,6 +41,7 @@ superseded_by: ""
 - Long-term source-apportioned PM2.5: metal-industry PM2.5 associated with diabetes incidence (+8.35%) and glucose (+1.31%) per IQR; annual total PM2.5 mass null in WTC responders ([[krasnov2026association]], p. 501) → [[metal-industry-pm25--diabetes--krasnov2026association]], [[metal-industry-pm25--glucose--krasnov2026association]].
 - Sex differences in source-specific glucose associations ([[krasnov2026association]], p. 499) → [[pm25-sources--glucose--krasnov2026association-by-sex]].
 - NO2 (short-term): cumulative lag 0–5 OR 1.057 per 8 ppb for ischemic stroke/TIA in Israel, independent of PM2.5 and temperature; PM2.5 itself null in that model ([[fernando2026association]], p. 4, 7) → [[no2--atherosclerotic-cardiovascular-disease--fernando2026association]]; modified by urbanicity, sex and age → [[no2--atherosclerotic-cardiovascular-disease--fernando2026association-by-subgroup]].
+- Europe 2000–2019: population-weighted NO2, PM10 and PM2.5 fell in every country (smaller declines in Eastern Europe) while O3 trends were mixed. Spatial contrasts were stable over 20 years (2000 vs 2019 R ≥ 0.86 except O3, R 0.66) ([[dehoogh2025europewide]], p. 8, Fig. 4).
 
 ## Pablo's framing
 - [[2025-paper-air-pollution-temperature-hba1c-children]]: exposures "do not present in isolation" (p. 2).
@@ -63,3 +64,4 @@ superseded_by: ""
 - Knobel, P., Hwang, I., Castro, E., Sheffield, P., Holaday, L., Shi, L., Amini, H., Schwartz, J., & Yitshak Sade, M. (2023). Socioeconomic and racial disparities in source-apportioned PM2.5 levels across urban areas in the contiguous US, 2010. *Atmospheric Environment, 303*, Article 119753.
 - Krasnov, H., Knobel, P., Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., Kloog, I., & Yitshak-Sade, M. (2026). The association between long-term exposure to PM2.5 constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders. *American Journal of Epidemiology, 195*(2), 497–504.
 - Fernando, P. S., Krasnov, H., Kloog, I., He, M. Z., Ifergane, G., Zucker, I., Novack, V., Libruder, C., & Yitshak-Sade, M. (2026). The association between short-term nitrogen dioxide (NO2) exposure and ischemic stroke or transient ischemic attacks (TIA): A national study in Israel. *Scientific Reports*. https://doi.org/10.1038/s41598-026-75950-x
+- de Hoogh, K., et al. (2025). A Europe-wide characterization of the external exposome: A spatio-temporal analysis. *Environment International, 200*, Article 109542. https://doi.org/10.1016/j.envint.2025.109542

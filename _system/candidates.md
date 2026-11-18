@@ -37,7 +37,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Perceived safety in green space | fear of crime, incivilities | 4 | fernandeznunez2022gender, knobel2021development, fernandeznunez2022differences, knobel2021quality |
 | Mental health (green space outcome) | depression, stress | 1 | fernandeznunez2022gender |
 | Inter-rater reliability of audits | ICC, Cronbach's alpha, test–retest | 2 | knobel2021development, knobel2021quality |
-| Blue space | waterfront, aquatic environments | 1 | knobel2026beyond |
+| Blue space | waterfront, aquatic environments | 2 | knobel2026beyond, dehoogh2025europewide |
 | Street-tree diversity | tree species Shannon index | 1 | knobel2026beyond |
 | Data-driven exposure profiles | k-means clustering, urban nature profiles | 1 | knobel2026beyond |
 | Environmental Justice Index (CDC EJI) | EJI | 1 | knobel2026beyond |
@@ -62,3 +62,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Parkinson's disease | PD | 1 | kareem2025role |
 | Heavy metals | lead, arsenic, mercury | 1 | kareem2025role |
 | Pesticides | organophosphates, paraquat, rotenone | 1 | kareem2025role |
+| Light-at-night | LAN, artificial light at night, VIIRS | 1 | dehoogh2025europewide |
+| Walkability | walkability index | 1 | dehoogh2025europewide |
+| Imperviousness / grey space | soil sealing | 1 | dehoogh2025europewide |
+| Temporal stability of exposure surfaces | temporal misalignment, back-extrapolation | 1 | dehoogh2025europewide |
