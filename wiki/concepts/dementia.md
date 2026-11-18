@@ -9,7 +9,7 @@ projects: []
 portals: ["[[urban-environmental-hazards]]", "[[urban-nature-and-aging]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-17
+updated: 2026-11-18
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -30,6 +30,7 @@ superseded_by: ""
 ## Evidence
 - Long-term residential noise: pooled HR 1.15 (1.03–1.28) per 10 dB ([[hwang2025comprehensive]], p. 6–7) → [[environmental-noise--dementia--hwang2025comprehensive]].
 - Social exposome: a latent multidimensional social exposome score was associated with worse cognition, function and neuropsychiatric symptoms in AD and FTLD, and with lower gray matter volume in fronto-temporo-limbic and cerebellar regions, in a cross-sectional Latin American clinical sample ([[migeot2025social]], p. 3–5) → [[social-exposome--dementia--migeot2025social]].
+- A narrative review states that air pollution and heavy metals raise Alzheimer's risk via amyloid-beta and tau pathology and that pesticides (paraquat, rotenone) are linked to Parkinson's disease; secondhand summaries, no original data ([[kareem2025role]], p. S3–S4).
 
 ## Pablo's framing
 - [[2025-paper-noise-dementia-meta-analysis]]: exposome approach to environmental drivers of dementia.
@@ -43,3 +44,4 @@ superseded_by: ""
 ## References
 - Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.
 - Migeot, J., et al. (2025). Social exposome and brain health outcomes of dementia across Latin America. *Nature Communications, 16*, Article 8196. https://doi.org/10.1038/s41467-025-63277-6
+- Kareem, M. A., Ashwini, A., & Sunil, T. (2025). The role of the exposome in aging and age-related diseases: A comprehensive review. *Journal of Pharmacy and Bioallied Sciences, 17*(Suppl 1), S2–S5. https://doi.org/10.4103/jpbs.jpbs_599_25

@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-17
+updated: 2026-11-18
 last_verified: 2026-11-15
 confidence: high
 generated: true
@@ -29,12 +29,14 @@ superseded_by: ""
 - Later methods named for exposome studies: geolocation, portable and personal sensing, participatory methods, network science ([[gudimindermann2023integrating]], p. 13).
 - An integrated view splits the external exposome into a social and a physical exposome, with the internal exposome as mediator ([[gudimindermann2023integrating]], p. 15, Fig. 3).
 - A brain-health framing divides the external exposome into physical (pollution, metals, plastics) and social (aggregate and individual inequality) parts interacting with the internal exposome via epigenetics, and links it to [[one-health]] ([[ibanez2024neuroecological]], p. 3–4).
+- A narrative review on aging defines the exposome as "all environmental exposures from conception to death" and splits it into external (environmental) and internal (lifestyle) factors, a different use of "internal" than the biological internal exposome above ([[kareem2025role]], p. S2–S3, Fig. 1).
 
 ## Evidence
 - Exposome reviews and commentaries far outnumber original exposome studies (Haddad et al. 2019, secondhand via [[gudimindermann2023integrating]], p. 13).
 - Gudi-Mindermann et al. argue that treating social variables only as confounders is problematic in exposome designs, where exposures are interrelated ([[gudimindermann2023integrating]], p. 14).
 - A noise–dementia meta-analysis calls for exposome approaches to disentangle noise from co-occurring air pollution, heat and road proximity in urban settings ([[hwang2025comprehensive]], p. 8).
 - Agnostic exposome-wide analyses may ignore the hierarchy between upstream social variables (race/ethnicity, class) and downstream exposures ([[neufcourt2022assessing]], p. 4); 26 of 73 social-exposome studies gave no formal exposome definition (p. 3).
+- A short narrative review (no search strategy) attributes accelerated aging and Alzheimer's and Parkinson's disease to air pollution, heavy metals, pesticides, endocrine disruptors, diet and lifestyle via oxidative stress, inflammation and epigenetic change; all claims are secondhand summaries of cited work ([[kareem2025role]], p. S2–S4, Table 1).
 
 ## Pablo's framing
 - (none filed yet)
@@ -54,3 +56,4 @@ superseded_by: ""
 - Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.
 - Ibanez, A., et al. (2024). Neuroecological links of the exposome and One Health. *Neuron, 112*(12), 1905–1910. https://doi.org/10.1016/j.neuron.2024.04.016
 - Neufcourt, L., Castagné, R., Mabile, L., Khalatbari-Soltani, S., Delpierre, C., & Kelly-Irving, M. (2022). Assessing how social exposures are integrated in exposome research: A scoping review. *Environmental Health Perspectives, 130*(11), Article 116001. https://doi.org/10.1289/EHP11015
+- Kareem, M. A., Ashwini, A., & Sunil, T. (2025). The role of the exposome in aging and age-related diseases: A comprehensive review. *Journal of Pharmacy and Bioallied Sciences, 17*(Suppl 1), S2–S5. https://doi.org/10.4103/jpbs.jpbs_599_25

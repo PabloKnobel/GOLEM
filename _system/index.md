@@ -54,6 +54,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[gudimindermann2023integrating]] — paper — Gudi-Mindermann 2023, Social Exposome framework
 - [[hwang2025comprehensive]] — paper — Hwang 2025, noise–dementia meta-analysis, HR 1.15 per 10 dB (Pablo senior author)
 - [[ibanez2024neuroecological]] — paper — Ibanez 2024, NeuroView commentary on exposome, One Health and brain capital
+- [[kareem2025role]] — paper — Kareem 2025, short narrative review of the exposome in aging and neurodegeneration (low evidence)
 - [[kaplan1995restorative]] — paper — Kaplan 1995, Attention Restoration Theory framework
 - [[kennedy2014geroscience]] — paper — Kennedy 2014, geroscience and seven pillars of aging
 - [[knobel2019systematic]] — paper — Knobel 2019, review of 15 green space quality audit tools
