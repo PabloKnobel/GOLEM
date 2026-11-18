@@ -96,6 +96,8 @@ generated: true, reviewed: false, superseded_by`.
    Project subfolders: an item inside a Drive/inbox subfolder named after a project slug
    (`wiki/projects/<slug>.md`) gets that slug in `projects:` on every page it creates or updates.
    Unknown subfolder name → process anyway, flag in the digest, don't create a hub.
+   Large files: Obsidian Sync skips files over its plan's size limit without warning, so large PDFs go via the Drive folder.
+   Web items (URLs) need an interactive session (unattended runs can't approve fetches): hold them and flag.
 2. Per item: screen (§2 hard rules) → convert with `_system/scripts/convert.py` → save original +
    `.md` text in `raw/<type>/` → record sha256 in `_system/manifest.csv`.
    Same hash already in manifest → skip as duplicate.

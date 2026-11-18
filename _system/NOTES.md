@@ -29,3 +29,10 @@
 - Done: 8 project hubs + inbox-subfolder rule + students' material allowed (CLAUDE.md §2, §7); 4 my-work pages (R21 science [submitted], HEALS nature-impairment v5 [superseded], HEALS 311 CVD LOI [not approved], P30 311 frailty Dec 2025); entities nhats, nyc-311-service-requests.
 - Tried: push needs the repo attached with push access in the session (403 otherwise); PDF conversion needs `pip install pymupdf4llm`.
 - Open: current nature-impairment plan not in vault; Pablo to create the 8 inbox subfolders; paper→project tags were Claude's choice, unreviewed.
+
+## Session 2026-11-18
+- Done: 4 items ingested (kareem2025role; websites note → entities stage-project, expanse-project as Pablo's EU grant models; dehoogh2025europewide; hernandez2025exposome + new concept biobehavioral-age-gap). Drive "processed" subfolder created (id 1PhafRVQggiwAAzp0ZlukozVNdFlmsmYD).
+- Found: Obsidian Sync file-size limit silently blocked 2 PDFs (bridge healthy). Large PDFs → Drive inbox (added to CLAUDE.md §7).
+- Tried: web fetch in the unattended daily run (needs approval; done in chat instead).
+- Next (Pablo): build a network of contacts, collaborators and colleagues in GOLEM (people/entity pages; CLAUDE.md §5 currently limits people pages to often-cited authors and named collaborators, no private details — scope to agree first).
+- Open: Pablo to review the 9 new [!uncertain] items from kareem2025role and hernandez2025exposome; paper→project tags for the 3 new papers not set.
