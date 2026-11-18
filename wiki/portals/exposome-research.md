@@ -48,3 +48,4 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 - [[urban-environmental-hazards]]
 - [[differential-vulnerability]]
 - [[multi-exposure-analysis]]
+- EU model projects (Pablo's grant references): [[expanse-project]] · [[stage-project]]

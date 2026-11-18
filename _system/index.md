@@ -116,12 +116,14 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[wtc-exposure--glucose--knobel2024association]] — finding — +0.82 mg/dL glucose, high vs low WTC exposure
 
 ## Entities
+- [[expanse-project]] — entity — Horizon 2020 urban exposome consortium (Utrecht); Pablo's EU grant model
 - [[ebird]] — entity — citizen-science bird checklist dataset
 - [[health-and-retirement-study]] — entity — US older-adult cohort with 2016 biomarkers
 - [[litcog]] — entity — Chicago older-adult cohort (Northwestern; R01 Aim 2)
 - [[mount-sinai-data-warehouse]] — entity — Mount Sinai Health System EHR (NYC)
 - [[progress-cohort]] — entity — Mexico City birth cohort (PROGRESS)
 - [[recital]] — entity — Pablo's 90-item green space quality audit tool
+- [[stage-project]] — entity — Horizon Europe healthy ageing and multi-morbidity consortium (Oulu, 2024–2029); Pablo's EU grant model
 - [[wtc-health-program]] — entity — WTC general responder cohort
 
 ## My work
