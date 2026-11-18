@@ -1,0 +1,39 @@
+---
+type: entity
+kind: person
+title: "Juan Pablo Horcajada"
+aliases: []
+affiliation: "Hospital Del Mar; Municipal Institute for Medical Research; Hospital del Mar Research Institute"
+email: ""
+orcid: "0000-0001-9873-5459"
+expertise: []
+roles: ["co-author"]
+n_coauthored: 1
+n_events: 0
+first_contact: 2021
+last_contact: 2021
+projects: []
+portals: [network]
+tags: [entity, person]
+created: 2026-11-18
+updated: 2026-11-18
+last_verified:
+confidence: medium
+generated: true
+reviewed: false
+superseded_by: ""
+---
+
+**Juan Pablo Horcajada** is a co-author of Pablo's. Affiliation: Hospital Del Mar; Municipal Institute for Medical Research; Hospital del Mar Research Institute (OpenAlex, 2021).
+
+## Notes
+- Professional context only (role, shared work, expertise Pablo or a program states). No private details.
+
+<!-- network:auto start -->
+## Shared work and events
+_Generated from `_system/network/`; edit the tables, not this list._
+- 2021 · co-author · Coronavirus disease 2019 (COVID-19) mRNA vaccine effectiveness in asymptomatic healthcare workers (https://doi.org/10.1017/ice.2021.287)
+<!-- network:auto end -->
+
+## See also
+- [[network]]

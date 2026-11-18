@@ -1,0 +1,42 @@
+work_id,doi,title,year,type,citekey
+W2476235084,10.5822/978-1-61091-756-8_25,The Vital Role of Biodiversity in Urban Sustainability,2016,book-chapter,
+W2502146613,10.5822/978-1-61091-756-8_21,"CITY VIEW: Barcelona, Spain",2016,book-chapter,
+W2562150410,,El papel vital de la biodiversidad en la sostenibilidad urbana,2016,article,
+W2504938697,10.5822/978-1-61091-756-8_26,"CITY VIEW: Jerusalem, Israel",2016,book-chapter,
+W2973097577,10.1016/j.healthplace.2019.102198,A systematic review of multi-dimensional quality assessment tools for urban green spaces,2019,review,knobel2019systematic
+W2980786967,10.3390/ijerph16203986,"Natural Landscape, Infrastructure, and Health: The Physical Activity Implications of Urban Green Space Composition among the Elderly",2019,article,
+W3115248288,10.1016/j.envpol.2020.116393,"Quality of urban green spaces influences residents’ use of these spaces, physical activity, and overweight/obesity",2020,article,knobel2021quality
+W3093785296,10.1016/j.ufug.2020.126895,Development of the urban green space quality assessment tool (RECITAL),2020,article,knobel2021development
+W3138390815,10.1016/j.envres.2021.110990,"Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis",2021,article,knobel2021associations
+W3174404436,10.1017/ice.2021.287,Coronavirus disease 2019 (COVID-19) mRNA vaccine effectiveness in asymptomatic healthcare workers,2021,article,
+W3200182956,10.1016/j.scitotenv.2021.150308,Environmental heterogeneity in human health studies. A compositional methodology for Land Use and Land cover data,2021,article,
+W4210396290,10.1016/j.scitotenv.2022.153608,Greenspace exposure and children behavior: A systematic review,2022,review,
+W4285602124,10.1016/j.healthplace.2022.102864,Gender and sex differences in urban greenness’ mental health benefits: A systematic review,2022,review,fernandeznunez2022gender
+W4298148042,10.1007/s11524-022-00685-9,The Differences by Sex and Gender in the Relationship Between Urban Greenness and Cardiometabolic Health: A Systematic Review,2022,review,fernandeznunez2022differences
+W4312187416,10.3389/fnagi.2022.1042488,Biological age and environmental risk factors for dementia and stroke: Molecular mechanisms,2022,review,
+W4316924607,10.1289/isee.2022.o-op-002,Air pollution exposure and glucose and lipids levels among the World Trade Center Health Program General Responder cohort,2022,conference-abstract,
+W4316924910,10.1289/isee.2022.p-1082,Historical redlining and modern-day cardiovascular disease across New York City,2022,conference-abstract,
+W4385754859,10.1016/j.envres.2023.116844,Health effects of green prescription: A systematic review of randomized controlled trials,2023,review,adewuyi2023health
+W4362633547,10.1016/j.atmosenv.2023.119753,"Socioeconomic and racial disparities in source-apportioned PM2.5 levels across urban areas in the contiguous US, 2010",2023,article,knobel2023socioeconomic
+W4385295698,10.1080/25787489.2023.2239564,Switching to Dolutegravir/lamivudine or Bictegravir/Emtricitabine/Tenofovir alafenamide. A comparative real-world study,2023,article,
+W4385857706,10.1093/aje/kwad173,The Association of Air Pollution Exposure With Glucose and Lipid Levels: The Role of an Extreme Air Pollution Event Alongside 2 Decades of Moderate Exposure,2023,article,knobel2024association
+W4404711528,10.1056/evidoa2400182,Source-Specific PM 2.5 and Atherosclerotic Cardiovascular Disease Mortality,2024,article,
+W4401166397,10.1289/isee.2024.1069,World Trade Center (wtc) related exposures and cardiometabolic risk among the wtc Health Program General Responder Cohort,2024,conference-paper,
+W4401166540,10.1289/isee.2024.0183,PM2.5 components mixture and atherosclerotic cardiovascular disease mortality: a national analysis of Medicare enrollees,2024,conference-paper,
+W4393155320,10.1101/2024.03.23.24304739,PM 2.5 components mixture and atherosclerotic cardiovascular disease mortality: a national analysis of Medicare enrollees,2024,preprint,
+W4401166333,10.1289/isee.2024.0613,Disentangling Environmental Influences on Aging: A Comprehensive Analysis of Phenotypic Age Acceleration and Urban Exposures,2024,conference-paper,
+W4416121161,10.1016/j.lanplh.2025.101370,Methodological guidance for selecting buffers in greenspace–health studies,2025,review,
+W4411325595,10.3389/phrs.2025.1607355,A Comprehensive Systematic Review and Meta-Analysis to Unravel the Noise-Dementia Nexus,2025,review,hwang2025comprehensive
+W4410601528,10.1161/jaha.124.039503,Temperature Exposure and Acute Cardiovascular Disease Risk in New York City: Case Time Series,2025,article,
+W4410390639,10.2105/ajph.2025.308079,World Trade Center (WTC) Exposures and Cardiometabolic Risk Among WTC Health Program General Responders,2025,article,
+W4409251058,10.1016/j.chemosphere.2025.144390,The association between long-term exposure to PM2.5 constituents and ischemic stroke in the New York City metropolitan area,2025,article,
+W4406353633,10.1007/s11524-024-00948-7,Social Vulnerability and Biological Aging in New York City: An Electronic Health Records-Based Study,2025,article,knobel2025social
+W4415468513,10.1093/aje/kwaf238,The association between long-term exposure to PM2.5 constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders,2025,article,krasnov2026association
+W7117549110,10.1016/j.envint.2025.110033,Beyond greenness: multidimensional urban nature profiles and arteriosclerotic cardiovascular risk,2025,article,knobel2026beyond
+W4417095039,10.31234/osf.io/e9yva_v1,Beyond exposure: Toward more precise terminology in nature and health research,2025,preprint,
+W4416435218,10.1016/j.ecoenv.2025.119424,"Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico",2025,article,wu2025air
+W7212261653,10.1038/s41467-026-77401-7,"Urban exposures, frailty, and mental illness in World Trade Center Health Program responders",2026,article,
+W7125420933,10.1016/j.jpsychores.2026.112545,"Stressful life events, PTSD symptoms and mental health in people living with HIV",2026,article,
+W7164589123,10.64898/2026.06.10.26355272,Long-term Exposure to PM 2.5 Components and Lipid Profiles in World Trade Center Health Program General Responders,2026,preprint,
+W7165375836,10.1016/j.ajt.2026.05.282,The Carbon Cost of Transplantation: How Liver Transport Shapes Emissions,2026,article,
+W7203865606,10.64898/2026.08.18.26360707,Residential bird biodiversity and frailty deficit accumulation: a longitudinal cohort study in New York City,2026,preprint,knobel2026residential

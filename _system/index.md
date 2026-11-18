@@ -9,6 +9,7 @@ Catalog of every wiki page: one line each, `[[slug]] — type — one-line summa
 when answering and updates it on every ingest. Grouped by type, alphabetical within a group.
 
 ## Portals
+- [[network]] — portal — contacts and collaborators: co-authors, events, people tables in _system/network/
 - [[exposome-research]] — portal — exposome and social exposome research
 - [[urban-environmental-hazards]] — portal — air pollution, environmental noise and ambient temperature
 - [[urban-green-space-quality]] — portal — entry point for green space quality and health
