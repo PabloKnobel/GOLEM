@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]", "[[urban-environmental-hazards]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-18
+updated: 2026-11-19
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -26,6 +26,7 @@ superseded_by: ""
 - Mutually adjusted multi-exposure mixed model of PM2.5, NO2 and temperature, compared with single-exposure models ([[wu2025air]], p. 2–3).
 - Five source-apportioned PM2.5 exposures estimated simultaneously in one model ([[krasnov2026association]], p. 499).
 - Quantile g-computation estimating the joint effect of four SVI themes, with weights by theme, and qgcompint for effect modification ([[knobel2025social]], p. 242–243).
+- The IHEN interim roadmap lists ExWAS, causal inference and deep learning to detect exposure–health associations and exposure clusters, and calls for simulation datasets, reporting standards and common data models; it also asks for mixture risk assessment in EU regulation ([[ihen2026interim]], p. 40–41, 57).
 
 ## Evidence
 - PM2.5 and temperature associated with child HbA1c in a multi-exposure model ([[wu2025air]], p. 3) → [[pm25--hba1c--wu2025air]].
@@ -52,3 +53,4 @@ superseded_by: ""
 - Knobel, P., Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels. *American Journal of Epidemiology, 193*(1), 87–95.
 - Hwang, S. A., et al. (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, Article 1607355.
 - de Hoogh, K., et al. (2025). A Europe-wide characterization of the external exposome: A spatio-temporal analysis. *Environment International, 200*, Article 109542. https://doi.org/10.1016/j.envint.2025.109542
+- IHEN Consortium. (2026). *Interim roadmap focused on exposome research in Europe* [Report]. International Human Exposome Network.

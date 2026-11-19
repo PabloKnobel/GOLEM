@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-18
+updated: 2026-11-19
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -36,6 +36,7 @@ superseded_by: ""
 - Individual-level multidimensional social exposome (MSE) across the lifespan (ten dimensions, 319 items) was associated with cognition, functional ability and neuropsychiatric symptoms in 2,211 Latin American HC, AD and FTLD participants; the combined score outperformed single dimensions ([[migeot2025social]], p. 3–6) → [[social-exposome--dementia--migeot2025social]], [[social-exposome--cognition--migeot2025social-healthy-aging]].
 - A scoping review found 73 empirical exposome studies using social variables to Jan 2022; most used them as exposures or confounders, and only 8 of 35 hypothesis-driven studies discussed a social mechanism ([[neufcourt2022assessing]], p. 3–4). Consistent with the argument that social variables are often treated only as confounders ([[gudimindermann2023integrating]], p. 14).
 - Country-level social (Gini, gender inequality, migration) and sociopolitical (democracy) indicators were associated with accelerated biobehavioral aging across 40 countries, independent of individual SES ([[hernandez2025exposome]], p. 3092, 3094).
+- The IHEN interim roadmap states that socio-economic position "should not be treated solely as a confounding variable" but as a determinant that structures exposure pathways, and lists research needs on socio-markers, embodiment, life-course epidemiology and causal mediation across societal, environmental and biological layers; agenda, not evidence ([[ihen2026interim]], p. 23–24).
 
 ## Pablo's framing
 - (none filed yet)
@@ -54,3 +55,4 @@ superseded_by: ""
 - Migeot, J., et al. (2025). Social exposome and brain health outcomes of dementia across Latin America. *Nature Communications, 16*, Article 8196. https://doi.org/10.1038/s41467-025-63277-6
 - Neufcourt, L., Castagné, R., Mabile, L., Khalatbari-Soltani, S., Delpierre, C., & Kelly-Irving, M. (2022). Assessing how social exposures are integrated in exposome research: A scoping review. *Environmental Health Perspectives, 130*(11), Article 116001. https://doi.org/10.1289/EHP11015
 - Hernandez, H., et al. (2025). The exposome of healthy and accelerated aging across 40 countries. *Nature Medicine, 31*(9), 3089–3100. https://doi.org/10.1038/s41591-025-03808-2
+- IHEN Consortium. (2026). *Interim roadmap focused on exposome research in Europe* [Report]. International Human Exposome Network.

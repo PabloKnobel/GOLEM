@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-18
+updated: 2026-11-19
 last_verified: 2026-11-15
 confidence: high
 generated: true
@@ -39,6 +39,7 @@ superseded_by: ""
 - A short narrative review (no search strategy) attributes accelerated aging and Alzheimer's and Parkinson's disease to air pollution, heavy metals, pesticides, endocrine disruptors, diet and lifestyle via oxidative stress, inflammation and epigenetic change; all claims are secondhand summaries of cited work ([[kareem2025role]], p. S2–S4, Table 1).
 - A pan-European external-exposome database (33 factors, 2000–2020) found mostly weak cross-factor correlations (R < 0.4) and stable spatial contrasts over time, but could not harmonise the social or food environment across Europe ([[dehoogh2025europewide]], p. 1–2, 12).
 - A 40-country study operationalized a country-level physical, social and sociopolitical exposome (PM2.5, Gini, gender inequality, migration, democracy indices) and linked adverse values to accelerated [[biobehavioral-age-gap]] (d = 0.53); the analysis is ecological ([[hernandez2025exposome]], p. 3090, 3092; Methods).
+- The EU-funded IHEN consortium defines the exposome as "the integrated compilation of all the physical, chemical, biological and psychosocial exposure factors, and their interactions, which have an impact on biology and health", and its interim European roadmap sets five research goals (global change, transitions, policy and regulation, medicine, methods and infrastructure). It calls for a long-term European Human Exposome Initiative with large population-based exposome cohorts and FAIR federated data systems; it is an agenda, not evidence ([[ihen2026interim]], p. 6–8, 10, 69).
 
 ## Pablo's framing
 - (none filed yet)
@@ -47,6 +48,7 @@ superseded_by: ""
 
 ## Open questions
 - Claude's reading: how green space quality and biodiversity metrics fit as components of an urban exposome is not addressed by the sources in the vault so far.
+- The IHEN roadmap lists, as research needs, standardized biodiversity metrics (species richness, Shannon/Simpson, functional and genetic diversity) linked to human exposure data, and studies of which types of green and blue space are best for health; it does not answer them ([[ihen2026interim]], p. 17, 45).
 
 ## See also
 - [[social-exposome]] · [[exposome-research]]
@@ -61,3 +63,4 @@ superseded_by: ""
 - Kareem, M. A., Ashwini, A., & Sunil, T. (2025). The role of the exposome in aging and age-related diseases: A comprehensive review. *Journal of Pharmacy and Bioallied Sciences, 17*(Suppl 1), S2–S5. https://doi.org/10.4103/jpbs.jpbs_599_25
 - de Hoogh, K., et al. (2025). A Europe-wide characterization of the external exposome: A spatio-temporal analysis. *Environment International, 200*, Article 109542. https://doi.org/10.1016/j.envint.2025.109542
 - Hernandez, H., et al. (2025). The exposome of healthy and accelerated aging across 40 countries. *Nature Medicine, 31*(9), 3089–3100. https://doi.org/10.1038/s41591-025-03808-2
+- IHEN Consortium. (2026). *Interim roadmap focused on exposome research in Europe* [Report]. International Human Exposome Network.

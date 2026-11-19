@@ -14,20 +14,20 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Biophilia | | 1 | nieuwenhuijsen2017fifty |
 | Biogenics hypothesis | biogenic emissions, phytoncides | 3 | nieuwenhuijsen2017fifty, knobel2021quality, knobel2026beyond |
 | Life-space mobility | | 1 | knobel2026residential |
-| Life-course approach | critical windows, accumulation of risk | 6 | wild2005complementing, gudimindermann2023integrating, crimmins2020social, hwang2025comprehensive, ibanez2024neuroecological, kareem2025role — reached 5, promote at next lint |
+| Life-course approach | critical windows, accumulation of risk | 7 | wild2005complementing, gudimindermann2023integrating, crimmins2020social, hwang2025comprehensive, ibanez2024neuroecological, kareem2025role, ihen2026interim — reached 5, promote at next lint |
 | Allostatic load | allostatic overload | 4 | crimmins2020social, gudimindermann2023integrating, migeot2025social, hernandez2025exposome |
 | Inflammaging | chronic low-grade inflammation, SASP | 3 | kennedy2014geroscience, crimmins2020social, kareem2025role |
 | Epigenetic clocks / biological age | epigenetic age acceleration, DNA methylation age, phenotypic age | 4 | kennedy2014geroscience, crimmins2020social, knobel2025social, hernandez2025exposome — phenotypic age split out to [[phenotypic-age]] (outcome of knobel2025social) |
 | Hallmarks of aging (López-Otín 2013) | biological hallmarks of aging | 2 | kennedy2014geroscience, crimmins2020social |
 | Differential vulnerability / effect modification by SES | exposure differentials, equigenic hypothesis | 5 | gudimindermann2023integrating, markevych2017exploring, knobel2021associations, knobel2023socioeconomic, knobel2025social — promoted to [[differential-vulnerability]] |
-| Embodiment (Krieger) | eco-social theory, social-to-biological transition | 2 | gudimindermann2023integrating, neufcourt2022assessing |
+| Embodiment (Krieger) | eco-social theory, social-to-biological transition | 3 | gudimindermann2023integrating, neufcourt2022assessing, ihen2026interim |
 | Social cohesion | neighborhood social cohesion | 5 | markevych2017exploring, adewuyi2023health, fernandeznunez2022gender, knobel2021quality, knobel2026beyond — promoted to [[social-cohesion]] |
 | Street-level greenery | green view index, Google Street View, Treepedia | 2 | markevych2017exploring, knobel2026beyond |
 | Tree canopy cover | tree cover, urban canopy | 2 | knobel2021associations, knobel2026beyond |
 | Effect modification by race/ethnicity | structural racism, residential segregation, redlining | 4 | knobel2021associations, knobel2023socioeconomic, knobel2025social, knobel2026beyond |
 | Effect modification by sex and age | sex differences, life stage susceptibility | 4 | wu2025air, fernandeznunez2022gender, knobel2025social, fernando2026association — sex/gender part promoted to [[sex-and-gender-effect-modification]] (subject of fernandeznunez2022gender) |
 | Multi-exposure / mixtures analysis | co-exposures, joint effects, quantile g-computation | 5 | wu2025air, hwang2025comprehensive, knobel2024association, knobel2025social, krasnov2026association — promoted to [[multi-exposure-analysis]] |
-| Nature-based solutions | green infrastructure, nature-based interventions | 3 | knobel2021associations, adewuyi2023health, knobel2026beyond |
+| Nature-based solutions | green infrastructure, nature-based interventions | 4 | knobel2021associations, adewuyi2023health, knobel2026beyond, ihen2026interim |
 | Hearing loss | hearing impairment | 2 | hwang2025comprehensive, hernandez2025exposome |
 | Physical activity (as outcome/mediator) | MVPA | 5 | adewuyi2023health, knobel2021associations, knobel2021quality, fernandeznunez2022differences, knobel2026beyond — promoted to [[physical-activity]] (outcome of knobel2021quality) |
 | Social Vulnerability Index (CDC SVI) | SVI, social vulnerability | 1 | knobel2025social |
@@ -54,7 +54,7 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | ReDLat consortium | Multi-Partner Consortium to Expand Dementia Research in Latin America | 1 | migeot2025social |
 | Healthy Aging Phenotype (HAP) | healthy aging domains | 1 | 2026-grant-r01-urban-exposome-aging |
 | Scenario-based health projection | health impact assessment, feasible minimum risk | 1 | 2026-grant-r01-urban-exposome-aging |
-| Exposome-wide association study | ExWAS, agnostic/hypothesis-free approach | 2 | 2026-grant-r01-urban-exposome-aging, neufcourt2022assessing |
+| Exposome-wide association study | ExWAS, agnostic/hypothesis-free approach | 4 | 2026-grant-r01-urban-exposome-aging, neufcourt2022assessing, ihen2026interim, ihen-exposome-training-school-2026 |
 | Mount Sinai GREENER platform | GREENER | 1 | 2026-grant-r01-urban-exposome-aging |
 | Area-level deprivation indices | Carstairs, Townsend, ecological SES | 1 | neufcourt2022assessing |
 | Oxidative stress | free radicals, antioxidants | 1 | kareem2025role |
@@ -68,3 +68,6 @@ Concepts mentioned but not yet worth their own page (rule: own page at ≥5 ment
 | Temporal stability of exposure surfaces | temporal misalignment, back-extrapolation | 1 | dehoogh2025europewide |
 | Sociopolitical determinants of health | democracy indices, political polarization | 1 | hernandez2025exposome |
 | Functional ability | ADL/IADL, functional decline | 1 | hernandez2025exposome |
+| Biodiversity hypothesis (Rook) | microbial biodiversity and immune regulation | 1 | ihen2026interim |
+| Precision prevention | risk-stratified prevention | 1 | ihen2026interim |
+| Pharmaco-exposomics | drug–exposome interactions | 1 | ihen2026interim |

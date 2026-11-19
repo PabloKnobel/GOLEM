@@ -58,6 +58,7 @@ when answering and updates it on every ingest. Grouped by type, alphabetical wit
 - [[hwang2025comprehensive]] — paper — Hwang 2025, noise–dementia meta-analysis, HR 1.15 per 10 dB (Pablo senior author)
 - [[hernandez2025exposome]] — paper — Hernandez 2025, country-level exposome and biobehavioral age gaps, 161,981 adults in 40 countries
 - [[ibanez2024neuroecological]] — paper — Ibanez 2024, NeuroView commentary on exposome, One Health and brain capital
+- [[ihen2026interim]] — paper — IHEN Consortium 2026, interim roadmap for exposome research in Europe (report, 5 goals)
 - [[kareem2025role]] — paper — Kareem 2025, short narrative review of the exposome in aging and neurodegeneration (low evidence)
 - [[kaplan1995restorative]] — paper — Kaplan 1995, Attention Restoration Theory framework
 - [[kennedy2014geroscience]] — paper — Kennedy 2014, geroscience and seven pillars of aging

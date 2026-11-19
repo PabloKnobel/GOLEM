@@ -63,3 +63,4 @@ _Generated from `_system/network/`; edit the tables, not this list._
 ## See also
 - [[network]]
 - [[exposome]] · [[exposome-research]]
+- Related document: [[ihen2026interim]] (the IHEN interim European exposome roadmap)
