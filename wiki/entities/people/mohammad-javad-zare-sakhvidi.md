@@ -3,13 +3,13 @@ type: entity
 kind: person
 title: "Mohammad Javad Zare Sakhvidi"
 aliases: []
-affiliation: "Shahid Sadoughi University of Medical Sciences and Health Services"
+affiliation: "Yazd Shahid Sadoughi University of Medical Sciences"
 email: ""
 orcid: "0000-0003-1276-6487"
 expertise: []
-roles: ["co-author"]
+roles: ["co-author", "participant (2025 cohort)"]
 n_coauthored: 3
-n_events: 0
+n_events: 1
 first_contact: 2022
 last_contact: 2025
 projects: []
@@ -32,6 +32,7 @@ superseded_by: ""
 <!-- network:auto start -->
 ## Shared work and events
 _Generated from `_system/network/`; edit the tables, not this list._
+- 2025 · participant (2025 cohort) · [[ihen-exposome-training-school-2025]] (course)
 - 2025 · co-author · Methodological guidance for selecting buffers in greenspace–health studies (https://doi.org/10.1016/j.lanplh.2025.101370)
 - 2025 · co-author · Beyond exposure: Toward more precise terminology in nature and health research (https://doi.org/10.31234/osf.io/e9yva_v1)
 - 2022 · co-author · Greenspace exposure and children behavior: A systematic review (https://doi.org/10.1016/j.scitotenv.2022.153608)
