@@ -3,20 +3,20 @@ type: entity
 kind: person
 title: "Kees de Hoogh"
 aliases: []
-affiliation: "Swiss Tropical and Public Health Institute; University of Basel"
+affiliation: "Utrecht University"
 email: ""
 orcid: "0000-0001-5974-2007"
 expertise: []
-roles: ["co-author"]
+roles: ["co-author", "trainer"]
 n_coauthored: 1
-n_events: 0
+n_events: 1
 first_contact: 2025
-last_contact: 2025
+last_contact: 2026-11-16
 projects: []
 portals: [network]
 tags: [entity, person]
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 last_verified:
 confidence: medium
 generated: true
@@ -32,6 +32,7 @@ superseded_by: ""
 <!-- network:auto start -->
 ## Shared work and events
 _Generated from `_system/network/`; edit the tables, not this list._
+- 2026-11-16 · trainer · [[ihen-exposome-training-school-2026]] (course)
 - 2025 · co-author · Methodological guidance for selecting buffers in greenspace–health studies (https://doi.org/10.1016/j.lanplh.2025.101370)
 <!-- network:auto end -->
 

@@ -16,7 +16,7 @@ projects: []
 portals: [network]
 tags: [entity, person]
 created: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-19
 last_verified:
 confidence: medium
 generated: true
