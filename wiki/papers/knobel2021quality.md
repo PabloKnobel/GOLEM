@@ -32,7 +32,7 @@ portals: ["[[urban-green-space-quality]]"]
 authored_by_pablo: true
 tags: [paper, my-paper, cross-sectional, green-space-quality, mediation]
 created: 2026-11-15
-updated: 2026-11-16
+updated: 2026-11-22
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -80,6 +80,7 @@ superseded_by: ""
 - extends: [[knobel2021development]] · uses_dataset: [[recital]]
 - [[green-space-quality-assessment]] · [[bird-biodiversity]] · [[physical-activity]] · [[green-space-use]]
 - Findings: [[green-space-quality--physical-activity--knobel2021quality]], [[green-space-quality--overweight-obesity--knobel2021quality]], [[green-space-quality--green-space-use--knobel2021quality]], [[bird-biodiversity--green-space-use--knobel2021quality]]
+- uses_dataset: [[barcelona-health-survey]]
 
 ## References
 - Knobel, P., Maneja, R., Bartoll, X., Alonso, L., Bauwelinck, M., Valentin, A., Zijlema, W., Borrell, C., Nieuwenhuijsen, M., & Dadvand, P. (2021). Quality of urban green spaces influences residents' use of these spaces, physical activity, and overweight/obesity. *Environmental Pollution, 271*, Article 116393. https://doi.org/10.1016/j.envpol.2020.116393

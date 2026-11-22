@@ -13,6 +13,9 @@ portals: []
 tags: [my-work]
 created:
 updated:
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

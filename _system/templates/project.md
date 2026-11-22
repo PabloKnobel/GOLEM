@@ -8,6 +8,10 @@ portals: []
 tags: [project]
 created:
 updated:
+projects: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

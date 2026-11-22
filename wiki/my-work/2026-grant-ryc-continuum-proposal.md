@@ -13,6 +13,9 @@ portals: ["[[urban-green-space-quality]]", "[[urban-nature-and-aging]]", "[[expo
 tags: [my-work, grant]
 created: 2026-11-17
 updated: 2026-11-17
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

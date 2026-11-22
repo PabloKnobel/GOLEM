@@ -1,13 +1,17 @@
 ---
 type: project
 title: "NYC bird diversity (VAFI)"
-aliases: ["VAFI", "eBird NYC", "nyc_tract_year_latent_shannon", "acoustic bird survey"]
+aliases: ["eBird NYC", "nyc_tract_year_latent_shannon", "acoustic bird survey"]
 status: active
 deadline:
 portals: ["[[urban-nature-and-aging]]"]
 tags: [project]
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-22
+projects: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

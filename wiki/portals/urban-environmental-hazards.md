@@ -1,10 +1,15 @@
 ---
 type: portal
 title: "Urban environmental hazards (air pollution, noise, heat)"
-aliases: [environmental hazards, air pollution and noise, urban environmental stressors, environmental noise, air pollution]
+aliases: [environmental hazards, air pollution and noise, urban environmental stressors]
 tags: [portal]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-22
+projects: []
+portals: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---
@@ -50,3 +55,5 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 - [[exposome-research]] · [[urban-nature-and-aging]] · [[urban-green-space-quality]]
 - [[differential-vulnerability]] · [[wtc-health-program]]
 - [[multi-exposure-analysis]]
+- Project hub: [[srtr-pm25-liver-transplant]]
+

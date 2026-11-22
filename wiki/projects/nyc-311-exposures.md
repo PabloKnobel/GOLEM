@@ -8,6 +8,10 @@ portals: ["[[urban-environmental-hazards]]", "[[exposome-research]]"]
 tags: [project]
 created: 2026-11-16
 updated: 2026-11-16
+projects: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

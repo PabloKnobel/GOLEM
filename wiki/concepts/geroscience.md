@@ -9,7 +9,7 @@ projects: []
 portals: ["[[urban-nature-and-aging]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-22
 last_verified: 2026-11-15
 confidence: high
 generated: true
@@ -41,6 +41,7 @@ superseded_by: ""
 
 ## See also
 - related: [[social-hallmarks-of-aging]] · [[frailty-index]] · [[urban-nature-and-aging]]
+- [[epigenetic-clocks]]
 
 ## References
 - Kennedy, B. K., et al. (2014). Geroscience: Linking aging to chronic disease. *Cell, 159*, 709–713.

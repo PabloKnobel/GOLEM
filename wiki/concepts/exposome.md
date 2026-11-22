@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-19
+updated: 2026-11-22
 last_verified: 2026-11-15
 confidence: high
 generated: true
@@ -53,6 +53,7 @@ superseded_by: ""
 ## See also
 - [[social-exposome]] · [[exposome-research]]
 - [[urban-environmental-hazards]] · [[dementia]]
+- [[life-course-approach]] · [[exposome-wide-association-study]] · [[blue-space]]
 
 ## References
 - Wild, C. P. (2005). Complementing the genome with an "exposome": The outstanding challenge of environmental exposure measurement in molecular epidemiology. *Cancer Epidemiology, Biomarkers & Prevention, 14*(8), 1847–1850.

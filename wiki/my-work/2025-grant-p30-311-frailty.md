@@ -13,6 +13,9 @@ portals: ["[[exposome-research]]", "[[urban-environmental-hazards]]"]
 tags: [my-work, grant]
 created: 2026-11-16
 updated: 2026-11-16
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

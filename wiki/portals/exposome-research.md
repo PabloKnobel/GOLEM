@@ -1,10 +1,15 @@
 ---
 type: portal
 title: "Exposome research"
-aliases: [exposome, urban exposome, exposomics]
+aliases: [exposomics]
 tags: [portal]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-22
+projects: []
+portals: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---
@@ -49,3 +54,5 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 - [[differential-vulnerability]]
 - [[multi-exposure-analysis]]
 - EU model projects (Pablo's grant references): [[expanse-project]] · [[stage-project]]
+- [[life-course-approach]] · [[exposome-wide-association-study]]
+

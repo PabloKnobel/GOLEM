@@ -5,6 +5,11 @@ aliases: []
 tags: [portal]
 created:
 updated:
+projects: []
+portals: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

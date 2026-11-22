@@ -9,7 +9,7 @@ projects: []
 portals: ["[[exposome-research]]", "[[urban-environmental-hazards]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-19
+updated: 2026-11-22
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -45,6 +45,7 @@ superseded_by: ""
 
 ## See also
 - related: [[exposome]] · [[social-exposome]] · [[air-pollution]]
+- [[exposome-wide-association-study]]
 
 ## References
 - Wu, J., et al. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. *Ecotoxicology and Environmental Safety, 307*, Article 119424.

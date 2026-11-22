@@ -8,6 +8,10 @@ portals: ["[[urban-nature-and-aging]]", "[[urban-green-space-quality]]"]
 tags: [project]
 created: 2026-11-16
 updated: 2026-11-16
+projects: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

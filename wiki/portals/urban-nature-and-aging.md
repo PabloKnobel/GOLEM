@@ -4,7 +4,12 @@ title: "Urban nature and healthy aging"
 aliases: [nature and aging, green space and aging, urban nature and aging]
 tags: [portal]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-22
+projects: []
+portals: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---
@@ -52,3 +57,5 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 - [[phenotypic-age]] · [[sex-and-gender-effect-modification]] · [[mount-sinai-data-warehouse]]
 - [[atherosclerotic-cardiovascular-disease]]
 - EU model project (Pablo's grant reference): [[stage-project]]
+- [[blue-space]] · [[life-course-approach]] · [[epigenetic-clocks]]
+

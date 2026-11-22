@@ -5,6 +5,11 @@ aliases: [network, people, collaborators, contacts]
 tags: [portal]
 created: 2026-11-18
 updated: 2026-11-18
+projects: []
+portals: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

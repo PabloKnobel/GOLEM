@@ -13,6 +13,9 @@ portals: ["[[urban-nature-and-aging]]", "[[exposome-research]]"]
 tags: [my-work]
 created: 2026-11-15
 updated: 2026-11-15
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

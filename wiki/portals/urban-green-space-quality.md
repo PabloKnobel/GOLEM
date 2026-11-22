@@ -4,7 +4,12 @@ title: "Urban green space quality"
 aliases: [green space quality, greenspace quality, park quality]
 tags: [portal]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-22
+projects: []
+portals: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---
@@ -54,3 +59,5 @@ LIST FROM "wiki/my-work" WHERE contains(portals, this.file.link) OR contains(por
 - [[green-space-quality-assessment]] · [[ndvi]] · [[perceived-green-space-access]] · [[green-prescription]]
 - [[sex-and-gender-effect-modification]] · [[recital]]
 - [[physical-activity]] · [[green-space-use]] · [[atherosclerotic-cardiovascular-disease]]
+- [[perceived-safety-in-green-space]] · [[barcelona-health-survey]] · [[blue-space]]
+

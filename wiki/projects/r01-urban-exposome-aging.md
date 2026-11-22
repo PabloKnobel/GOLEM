@@ -8,6 +8,10 @@ portals: ["[[exposome-research]]", "[[urban-nature-and-aging]]"]
 tags: [project]
 created: 2026-11-16
 updated: 2026-11-17
+projects: []
+last_verified:
+confidence:
+superseded_by: ""
 generated: true
 reviewed: false
 ---

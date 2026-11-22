@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Green space quality assessment"
-aliases: [green space quality, park quality audit, quality assessment tools, green space audit, multi-dimensional green space quality, NEST, NGST, POST, BRAT-DO, EARPS, RECITAL]
+aliases: [green space quality, park quality audit, quality assessment tools, green space audit, multi-dimensional green space quality, NEST, NGST, POST, BRAT-DO, EARPS]
 kind: measure
 related: ["[[ndvi]]", "[[perceived-green-space-access]]", "[[green-space-health-pathways]]"]
 part_of: []
@@ -9,7 +9,7 @@ projects: ["[[ryc-2026]]"]
 portals: ["[[urban-green-space-quality]]"]
 tags: [concept]
 created: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-22
 last_verified: 2026-11-15
 confidence: medium
 generated: true
@@ -53,6 +53,7 @@ superseded_by: ""
 
 ## See also
 - [[ndvi]] · [[perceived-green-space-access]] · [[green-space-health-pathways]] · [[bird-biodiversity]]
+- [[perceived-safety-in-green-space]]
 
 ## References
 - Knobel, P., Dadvand, P., & Maneja-Zaragoza, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. *Health & Place, 59*, Article 102198.
